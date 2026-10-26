@@ -1,0 +1,27 @@
+{
+  "changed": [
+    "src/styles/header.css",
+    "src/styles/editorial.css",
+    "src/styles/closing.css",
+    "src/data/mobile-story.ts",
+    "src/scripts/landing.ts"
+  ],
+  "unchanged": [
+    "src/scripts/cinematic-hero.ts",
+    "src/scripts/mobile-cinematic.ts",
+    "src/styles/cinematic-hero.css",
+    "src/styles/mobile-cinematic.css",
+    "src/styles/tokens.css",
+    "src/tailwind.css",
+    "astro.config.mjs",
+    "package.json",
+    "package-lock.json"
+  ],
+  "baselineScreenshots": 74,
+  "afterScreenshots": 127,
+  "overflows": [],
+  "missingImageFrames": [],
+  "pixelIdentical": 43,
+  "comparisons": 72,
+  "coverageAllIdentical": true
+}

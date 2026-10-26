@@ -1,0 +1,20 @@
+---
+import { contact } from '../data/landing';
+import Icon from './Icon.astro';
+import '../styles/closing.css';
+---
+<section id="contact" class="cooperation" aria-labelledby="contact-title">
+  <div class="shell cooperation-grid">
+    <div class="cooperation-copy">
+      <p class="closing-eyebrow"><span></span> فصل بعدی، با گفت‌وگو آغاز می‌شود</p>
+      <h2 id="contact-title">برای همکاری‌های بزرگ،<br />از یک <span class="conversation-emphasis">گفت‌وگو</span> <span class="cooperation-ending">شروع کنیم.</span></h2>
+      <p class="cooperation-description">برای ارتباط و گفت‌وگو درباره زمینه‌های همکاری با جهانرکسان موتور، با ما در تماس باشید.</p>
+    </div>
+    <div id="contact-details" class="cooperation-action" aria-label="اطلاعات تماس جهانرکسان موتور">
+      <span class="contact-channel">ارتباط مستقیم</span>
+      <a class="contact-number" href={`tel:${contact.phone}`} aria-label={`تماس با شماره ${contact.phone}`}><bdi dir="ltr">{contact.phone}</bdi></a>
+      <a class="closing-call" href={`tel:${contact.phone}`}>تماس با جهانرکسان موتور <Icon name="phone-call" size={22} /></a>
+      <p>برای شروع یک همکاری حرفه‌ای</p>
+    </div>
+  </div>
+</section>

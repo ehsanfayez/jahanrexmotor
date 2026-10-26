@@ -1,0 +1,23 @@
+{
+  "dir": "rtl",
+  "enhanced": true,
+  "fixtureTextPresent": false,
+  "font": "Vazirmatn, Tahoma, sans-serif",
+  "fontLoaded": true,
+  "lang": "fa",
+  "legacyFontToken": "Vazirmatn, Tahoma, sans-serif",
+  "motionReady": "true",
+  "numberDirections": [
+    "ltr",
+    "ltr"
+  ],
+  "overflow": false,
+  "phoneLinks": [
+    "tel:09373020028",
+    "tel:09373020028",
+    "tel:09373020028",
+    "tel:09373020028",
+    "tel:09373020028"
+  ],
+  "productionUtilityElements": 0
+}

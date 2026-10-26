@@ -1,0 +1,30 @@
+[
+  {
+    "scene": "hero",
+    "changedPixels": 127413
+  },
+  {
+    "scene": "powertrain",
+    "changedPixels": 30695
+  },
+  {
+    "scene": "brakes",
+    "changedPixels": 49706
+  },
+  {
+    "scene": "body",
+    "changedPixels": 44435
+  },
+  {
+    "scene": "cabin",
+    "changedPixels": 35866
+  },
+  {
+    "scene": "coverage",
+    "changedPixels": 0
+  },
+  {
+    "scene": "handoff",
+    "changedPixels": 0
+  }
+]

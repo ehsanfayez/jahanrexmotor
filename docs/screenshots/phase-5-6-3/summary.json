@@ -1,0 +1,31 @@
+{
+  "changed": [
+    "src/components/Hero.astro",
+    "src/components/PartSlot.astro",
+    "src/components/Coverage.astro",
+    "src/scripts/cinematic-hero.ts",
+    "src/scripts/mobile-cinematic.ts"
+  ],
+  "unchanged": [
+    "src/components/Narrative.astro",
+    "src/scripts/landing.ts",
+    "src/styles/cinematic-hero.css",
+    "src/styles/mobile-cinematic.css",
+    "src/styles/header.css",
+    "src/styles/editorial.css",
+    "src/styles/closing.css",
+    "src/styles/landing.css",
+    "src/styles/tokens.css",
+    "src/tailwind.css",
+    "astro.config.mjs",
+    "package.json",
+    "package-lock.json",
+    "public/fonts/Vazirmatn.woff2"
+  ],
+  "baselineScreenshots": 84,
+  "finalScreenshots": 128,
+  "overflowFrames": [],
+  "missingImageFrames": [],
+  "componentOriginalBytes": 17728339,
+  "component192Bytes": 293010
+}

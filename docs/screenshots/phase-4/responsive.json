@@ -1,0 +1,67 @@
+[
+  {
+    "label": "desktop-1280",
+    "enhanced": "cinematic-experience is-enhanced",
+    "font": "Vazirmatn, Tahoma, sans-serif",
+    "overflow": false,
+    "titleLineRatio": 1.0000326541274818,
+    "titleOverflow": false,
+    "titleSize": "55.68px",
+    "viewport": [
+      1280,
+      720
+    ]
+  },
+  {
+    "label": "desktop-1024",
+    "enhanced": "cinematic-experience is-enhanced",
+    "font": "Vazirmatn, Tahoma, sans-serif",
+    "overflow": false,
+    "titleLineRatio": 1.0000326541274815,
+    "titleOverflow": false,
+    "titleSize": "44.544px",
+    "viewport": [
+      1024,
+      768
+    ]
+  },
+  {
+    "label": "tablet-768",
+    "enhanced": "cinematic-experience",
+    "font": "Vazirmatn, Tahoma, sans-serif",
+    "overflow": false,
+    "titleLineRatio": 0.9999901357323232,
+    "titleOverflow": false,
+    "titleSize": "53.76px",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "label": "mobile-390",
+    "enhanced": "cinematic-experience",
+    "font": "Vazirmatn, Tahoma, sans-serif",
+    "overflow": false,
+    "titleLineRatio": 0.9999470226742956,
+    "titleOverflow": false,
+    "titleSize": "42.9px",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "label": "mobile-320",
+    "enhanced": "cinematic-experience",
+    "font": "Vazirmatn, Tahoma, sans-serif",
+    "overflow": false,
+    "titleLineRatio": 1.9999098124098125,
+    "titleOverflow": false,
+    "titleSize": "42px",
+    "viewport": [
+      320,
+      700
+    ]
+  }
+]

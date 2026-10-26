@@ -1,0 +1,62 @@
+[
+  {
+    "frame": "hero-1440.png",
+    "textRegionIdentical": false
+  },
+  {
+    "frame": "powertrain-1440.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "brakes-1440.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "body-1440.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "cabin-1440.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "hero-1280.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "powertrain-1280.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "brakes-1280.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "body-1280.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "cabin-1280.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "hero-1024.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "powertrain-1024.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "brakes-1024.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "body-1024.png",
+    "textRegionIdentical": true
+  },
+  {
+    "frame": "cabin-1024.png",
+    "textRegionIdentical": true
+  }
+]

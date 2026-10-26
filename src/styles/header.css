@@ -1,0 +1,126 @@
+/* Header presentation only; the existing menu and compact-on-scroll controller owns behavior. */
+.header[data-header] {
+  background: linear-gradient(180deg, color-mix(in srgb, var(--deep) 94%, transparent), color-mix(in srgb, var(--deep) 76%, transparent));
+  backdrop-filter: blur(18px);
+  border-bottom: 0;
+  transition: background var(--motion-ui), box-shadow var(--motion-ui);
+}
+.header[data-header].is-compact {
+  background: color-mix(in srgb, var(--deep) 94%, transparent);
+  box-shadow: 0 1px 0 color-mix(in srgb, var(--muted) 12%, transparent);
+}
+.header .header-inner {
+  height: 88px;
+  gap: 24px;
+  transition: height var(--motion-ui);
+}
+.header[data-header].is-compact .header-inner { height: 70px; }
+.header .brand { font-size: 17px; gap: 12px; font-weight: 650; line-height: 1.8; }
+.header .brand-symbol { width: 38px; height: 38px; flex-shrink: 0; }
+.header .brand small { font-size: 7px; letter-spacing: 1.8px; font-weight: 450; }
+.header .navigation { gap: 34px; font-size: 13px; font-weight: 500; }
+.header .navigation a {
+  min-height: 44px;
+  gap: 8px;
+  position: relative;
+  color: var(--secondary);
+  transition: color var(--motion-ui);
+}
+.header .navigation a:hover { color: var(--text); }
+.header .navigation .mobile-contact { display: none; }
+.header .header-cta {
+  min-height: 46px;
+  padding: 11px 16px;
+  gap: 20px;
+  background: var(--deep);
+  border: 1px solid var(--accent);
+  color: var(--text);
+  border-radius: var(--button-radius);
+  font-size: 12px;
+  font-weight: 650;
+  line-height: 1.7;
+  box-shadow: none;
+}
+.header .header-cta:hover { color: var(--text); background: color-mix(in srgb, var(--accent-depth) 19%, var(--deep)); border-color: var(--cta-hover); transform: translateY(-1px); }
+.header .header-cta > span { font-size: 19px; color: var(--cta-hover); }
+.header .header-cta > svg { color: var(--cta-hover); }
+.header .menu-toggle { display: none; }
+
+@media (min-width: 900px) and (max-width: 1100px) {
+  .header .header-inner { gap: 20px; }
+  .header .navigation { gap: 20px; }
+  .header .brand { font-size: 16px; gap: 8px; }
+  .header .header-cta { padding-inline: 13px; gap: 12px; }
+}
+@media (max-width: 899px) {
+  /* Compensate only while open; a permanent scrollbar gutter changes vw typography. */
+  html:has(.header.menu-open) { overflow: hidden; padding-right: var(--navigation-scrollbar, 0px); }
+  .header.menu-open { right: var(--navigation-scrollbar, 0px); }
+  .header .header-inner { height: 78px; gap: 16px; }
+  .header[data-header].is-compact .header-inner { height: 68px; }
+  .header .navigation {
+    display: none;
+    position: absolute;
+    inset: 100% 0 auto;
+    padding: 18px 32px 24px;
+    gap: 0;
+    flex-direction: column;
+    align-items: stretch;
+    background: var(--deep);
+    border-bottom: 1px solid var(--line);
+    max-height: calc(100svh - 78px);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+  .header .navigation.is-open { display: flex; animation: navigation-enter var(--motion-ui) ease-out; }
+  .header .navigation a {
+    min-height: 58px;
+    gap: 20px;
+    border-bottom: 1px solid var(--line);
+    font-size: 15px;
+  }
+  .header .navigation a:last-child { border-bottom: 0; }
+  .header .navigation .mobile-contact { display: flex; }
+  .header .menu-toggle {
+    display: inline-flex;
+    order: 3;
+    min-height: 44px;
+    align-items: center;
+    gap: 12px;
+    padding: 9px 13px;
+    border: 1px solid var(--line-strong);
+    border-radius: var(--button-radius);
+    background: transparent;
+    color: var(--text);
+    font-size: 12px;
+  }
+  .header .menu-symbol { display: grid; gap: 5px; width: 15px; }
+  .header .menu-symbol i { height: 1px; width: 15px; background: currentColor; display: block; transition: transform var(--motion-ui); }
+  .header .menu-toggle[aria-expanded="true"] { border-color: var(--accent); background: var(--surface); }
+  .header .menu-toggle[aria-expanded="true"] .menu-symbol i:first-child { transform: translateY(3px) rotate(45deg); }
+  .header .menu-toggle[aria-expanded="true"] .menu-symbol i:last-child { transform: translateY(-3px) rotate(-45deg); }
+  .header .header-cta { margin-inline-start: auto; font-size: 11px; gap: 12px; }
+}
+@keyframes navigation-enter {
+  from { opacity: 0; translate: 0 -6px; }
+  to { opacity: 1; translate: 0 0; }
+}
+@media (max-width: 600px) {
+  .header .header-inner { width: calc(100% - 40px); height: 76px; gap: 12px; }
+  .header[data-header].is-compact .header-inner { height: 66px; }
+  .header .brand { font-size: 16px; gap: 9px; }
+  .header .brand-symbol { width: 32px; height: 32px; }
+  .header .brand small { font-size: 6px; letter-spacing: 1.4px; }
+  .header .header-cta { display: none; }
+  .header .navigation { padding-inline: 20px; }
+  .header .menu-toggle { padding-inline: 11px; gap: 10px; }
+}
+@media (max-width: 360px) {
+  .header .brand { font-size: 14px; gap: 7px; }
+  .header .brand-symbol { width: 29px; height: 29px; }
+  .header .brand small { font-size: 5.5px; letter-spacing: 1.1px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .header .navigation.is-open { animation: none; }
+  .header .header-cta:hover, .header .header-cta:hover > span { transform: none; }
+}

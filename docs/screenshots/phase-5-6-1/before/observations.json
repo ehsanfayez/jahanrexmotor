@@ -1,0 +1,9659 @@
+[
+  {
+    "label": "hero-1440",
+    "elements": [
+      {
+        "name": "header",
+        "rect": [
+          0,
+          0,
+          1425,
+          88
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "cinematic-stage",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "composition-group powertrain-group",
+        "rect": [
+          21,
+          114.1406,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          205.8482,
+          292.9348,
+          477.5473,
+          477.5473
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(0.8611, 0, 0, 0.8611, 130.942, 89.4035)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          521.6545,
+          162.2753,
+          223.3532,
+          223.3532
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(0.8529, 0, 0, 0.8529, 15.4045, -343.85)"
+        ]
+      },
+      {
+        "name": "composition-group brakes-group",
+        "rect": [
+          21,
+          114.1406,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          67.201,
+          409.8563,
+          138.6317,
+          138.6317
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(0.2769, 0, 0, 0.2769, 23.1073, 240.7)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          398.4219,
+          471.75,
+          215.6563,
+          215.6563
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          652.5903,
+          581.7762,
+          115.5501,
+          115.55
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(0.3659, 0, 0, 0.3659, 192.559, 440.136)"
+        ]
+      },
+      {
+        "name": "composition-group body-group",
+        "rect": [
+          21,
+          114.1406,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          20.9882,
+          588.6552,
+          184.8584,
+          184.8584
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(0.3871, 0, 0, 0.3871, -38.5118, 199.436)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          475.4375,
+          114.1406,
+          292.6875,
+          292.6875
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          352.1953,
+          148.5118,
+          115.5331,
+          115.5331
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(0.6818, 0, 0, 0.6818, 254.18, -61.8944)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          590.9844,
+          444.2344,
+          154.0469,
+          154.0469
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group interior-group",
+        "rect": [
+          21,
+          114.1406,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          121.1181,
+          189.7845,
+          200.2832,
+          200.2832
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(0.4194, 0, 0, 0.4194, 69.3212, 61.8939)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          483.1406,
+          444.2344,
+          277.2813,
+          277.2813
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          216.8594,
+          570,
+          346.6406
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          273.75,
+          570,
+          100.4219
+        ],
+        "styles": [
+          "64.8px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "100.44px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          453.6719,
+          410,
+          65.0313
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          591.5,
+          570,
+          54
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          969,
+          298.3906,
+          399,
+          152.0313
+        ],
+        "styles": [
+          "47.52px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "76.032px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-description",
+        "rect": [
+          969,
+          468.4219,
+          399,
+          115.6875
+        ],
+        "styles": [
+          "14.112px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "28.9296px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.1094,
+          399,
+          94
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "grid",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 10)"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          748.125,
+          10188.0156,
+          620.875,
+          190.0313
+        ],
+        "styles": [
+          "57.6px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "95.04px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          10646.6875,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          11101.5781,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          641.2031,
+          11599.7344,
+          727.7969,
+          166.3125
+        ],
+        "styles": [
+          "50.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "83.16px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          738.8906,
+          12020.0469,
+          70.3281,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          12020.0469,
+          316.5313,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      }
+    ],
+    "fonts": "loaded",
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/engine-main-768.webp",
+        "loaded": true,
+        "rect": [
+          205.8482,
+          292.9348,
+          477.5473,
+          477.5473
+        ],
+        "src": "/images/parts/engine-main.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/gearbox-main-384.webp",
+        "loaded": true,
+        "rect": [
+          521.6545,
+          162.2753,
+          223.3532,
+          223.3532
+        ],
+        "src": "/images/parts/gearbox-main.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/brake-disc-768.webp",
+        "loaded": true,
+        "rect": [
+          67.201,
+          409.8563,
+          138.6317,
+          138.6317
+        ],
+        "src": "/images/parts/brake-disc.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/suspension-main-384.webp",
+        "loaded": true,
+        "rect": [
+          652.5903,
+          581.7762,
+          115.5501,
+          115.55
+        ],
+        "src": "/images/parts/suspension-main.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/front-bumper-768.webp",
+        "loaded": true,
+        "rect": [
+          20.9882,
+          588.6552,
+          184.8584,
+          184.8584
+        ],
+        "src": "/images/parts/front-bumper.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/headlight-main-384.webp",
+        "loaded": true,
+        "rect": [
+          352.1953,
+          148.5118,
+          115.5331,
+          115.5331
+        ],
+        "src": "/images/parts/headlight-main.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/car-seat-768.webp",
+        "loaded": true,
+        "rect": [
+          121.1181,
+          189.7845,
+          200.2832,
+          200.2832
+        ],
+        "src": "/images/parts/car-seat.png"
+      }
+    ],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "inert": false,
+        "name": "hero",
+        "opacity": "1",
+        "rect": [
+          798,
+          92,
+          570,
+          732
+        ],
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "coverage",
+        "opacity": "0",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "visibility": "hidden"
+      }
+    ],
+    "progress": 0,
+    "scroll": 0,
+    "triggerCount": null,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "powertrain-1440",
+    "elements": [
+      {
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "cinematic-stage",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "composition-group powertrain-group",
+        "rect": [
+          21,
+          114.1406,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          74.9063,
+          203.5313,
+          554.5781,
+          554.5781
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          506.25,
+          506.125,
+          261.875,
+          261.875
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group brakes-group",
+        "rect": [
+          -163.86,
+          217.2984,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, -184.86, 103.158)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -117.659,
+          513.014,
+          138.6317,
+          138.6318
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(0.2769, 0, 0, 0.2769, 23.1073, 240.7)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          213.5619,
+          574.9078,
+          215.6563,
+          215.6563
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          467.7303,
+          684.934,
+          115.5501,
+          115.5501
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(0.3659, 0, 0, 0.3659, 192.559, 440.136)"
+        ]
+      },
+      {
+        "name": "composition-group body-group",
+        "rect": [
+          -225.48,
+          244.8072,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, -246.48, 130.667)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -225.4918,
+          719.3218,
+          184.8584,
+          184.8584
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(0.3871, 0, 0, 0.3871, -38.5118, 199.436)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          228.9575,
+          244.8072,
+          292.6875,
+          292.6875
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          105.7153,
+          279.1784,
+          115.5331,
+          115.5331
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(0.6818, 0, 0, 0.6818, 254.18, -61.8944)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          344.5044,
+          574.9009,
+          154.0469,
+          154.0469
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group interior-group",
+        "rect": [
+          -287.1,
+          272.3159,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, -308.1, 158.175)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -186.9819,
+          347.9598,
+          200.2832,
+          200.2831
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(0.4194, 0, 0, 0.4194, 69.3212, 61.8939)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          175.0406,
+          602.4097,
+          277.2813,
+          277.2813
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.8594,
+          570,
+          346.6406
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.4219
+        ],
+        "styles": [
+          "64.8px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "100.44px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          423.6719,
+          410,
+          65.0313
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          561.5,
+          570,
+          54
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          185.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          259.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          440.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          680.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          969,
+          298.3906,
+          399,
+          152.0313
+        ],
+        "styles": [
+          "47.52px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "76.032px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-description",
+        "rect": [
+          969,
+          468.4219,
+          399,
+          115.6875
+        ],
+        "styles": [
+          "14.112px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "28.9296px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.1094,
+          399,
+          94
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "grid",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 10)"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          748.125,
+          8028.0156,
+          620.875,
+          190.0313
+        ],
+        "styles": [
+          "57.6px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "95.04px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          8486.6875,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          8941.5781,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          641.2031,
+          9439.7344,
+          727.7969,
+          166.3125
+        ],
+        "styles": [
+          "50.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "83.16px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          738.8906,
+          9860.0469,
+          70.3281,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          9860.0469,
+          316.5313,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      }
+    ],
+    "fonts": "loaded",
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/engine-main-768.webp",
+        "loaded": true,
+        "rect": [
+          74.9063,
+          203.5313,
+          554.5781,
+          554.5781
+        ],
+        "src": "/images/parts/engine-main.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/gearbox-main-384.webp",
+        "loaded": true,
+        "rect": [
+          506.25,
+          506.125,
+          261.875,
+          261.875
+        ],
+        "src": "/images/parts/gearbox-main.png"
+      }
+    ],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "rect": [
+          798,
+          62,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "1",
+        "rect": [
+          798,
+          92,
+          570,
+          732
+        ],
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "coverage",
+        "opacity": "0",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "visibility": "hidden"
+      }
+    ],
+    "progress": 0.24,
+    "scroll": 2160,
+    "triggerCount": null,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "brakes-1440",
+    "elements": [
+      {
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "cinematic-stage",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.6963,
+          41.9301,
+          747.1425,
+          667.0872
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -685.4072,
+          128.6391,
+          537.9408,
+          537.9408
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -267.0038,
+          422.155,
+          254.0187,
+          254.0187
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group brakes-group",
+        "rect": [
+          21,
+          114.1406,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          44.0938,
+          169.1563,
+          500.6563,
+          500.6563
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          398.4219,
+          471.75,
+          215.6563,
+          215.6563
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          460.0313,
+          141.6406,
+          315.7969,
+          315.7969
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group body-group",
+        "rect": [
+          -225.48,
+          244.8072,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, -246.48, 130.667)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -225.4918,
+          719.3218,
+          184.8584,
+          184.8584
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(0.3871, 0, 0, 0.3871, -38.5118, 199.436)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          228.9575,
+          244.8072,
+          292.6875,
+          292.6875
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          105.7153,
+          279.1784,
+          115.5331,
+          115.5331
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(0.6818, 0, 0, 0.6818, 254.18, -61.8944)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          344.5044,
+          574.9009,
+          154.0469,
+          154.0469
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group interior-group",
+        "rect": [
+          -287.1,
+          272.3159,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, -308.1, 158.175)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -186.9819,
+          347.9598,
+          200.2832,
+          200.2831
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(0.4194, 0, 0, 0.4194, 69.3212, 61.8939)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          175.0406,
+          602.4097,
+          277.2813,
+          277.2813
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.8594,
+          570,
+          346.6406
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.4219
+        ],
+        "styles": [
+          "64.8px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "100.44px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          423.6719,
+          410,
+          65.0313
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          561.5,
+          570,
+          54
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          237.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          418.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          658.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          185.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          259.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          440.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          680.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          969,
+          298.3906,
+          399,
+          152.0313
+        ],
+        "styles": [
+          "47.52px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "76.032px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-description",
+        "rect": [
+          969,
+          468.4219,
+          399,
+          115.6875
+        ],
+        "styles": [
+          "14.112px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "28.9296px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.1094,
+          399,
+          94
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "grid",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 10)"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          748.125,
+          6228.0156,
+          620.875,
+          190.0313
+        ],
+        "styles": [
+          "57.6px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "95.04px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          6686.6875,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          7141.5781,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          641.2031,
+          7639.7344,
+          727.7969,
+          166.3125
+        ],
+        "styles": [
+          "50.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "83.16px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          738.8906,
+          8060.0469,
+          70.3281,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          8060.0469,
+          316.5313,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      }
+    ],
+    "fonts": "loaded",
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/brake-disc-768.webp",
+        "loaded": true,
+        "rect": [
+          44.0938,
+          169.1563,
+          500.6563,
+          500.6563
+        ],
+        "src": "/images/parts/brake-disc.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/brake-caliper-384.webp",
+        "loaded": true,
+        "rect": [
+          398.4219,
+          471.75,
+          215.6563,
+          215.6563
+        ],
+        "src": "/images/parts/brake-caliper.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/suspension-main-384.webp",
+        "loaded": true,
+        "rect": [
+          460.0313,
+          141.6406,
+          315.7969,
+          315.7969
+        ],
+        "src": "/images/parts/suspension-main.png"
+      }
+    ],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "rect": [
+          798,
+          62,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "rect": [
+          780,
+          70,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "1",
+        "rect": [
+          798,
+          92,
+          570,
+          732
+        ],
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "coverage",
+        "opacity": "0",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "visibility": "hidden"
+      }
+    ],
+    "progress": 0.44,
+    "scroll": 3960,
+    "triggerCount": null,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "body-1440",
+    "elements": [
+      {
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "cinematic-stage",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.6963,
+          41.9301,
+          747.1425,
+          667.0872
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -685.4072,
+          128.6391,
+          537.9408,
+          537.9408
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -267.0038,
+          422.155,
+          254.0187,
+          254.0187
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group brakes-group",
+        "rect": [
+          -664.5225,
+          148.5266,
+          754.845,
+          673.9644
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -641.8906,
+          202.4419,
+          490.6431,
+          490.6432
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -294.649,
+          498.9837,
+          211.3431,
+          211.3431
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -234.2718,
+          175.4765,
+          309.4809,
+          309.481
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group body-group",
+        "rect": [
+          21,
+          114.1406,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          59.5,
+          389.2188,
+          477.5469,
+          477.5469
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          475.4375,
+          114.1406,
+          292.6875,
+          292.6875
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          98.0156,
+          210.4063,
+          169.4531,
+          169.4531
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          590.9844,
+          444.2344,
+          154.0469,
+          154.0469
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group interior-group",
+        "rect": [
+          -287.1,
+          272.3159,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, -308.1, 158.175)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -186.9819,
+          347.9598,
+          200.2832,
+          200.2831
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(0.4194, 0, 0, 0.4194, 69.3212, 61.8939)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          175.0406,
+          602.4097,
+          277.2813,
+          277.2813
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.8594,
+          570,
+          346.6406
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.4219
+        ],
+        "styles": [
+          "64.8px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "100.44px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          423.6719,
+          410,
+          65.0313
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          561.5,
+          570,
+          54
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          237.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          418.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          658.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          237.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          418.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          658.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          185.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          259.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          440.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          680.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          284.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          465.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          705.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          969,
+          298.3906,
+          399,
+          152.0313
+        ],
+        "styles": [
+          "47.52px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "76.032px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-description",
+        "rect": [
+          969,
+          468.4219,
+          399,
+          115.6875
+        ],
+        "styles": [
+          "14.112px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "28.9296px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.1094,
+          399,
+          94
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "grid",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 10)"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          748.125,
+          4428.0156,
+          620.875,
+          190.0313
+        ],
+        "styles": [
+          "57.6px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "95.04px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          4886.6875,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          5341.5781,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          641.2031,
+          5839.7344,
+          727.7969,
+          166.3125
+        ],
+        "styles": [
+          "50.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "83.16px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          738.8906,
+          6260.0469,
+          70.3281,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          6260.0469,
+          316.5313,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      }
+    ],
+    "fonts": "loaded",
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/front-bumper-768.webp",
+        "loaded": true,
+        "rect": [
+          59.5,
+          389.2188,
+          477.5469,
+          477.5469
+        ],
+        "src": "/images/parts/front-bumper.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/front-fender-384.webp",
+        "loaded": true,
+        "rect": [
+          475.4375,
+          114.1406,
+          292.6875,
+          292.6875
+        ],
+        "src": "/images/parts/front-fender.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/headlight-main-384.webp",
+        "loaded": true,
+        "rect": [
+          98.0156,
+          210.4063,
+          169.4531,
+          169.4531
+        ],
+        "src": "/images/parts/headlight-main.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/side-mirror-384.webp",
+        "loaded": true,
+        "rect": [
+          590.9844,
+          444.2344,
+          154.0469,
+          154.0469
+        ],
+        "src": "/images/parts/side-mirror.png"
+      }
+    ],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "rect": [
+          798,
+          62,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "rect": [
+          780,
+          70,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "rect": [
+          780,
+          70,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "1",
+        "rect": [
+          798,
+          92,
+          570,
+          732
+        ],
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "rect": [
+          798,
+          117,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "coverage",
+        "opacity": "0",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "visibility": "hidden"
+      }
+    ],
+    "progress": 0.64,
+    "scroll": 5760,
+    "triggerCount": null,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "cabin-1440",
+    "elements": [
+      {
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "cinematic-stage",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.6963,
+          41.9301,
+          747.1425,
+          667.0872
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -685.4072,
+          128.6391,
+          537.9408,
+          537.9408
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -267.0038,
+          422.155,
+          254.0187,
+          254.0187
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group brakes-group",
+        "rect": [
+          -664.5225,
+          148.5266,
+          754.845,
+          673.9644
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -641.8906,
+          202.4419,
+          490.6431,
+          490.6432
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -294.649,
+          498.9837,
+          211.3431,
+          211.3431
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -234.2718,
+          175.4765,
+          309.4809,
+          309.481
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group body-group",
+        "rect": [
+          -679.9275,
+          79.7547,
+          754.845,
+          673.9645
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -642.1975,
+          349.3312,
+          467.996,
+          467.9959
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -234.5787,
+          79.7547,
+          286.8337,
+          286.8338
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -604.4521,
+          174.095,
+          166.064,
+          166.0641
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -121.3428,
+          403.2466,
+          150.9659,
+          150.966
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group interior-group",
+        "rect": [
+          21,
+          114.1406,
+          770.25,
+          687.7188
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          51.7969,
+          127.8906,
+          477.5469,
+          477.5469
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          483.1406,
+          444.2344,
+          277.2813,
+          277.2813
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.8594,
+          570,
+          346.6406
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.4219
+        ],
+        "styles": [
+          "64.8px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "100.44px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          423.6719,
+          410,
+          65.0313
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          561.5,
+          570,
+          54
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          237.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          418.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          658.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          237.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          418.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          658.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          237.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          418.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          658.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          185.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          259.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          440.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          680.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          969,
+          298.3906,
+          399,
+          152.0313
+        ],
+        "styles": [
+          "47.52px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "76.032px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-description",
+        "rect": [
+          969,
+          468.4219,
+          399,
+          115.6875
+        ],
+        "styles": [
+          "14.112px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "28.9296px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.1094,
+          399,
+          94
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "grid",
+          "hidden",
+          "0",
+          "matrix(1, 0, 0, 1, 0, 10)"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          748.125,
+          2718.0156,
+          620.875,
+          190.0313
+        ],
+        "styles": [
+          "57.6px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "95.04px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          3176.6875,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          3631.5781,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          641.2031,
+          4129.7344,
+          727.7969,
+          166.3125
+        ],
+        "styles": [
+          "50.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "83.16px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          738.8906,
+          4550.0469,
+          70.3281,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          4550.0469,
+          316.5313,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      }
+    ],
+    "fonts": "loaded",
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/car-seat-768.webp",
+        "loaded": true,
+        "rect": [
+          51.7969,
+          127.8906,
+          477.5469,
+          477.5469
+        ],
+        "src": "/images/parts/car-seat.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/steering-assembly-384.webp",
+        "loaded": true,
+        "rect": [
+          483.1406,
+          444.2344,
+          277.2813,
+          277.2813
+        ],
+        "src": "/images/parts/steering-assembly.png"
+      }
+    ],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "rect": [
+          798,
+          62,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "rect": [
+          780,
+          70,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "rect": [
+          780,
+          70,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "rect": [
+          780,
+          70,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "1",
+        "rect": [
+          798,
+          92,
+          570,
+          732
+        ],
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "coverage",
+        "opacity": "0",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "visibility": "hidden"
+      }
+    ],
+    "progress": 0.83,
+    "scroll": 7470,
+    "triggerCount": null,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "coverage-1440",
+    "elements": [
+      {
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "cinematic-stage",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.6963,
+          41.9301,
+          747.1425,
+          667.0872
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -685.4072,
+          128.6391,
+          537.9408,
+          537.9408
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -267.0038,
+          422.155,
+          254.0187,
+          254.0187
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group brakes-group",
+        "rect": [
+          -664.5225,
+          148.5266,
+          754.845,
+          673.9644
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -641.8906,
+          202.4419,
+          490.6431,
+          490.6432
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -294.649,
+          498.9837,
+          211.3431,
+          211.3431
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -234.2718,
+          175.4765,
+          309.4809,
+          309.481
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group body-group",
+        "rect": [
+          -679.9275,
+          79.7547,
+          754.845,
+          673.9645
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -642.1975,
+          349.3312,
+          467.996,
+          467.9959
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -234.5787,
+          79.7547,
+          286.8337,
+          286.8338
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -604.4521,
+          174.095,
+          166.064,
+          166.0641
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -121.3428,
+          403.2466,
+          150.9659,
+          150.966
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group interior-group",
+        "rect": [
+          -109.9425,
+          72.8775,
+          754.845,
+          673.9645
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -79.7616,
+          86.3525,
+          467.996,
+          467.9959
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          342.9553,
+          396.3694,
+          271.7356,
+          271.7356
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.8594,
+          570,
+          346.6406
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.4219
+        ],
+        "styles": [
+          "64.8px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "100.44px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          423.6719,
+          410,
+          65.0313
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          561.5,
+          570,
+          54
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          237.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          418.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          658.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          237.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          418.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          658.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          237.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          418.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          658.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          161.5313,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          235.5313,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          416.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          656.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          969,
+          280.3906,
+          399,
+          152.0313
+        ],
+        "styles": [
+          "47.52px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "76.032px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-description",
+        "rect": [
+          969,
+          450.4219,
+          399,
+          115.6875
+        ],
+        "styles": [
+          "14.112px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "28.9296px",
+          "rgb(192, 200, 209)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          588.1094,
+          399,
+          94
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "grid",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          748.125,
+          1728.0156,
+          620.875,
+          190.0313
+        ],
+        "styles": [
+          "57.6px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "95.04px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          2186.6875,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          2641.5781,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          641.2031,
+          3139.7344,
+          727.7969,
+          166.3125
+        ],
+        "styles": [
+          "50.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "83.16px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          738.8906,
+          3560.0469,
+          70.3281,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          3560.0469,
+          316.5313,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      }
+    ],
+    "fonts": "loaded",
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ],
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "rect": [
+          798,
+          62,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "rect": [
+          780,
+          70,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "rect": [
+          780,
+          70,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "rect": [
+          780,
+          70,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "rect": [
+          798,
+          68,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage",
+        "opacity": "1",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "visibility": "visible"
+      }
+    ],
+    "progress": 0.94,
+    "scroll": 8460,
+    "triggerCount": null,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "handoff-1440",
+    "elements": [
+      {
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "cinematic-stage",
+        "rect": [
+          0,
+          -405,
+          1425,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.6963,
+          -363.0699,
+          747.1425,
+          667.0872
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -685.4072,
+          -276.361,
+          537.9408,
+          537.9408
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -267.0038,
+          17.155,
+          254.0187,
+          254.0187
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group brakes-group",
+        "rect": [
+          -664.5225,
+          -256.4734,
+          754.845,
+          673.9644
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -641.8906,
+          -202.5581,
+          490.6431,
+          490.6432
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -294.649,
+          93.9837,
+          211.3431,
+          211.3431
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -234.2718,
+          -229.5235,
+          309.4809,
+          309.481
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group body-group",
+        "rect": [
+          -679.9275,
+          -325.2453,
+          754.845,
+          673.9645
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -642.1975,
+          -55.6688,
+          467.996,
+          467.9959
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -234.5787,
+          -325.2453,
+          286.8337,
+          286.8338
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -604.4521,
+          -230.905,
+          166.064,
+          166.0641
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -121.3428,
+          -1.7534,
+          150.9659,
+          150.9659
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "composition-group interior-group",
+        "rect": [
+          -109.9425,
+          -332.1225,
+          754.845,
+          673.9645
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "0",
+          "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          -79.7616,
+          -318.6475,
+          467.996,
+          467.9959
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          342.9553,
+          -8.6306,
+          271.7356,
+          271.7356
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          -218.1406,
+          570,
+          346.6406
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          -161.25,
+          570,
+          100.4219
+        ],
+        "styles": [
+          "64.8px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "100.44px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          18.6719,
+          410,
+          65.0313
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          156.5,
+          570,
+          54
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          -241.4687,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          -167.4687,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          13.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          253.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          -241.4687,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          -167.4687,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          13.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          253.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          780,
+          -241.4687,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          780,
+          -167.4687,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          940,
+          13.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          780,
+          253.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-copy",
+        "rect": [
+          798,
+          -243.4687,
+          570,
+          466.9219
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          798,
+          -169.4687,
+          570,
+          162.9375
+        ],
+        "styles": [
+          "52.56px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "81.468px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "experience-description",
+        "rect": [
+          958,
+          11.4688,
+          410,
+          97.5469
+        ],
+        "styles": [
+          "15.12px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "32.508px",
+          "rgb(192, 200, 209)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "none",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "part-motion",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "panel-actions",
+        "rect": [
+          798,
+          251.4531,
+          570,
+          50
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "flex",
+          "hidden",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          -423,
+          826.5,
+          900
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, -18)"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          969,
+          -138.6094,
+          399,
+          152.0313
+        ],
+        "styles": [
+          "47.52px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "76.032px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-description",
+        "rect": [
+          969,
+          31.4219,
+          399,
+          115.6875
+        ],
+        "styles": [
+          "14.112px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "28.9296px",
+          "rgb(192, 200, 209)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          169.1094,
+          399,
+          94
+        ],
+        "styles": [
+          "14.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "30.96px",
+          "rgb(244, 245, 246)",
+          "grid",
+          "visible",
+          "1",
+          "matrix(1, 0, 0, 1, 0, 0)"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          748.125,
+          783.0156,
+          620.875,
+          190.0313
+        ],
+        "styles": [
+          "57.6px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "95.04px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          1241.6875,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          1696.5781,
+          1313,
+          64.5938
+        ],
+        "styles": [
+          "38px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "64.6px",
+          "rgb(36, 42, 48)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          641.2031,
+          2194.7344,
+          727.7969,
+          166.3125
+        ],
+        "styles": [
+          "50.4px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "83.16px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          738.8906,
+          2615.0469,
+          70.3281,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      },
+      {
+        "name": null,
+        "rect": [
+          56,
+          2615.0469,
+          316.5313,
+          23.3906
+        ],
+        "styles": [
+          "13px",
+          "Vazirmatn, Tahoma, sans-serif",
+          "23.4px",
+          "rgb(244, 245, 246)",
+          "block",
+          "visible",
+          "1",
+          "none"
+        ]
+      }
+    ],
+    "fonts": "loaded",
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "rect": [
+          0,
+          -405,
+          1425,
+          900
+        ],
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "rect": [
+          42.75,
+          -423,
+          826.5,
+          900
+        ],
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "rect": [
+          798,
+          -343,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "rect": [
+          780,
+          -335,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "rect": [
+          780,
+          -335,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "rect": [
+          780,
+          -335,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "rect": [
+          798,
+          -337,
+          570,
+          732
+        ],
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage",
+        "opacity": "1",
+        "rect": [
+          0,
+          -405,
+          1425,
+          900
+        ],
+        "visibility": "visible"
+      }
+    ],
+    "progress": 1.045,
+    "scroll": 9405,
+    "triggerCount": null,
+    "viewport": [
+      1440,
+      900
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+{
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "dpr": 1,
+    "width": 1280,
+    "height": 720,
+    "throttling": "none; localhost preview"
+  },
+  "lcp": {
+    "time": 392,
+    "url": "http://localhost:4326/images/parts/optimized/engine-main-768.webp",
+    "element": "IMG"
+  },
+  "cls": 0,
+  "longTaskBlockingMs": 27,
+  "resources": [
+    {
+      "name": "http://localhost:4326/fonts/Vazirmatn.woff2",
+      "transferSize": 111452,
+      "encodedBodySize": 111152,
+      "duration": 21.399999976158142,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/_astro/index.Bf0YJh77.css",
+      "transferSize": 11525,
+      "encodedBodySize": 11225,
+      "duration": 37.19999998807907,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/engine-main-768.webp",
+      "transferSize": 544042,
+      "encodedBodySize": 543742,
+      "duration": 36.39999997615814,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/gearbox-main-384.webp",
+      "transferSize": 122078,
+      "encodedBodySize": 121778,
+      "duration": 46.89999997615814,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/brake-disc-768.webp",
+      "transferSize": 331968,
+      "encodedBodySize": 331668,
+      "duration": 51.5,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/brake-caliper-384.webp",
+      "transferSize": 96536,
+      "encodedBodySize": 96236,
+      "duration": 58.5,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/suspension-main-384.webp",
+      "transferSize": 71632,
+      "encodedBodySize": 71332,
+      "duration": 65.19999998807907,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/front-bumper-768.webp",
+      "transferSize": 262858,
+      "encodedBodySize": 262558,
+      "duration": 74.70000004768372,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/front-fender-384.webp",
+      "transferSize": 61924,
+      "encodedBodySize": 61624,
+      "duration": 71.89999997615814,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/headlight-main-384.webp",
+      "transferSize": 100302,
+      "encodedBodySize": 100002,
+      "duration": 73.79999995231628,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/side-mirror-384.webp",
+      "transferSize": 74800,
+      "encodedBodySize": 74500,
+      "duration": 79.79999995231628,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/steering-assembly-384.webp",
+      "transferSize": 105140,
+      "encodedBodySize": 104840,
+      "duration": 82.5,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/car-seat-768.webp",
+      "transferSize": 336630,
+      "encodedBodySize": 336330,
+      "duration": 82.80000001192093,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/coverage-studio-background-1672.webp",
+      "transferSize": 136772,
+      "encodedBodySize": 136472,
+      "duration": 82.89999997615814,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/exploded-sedan-components-960.webp",
+      "transferSize": 208554,
+      "encodedBodySize": 208254,
+      "duration": 88.5,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/_astro/index.astro_astro_type_script_index_0_lang.BaihCRg6.js",
+      "transferSize": 48713,
+      "encodedBodySize": 48413,
+      "duration": 41.10000002384186,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/gearbox-main-768.webp",
+      "transferSize": 471280,
+      "encodedBodySize": 470980,
+      "duration": 122.80000001192093,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/front-fender-768.webp",
+      "transferSize": 256982,
+      "encodedBodySize": 256682,
+      "duration": 113.80000001192093,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/suspension-main-768.webp",
+      "transferSize": 270072,
+      "encodedBodySize": 269772,
+      "duration": 126.20000004768372,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/brake-caliper-768.webp",
+      "transferSize": 400764,
+      "encodedBodySize": 400464,
+      "duration": 223.30000001192093,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/side-mirror-768.webp",
+      "transferSize": 287022,
+      "encodedBodySize": 286722,
+      "duration": 147.80000001192093,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/headlight-main-768.webp",
+      "transferSize": 391988,
+      "encodedBodySize": 391688,
+      "duration": 219.39999997615814,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/images/parts/optimized/steering-assembly-768.webp",
+      "transferSize": 398408,
+      "encodedBodySize": 398108,
+      "duration": 152.19999998807907,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://localhost:4326/favicon.svg",
+      "transferSize": 480,
+      "encodedBodySize": 180,
+      "duration": 25.30000001192093,
+      "responseStatus": 200
+    }
+  ],
+  "paint": [
+    {
+      "name": "first-paint",
+      "time": 292
+    },
+    {
+      "name": "first-contentful-paint",
+      "time": 292
+    }
+  ],
+  "navigation": {
+    "duration": 464.89999997615814,
+    "transferSize": 9524
+  },
+  "elapsed": 5460.399999976158,
+  "ready": true
+}

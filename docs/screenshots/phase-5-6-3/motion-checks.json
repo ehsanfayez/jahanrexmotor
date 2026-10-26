@@ -1,0 +1,7392 @@
+[
+  {
+    "checkpoint": "handoff",
+    "elements": [
+      {
+        "font": "14px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          375,
+          66
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group body-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group interior-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          -269,
+          335,
+          193.859
+        ]
+      },
+      {
+        "font": "32.76px",
+        "name": "H1",
+        "rect": [
+          20,
+          -244,
+          335,
+          52.422
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          -25.225,
+          -50.778,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          -269,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          -234,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          -25.225,
+          -55.528,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          -269,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          -234,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          -25.225,
+          -55.528,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          -269,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          -234,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          -25.225,
+          -55.528,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          -269,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          -234,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          -25.225,
+          -55.528,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-visual",
+        "rect": [
+          20,
+          -112.266,
+          335,
+          360
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          -243.5,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-categories",
+        "rect": [
+          20,
+          357,
+          335,
+          70
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          20,
+          641,
+          335,
+          540.797
+        ]
+      },
+      {
+        "font": "35.1px",
+        "name": "H2",
+        "rect": [
+          20,
+          684.641,
+          335,
+          115.781
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          1320.984,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          1476.031,
+          143.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          1476.031,
+          142.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          1682.016,
+          143.5,
+          29.594
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          1682.016,
+          142.5,
+          29.594
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          1905.797,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          2025.047,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          2132.438,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          2239.828,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          20,
+          2458.219,
+          335,
+          469.719
+        ]
+      },
+      {
+        "font": "30px",
+        "name": "H2",
+        "rect": [
+          20,
+          2500.719,
+          335,
+          99
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "footer-grid",
+        "rect": [
+          20,
+          3036.938,
+          335,
+          488.547
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          3190.703,
+          335,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          3345.094,
+          335,
+          23.391
+        ]
+      }
+    ],
+    "h": 844,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/coverage-studio-background-1672.webp",
+        "rect": [
+          0,
+          -343,
+          375,
+          844
+        ],
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/exploded-sedan-components-480.webp",
+        "rect": [
+          20,
+          -112.266,
+          335,
+          360
+        ],
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "missing": [],
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 5238
+  },
+  {
+    "checkpoint": "coverage",
+    "elements": [
+      {
+        "font": "14px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          375,
+          66
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group body-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group interior-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          193.859
+        ]
+      },
+      {
+        "font": "32.76px",
+        "name": "H1",
+        "rect": [
+          20,
+          99,
+          335,
+          52.422
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          -25.225,
+          292.222,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-visual",
+        "rect": [
+          20,
+          244.734,
+          335,
+          360
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109.5,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-categories",
+        "rect": [
+          20,
+          710,
+          335,
+          70
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          20,
+          1278,
+          335,
+          540.797
+        ]
+      },
+      {
+        "font": "35.1px",
+        "name": "H2",
+        "rect": [
+          20,
+          1321.641,
+          335,
+          115.781
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          1957.984,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          2113.031,
+          143.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          2113.031,
+          142.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          2319.016,
+          143.5,
+          29.594
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          2319.016,
+          142.5,
+          29.594
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          2542.797,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          2662.047,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          2769.438,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          2876.828,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          20,
+          3095.219,
+          335,
+          469.719
+        ]
+      },
+      {
+        "font": "30px",
+        "name": "H2",
+        "rect": [
+          20,
+          3137.719,
+          335,
+          99
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "footer-grid",
+        "rect": [
+          20,
+          3673.938,
+          335,
+          488.547
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          3827.703,
+          335,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          3982.094,
+          335,
+          23.391
+        ]
+      }
+    ],
+    "h": 844,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/coverage-studio-background-1672.webp",
+        "rect": [
+          0,
+          0,
+          375,
+          844
+        ],
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/exploded-sedan-components-480.webp",
+        "rect": [
+          20,
+          244.734,
+          335,
+          360
+        ],
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "missing": [],
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 4601
+  },
+  {
+    "checkpoint": "cabin-coverage",
+    "elements": [
+      {
+        "font": "14px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          375,
+          66
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group body-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group interior-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          193.859
+        ]
+      },
+      {
+        "font": "32.76px",
+        "name": "H1",
+        "rect": [
+          20,
+          99,
+          335,
+          52.422
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          -25.225,
+          292.222,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          -13.659,
+          288.925,
+          327.53,
+          410.634
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-visual",
+        "rect": [
+          31.285,
+          251.299,
+          332.186,
+          356.976
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          118.999,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-categories",
+        "rect": [
+          20,
+          719.499,
+          335,
+          70
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          20,
+          1645,
+          335,
+          540.797
+        ]
+      },
+      {
+        "font": "35.1px",
+        "name": "H2",
+        "rect": [
+          20,
+          1688.641,
+          335,
+          115.781
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          2324.984,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          2480.031,
+          143.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          2480.031,
+          142.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          2686.016,
+          143.5,
+          29.594
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          2686.016,
+          142.5,
+          29.594
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          2909.797,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          3029.047,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          3136.438,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          3243.828,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          20,
+          3462.219,
+          335,
+          469.719
+        ]
+      },
+      {
+        "font": "30px",
+        "name": "H2",
+        "rect": [
+          20,
+          3504.719,
+          335,
+          99
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "footer-grid",
+        "rect": [
+          20,
+          4040.938,
+          335,
+          488.547
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          4194.703,
+          335,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          4349.094,
+          335,
+          23.391
+        ]
+      }
+    ],
+    "h": 844,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/car-seat-384.webp",
+        "rect": [
+          2.718,
+          288.925,
+          212.894,
+          212.894
+        ],
+        "src": "/images/parts/car-seat.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/steering-assembly-192.webp",
+        "rect": [
+          179.574,
+          481.914,
+          124.458,
+          124.458
+        ],
+        "src": "/images/parts/steering-assembly.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/coverage-studio-background-1672.webp",
+        "rect": [
+          0,
+          0,
+          375,
+          844
+        ],
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/exploded-sedan-components-480.webp",
+        "rect": [
+          31.285,
+          251.299,
+          332.186,
+          356.976
+        ],
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "missing": [],
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 4234
+  },
+  {
+    "checkpoint": "cabin",
+    "elements": [
+      {
+        "font": "14px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          375,
+          66
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group body-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group interior-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          193.859
+        ]
+      },
+      {
+        "font": "32.76px",
+        "name": "H1",
+        "rect": [
+          20,
+          99,
+          335,
+          52.422
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          -25.225,
+          292.222,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          86,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          20,
+          293.172,
+          335,
+          420
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-visual",
+        "rect": [
+          60.2,
+          268.134,
+          324.95,
+          349.2
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121.5,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-categories",
+        "rect": [
+          20,
+          722,
+          335,
+          70
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          20,
+          2159,
+          335,
+          540.797
+        ]
+      },
+      {
+        "font": "35.1px",
+        "name": "H2",
+        "rect": [
+          20,
+          2202.641,
+          335,
+          115.781
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          2838.984,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          2994.031,
+          143.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          2994.031,
+          142.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          3200.016,
+          143.5,
+          29.594
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          3200.016,
+          142.5,
+          29.594
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          3423.797,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          3543.047,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          3650.438,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          3757.828,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          20,
+          3976.219,
+          335,
+          469.719
+        ]
+      },
+      {
+        "font": "30px",
+        "name": "H2",
+        "rect": [
+          20,
+          4018.719,
+          335,
+          99
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "footer-grid",
+        "rect": [
+          20,
+          4554.938,
+          335,
+          488.547
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          4708.703,
+          335,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          4863.094,
+          335,
+          23.391
+        ]
+      }
+    ],
+    "h": 844,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/car-seat-384.webp",
+        "rect": [
+          36.75,
+          293.172,
+          217.75,
+          217.75
+        ],
+        "src": "/images/parts/car-seat.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/steering-assembly-192.webp",
+        "rect": [
+          217.641,
+          490.563,
+          127.297,
+          127.297
+        ],
+        "src": "/images/parts/steering-assembly.png"
+      }
+    ],
+    "missing": [],
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 3720
+  },
+  {
+    "checkpoint": "body",
+    "elements": [
+      {
+        "font": "14px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          375,
+          66
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group body-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group interior-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          193.859
+        ]
+      },
+      {
+        "font": "32.76px",
+        "name": "H1",
+        "rect": [
+          20,
+          99,
+          335,
+          52.422
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          -25.225,
+          292.222,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          86,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          20,
+          293.172,
+          335,
+          420
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-visual",
+        "rect": [
+          60.2,
+          268.134,
+          324.95,
+          349.2
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121.5,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-categories",
+        "rect": [
+          20,
+          722,
+          335,
+          70
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          20,
+          3040,
+          335,
+          540.797
+        ]
+      },
+      {
+        "font": "35.1px",
+        "name": "H2",
+        "rect": [
+          20,
+          3083.641,
+          335,
+          115.781
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          3719.984,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          3875.031,
+          143.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          3875.031,
+          142.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          4081.016,
+          143.5,
+          29.594
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          4081.016,
+          142.5,
+          29.594
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          4304.797,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          4424.047,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          4531.438,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          4638.828,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          20,
+          4857.219,
+          335,
+          469.719
+        ]
+      },
+      {
+        "font": "30px",
+        "name": "H2",
+        "rect": [
+          20,
+          4899.719,
+          335,
+          99
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "footer-grid",
+        "rect": [
+          20,
+          5435.938,
+          335,
+          488.547
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          5589.703,
+          335,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          5744.094,
+          335,
+          23.391
+        ]
+      }
+    ],
+    "h": 844,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/front-bumper-384.webp",
+        "rect": [
+          30.047,
+          377.172,
+          194.297,
+          194.297
+        ],
+        "src": "/images/parts/front-bumper.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/headlight-main-192.webp",
+        "rect": [
+          43.438,
+          293.172,
+          97.141,
+          97.141
+        ],
+        "src": "/images/parts/headlight-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/side-mirror-192.webp",
+        "rect": [
+          261.188,
+          335.172,
+          80.391,
+          80.391
+        ],
+        "src": "/images/parts/side-mirror.png"
+      }
+    ],
+    "missing": [],
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 2839
+  },
+  {
+    "checkpoint": "brakes",
+    "elements": [
+      {
+        "font": "14px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          375,
+          66
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group body-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group interior-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          193.859
+        ]
+      },
+      {
+        "font": "32.76px",
+        "name": "H1",
+        "rect": [
+          20,
+          99,
+          335,
+          52.422
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          -25.225,
+          292.222,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          109,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          -25.225,
+          287.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          86,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          20,
+          293.172,
+          335,
+          420
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-visual",
+        "rect": [
+          60.2,
+          268.134,
+          324.95,
+          349.2
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121.5,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-categories",
+        "rect": [
+          20,
+          722,
+          335,
+          70
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          20,
+          3921,
+          335,
+          540.797
+        ]
+      },
+      {
+        "font": "35.1px",
+        "name": "H2",
+        "rect": [
+          20,
+          3964.641,
+          335,
+          115.781
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          4600.984,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          4756.031,
+          143.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          4756.031,
+          142.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          4962.016,
+          143.5,
+          29.594
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          4962.016,
+          142.5,
+          29.594
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          5185.797,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          5305.047,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          5412.438,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          5519.828,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          20,
+          5738.219,
+          335,
+          469.719
+        ]
+      },
+      {
+        "font": "30px",
+        "name": "H2",
+        "rect": [
+          20,
+          5780.719,
+          335,
+          99
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "footer-grid",
+        "rect": [
+          20,
+          6316.938,
+          335,
+          488.547
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          6470.703,
+          335,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          6625.094,
+          335,
+          23.391
+        ]
+      }
+    ],
+    "h": 844,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/brake-disc-384.webp",
+        "rect": [
+          30.047,
+          314.172,
+          204.344,
+          204.344
+        ],
+        "src": "/images/parts/brake-disc.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/brake-caliper-192.webp",
+        "rect": [
+          194.188,
+          515.766,
+          93.797,
+          93.797
+        ],
+        "src": "/images/parts/brake-caliper.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/suspension-main-192.webp",
+        "rect": [
+          247.797,
+          309.969,
+          97.141,
+          97.141
+        ],
+        "src": "/images/parts/suspension-main.png"
+      }
+    ],
+    "missing": [],
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 1958
+  },
+  {
+    "checkpoint": "powertrain",
+    "elements": [
+      {
+        "font": "14px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          375,
+          66
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group body-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group interior-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          74,
+          335,
+          193.859
+        ]
+      },
+      {
+        "font": "32.76px",
+        "name": "H1",
+        "rect": [
+          20,
+          99,
+          335,
+          52.422
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          -25.225,
+          292.222,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          86,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          20,
+          293.172,
+          335,
+          420
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-visual",
+        "rect": [
+          60.2,
+          268.134,
+          324.95,
+          349.2
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121.5,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-categories",
+        "rect": [
+          20,
+          722,
+          335,
+          70
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          20,
+          4802,
+          335,
+          540.797
+        ]
+      },
+      {
+        "font": "35.1px",
+        "name": "H2",
+        "rect": [
+          20,
+          4845.641,
+          335,
+          115.781
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          5481.984,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          5637.031,
+          143.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          5637.031,
+          142.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          5843.016,
+          143.5,
+          29.594
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          5843.016,
+          142.5,
+          29.594
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          6066.797,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          6186.047,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          6293.438,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          6400.828,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          20,
+          6619.219,
+          335,
+          469.719
+        ]
+      },
+      {
+        "font": "30px",
+        "name": "H2",
+        "rect": [
+          20,
+          6661.719,
+          335,
+          99
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "footer-grid",
+        "rect": [
+          20,
+          7197.938,
+          335,
+          488.547
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          7351.703,
+          335,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          7506.094,
+          335,
+          23.391
+        ]
+      }
+    ],
+    "h": 844,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/engine-main-384.webp",
+        "rect": [
+          30.047,
+          309.969,
+          221.094,
+          221.094
+        ],
+        "src": "/images/parts/engine-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/gearbox-main-192.webp",
+        "rect": [
+          247.797,
+          536.766,
+          100.5,
+          100.5
+        ],
+        "src": "/images/parts/gearbox-main.png"
+      }
+    ],
+    "missing": [],
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 1077
+  },
+  {
+    "checkpoint": "hero",
+    "elements": [
+      {
+        "font": "14px",
+        "name": "header",
+        "rect": [
+          0,
+          0,
+          375,
+          76
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group body-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group interior-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          86,
+          335,
+          193.859
+        ]
+      },
+      {
+        "font": "32.76px",
+        "name": "H1",
+        "rect": [
+          20,
+          111,
+          335,
+          52.422
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          20,
+          297.922,
+          335,
+          420
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-visual",
+        "rect": [
+          60.2,
+          268.134,
+          324.95,
+          349.2
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121.5,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-categories",
+        "rect": [
+          20,
+          722,
+          335,
+          70
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          20,
+          5879,
+          335,
+          540.797
+        ]
+      },
+      {
+        "font": "35.1px",
+        "name": "H2",
+        "rect": [
+          20,
+          5922.641,
+          335,
+          115.781
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          6558.984,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          6714.031,
+          143.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          6714.031,
+          142.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          6920.016,
+          143.5,
+          29.594
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          6920.016,
+          142.5,
+          29.594
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          7143.797,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          7263.047,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          7370.438,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          7477.828,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          20,
+          7696.219,
+          335,
+          469.719
+        ]
+      },
+      {
+        "font": "30px",
+        "name": "H2",
+        "rect": [
+          20,
+          7738.719,
+          335,
+          99
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "footer-grid",
+        "rect": [
+          20,
+          8274.938,
+          335,
+          488.547
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          8428.703,
+          335,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          8583.094,
+          335,
+          23.391
+        ]
+      }
+    ],
+    "h": 844,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/engine-main-384.webp",
+        "rect": [
+          127.188,
+          348.313,
+          207.688,
+          207.688
+        ],
+        "src": "/images/parts/engine-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/front-bumper-384.webp",
+        "rect": [
+          20,
+          528.922,
+          107.188,
+          107.188
+        ],
+        "src": "/images/parts/front-bumper.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/car-seat-384.webp",
+        "rect": [
+          26.688,
+          297.922,
+          83.75,
+          83.75
+        ],
+        "src": "/images/parts/car-seat.png"
+      }
+    ],
+    "missing": [],
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "scene": "hero",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 0
+  },
+  {
+    "checkpoint": "handoff",
+    "elements": [
+      {
+        "font": "14.4px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.696,
+          -588.07,
+          747.143,
+          667.087
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          -664.522,
+          -481.473,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group body-group",
+        "rect": [
+          -679.927,
+          -550.245,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group interior-group",
+        "rect": [
+          -109.943,
+          -557.123,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          -443.141,
+          570,
+          346.641
+        ]
+      },
+      {
+        "font": "64.8px",
+        "name": "H1",
+        "rect": [
+          798,
+          -386.25,
+          570,
+          100.422
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          -466.469,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          -392.469,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          -466.469,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          -392.469,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          -466.469,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          -392.469,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          -468.469,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          -394.469,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          -648,
+          826.5,
+          900
+        ]
+      },
+      {
+        "font": "47.52px",
+        "name": "H2",
+        "rect": [
+          969,
+          -363.609,
+          399,
+          152.031
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          -55.891,
+          399,
+          94
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          56,
+          489.594,
+          1313,
+          324.094
+        ]
+      },
+      {
+        "font": "57.6px",
+        "name": "H2",
+        "rect": [
+          748.125,
+          558.016,
+          620.875,
+          190.031
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          1016.688,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          1064.75,
+          1212.281,
+          280.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          736.5,
+          1212.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          408.25,
+          1212.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          80,
+          1212.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          1471.578,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          961.344,
+          1651.938,
+          377.656,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          523.672,
+          1651.938,
+          376.672,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          86.016,
+          1651.938,
+          376.656,
+          36
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          56,
+          1918.938,
+          1313,
+          302.109
+        ]
+      },
+      {
+        "font": "50.4px",
+        "name": "H2",
+        "rect": [
+          641.203,
+          1969.734,
+          727.797,
+          166.313
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "footer-grid",
+        "rect": [
+          56,
+          2390.047,
+          1313,
+          214.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          738.891,
+          2390.047,
+          70.328,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          56,
+          2390.047,
+          316.531,
+          23.391
+        ]
+      }
+    ],
+    "h": 900,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/coverage-studio-background-1672.webp",
+        "rect": [
+          0,
+          -630,
+          1425,
+          900
+        ],
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/exploded-sedan-components-960.webp",
+        "rect": [
+          42.75,
+          -648,
+          826.5,
+          900
+        ],
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "missing": [],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 9630
+  },
+  {
+    "checkpoint": "coverage",
+    "elements": [
+      {
+        "font": "14.4px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.696,
+          41.93,
+          747.143,
+          667.087
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          -664.522,
+          148.527,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group body-group",
+        "rect": [
+          -679.927,
+          79.755,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group interior-group",
+        "rect": [
+          -109.943,
+          72.877,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.859,
+          570,
+          346.641
+        ]
+      },
+      {
+        "font": "64.8px",
+        "name": "H1",
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.422
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          161.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          235.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ]
+      },
+      {
+        "font": "47.52px",
+        "name": "H2",
+        "rect": [
+          969,
+          280.391,
+          399,
+          152.031
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          588.109,
+          399,
+          94
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          56,
+          1659.594,
+          1313,
+          324.094
+        ]
+      },
+      {
+        "font": "57.6px",
+        "name": "H2",
+        "rect": [
+          748.125,
+          1728.016,
+          620.875,
+          190.031
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          2186.688,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          1064.75,
+          2382.281,
+          280.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          736.5,
+          2382.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          408.25,
+          2382.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          80,
+          2382.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          2641.578,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          961.344,
+          2821.938,
+          377.656,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          523.672,
+          2821.938,
+          376.672,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          86.016,
+          2821.938,
+          376.656,
+          36
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          56,
+          3088.938,
+          1313,
+          302.109
+        ]
+      },
+      {
+        "font": "50.4px",
+        "name": "H2",
+        "rect": [
+          641.203,
+          3139.734,
+          727.797,
+          166.313
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "footer-grid",
+        "rect": [
+          56,
+          3560.047,
+          1313,
+          214.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          738.891,
+          3560.047,
+          70.328,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          56,
+          3560.047,
+          316.531,
+          23.391
+        ]
+      }
+    ],
+    "h": 900,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/coverage-studio-background-1672.webp",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/exploded-sedan-components-960.webp",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ],
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "missing": [],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 8460
+  },
+  {
+    "checkpoint": "cabin-coverage",
+    "elements": [
+      {
+        "font": "14.4px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.696,
+          41.93,
+          747.143,
+          667.087
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          -664.522,
+          148.527,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group body-group",
+        "rect": [
+          -679.927,
+          79.755,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group interior-group",
+        "rect": [
+          -44.471,
+          93.509,
+          762.547,
+          680.842
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.859,
+          570,
+          346.641
+        ]
+      },
+      {
+        "font": "64.8px",
+        "name": "H1",
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.422
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          166.331,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          240.331,
+          570,
+          162.937
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-visual",
+        "rect": [
+          35.806,
+          3.14,
+          843.691,
+          918.72
+        ]
+      },
+      {
+        "font": "47.52px",
+        "name": "H2",
+        "rect": [
+          969,
+          298.391,
+          399,
+          152.031
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.109,
+          399,
+          94
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          56,
+          2289.594,
+          1313,
+          324.094
+        ]
+      },
+      {
+        "font": "57.6px",
+        "name": "H2",
+        "rect": [
+          748.125,
+          2358.016,
+          620.875,
+          190.031
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          2816.688,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          1064.75,
+          3012.281,
+          280.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          736.5,
+          3012.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          408.25,
+          3012.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          80,
+          3012.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          3271.578,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          961.344,
+          3451.938,
+          377.656,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          523.672,
+          3451.938,
+          376.672,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          86.016,
+          3451.938,
+          376.656,
+          36
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          56,
+          3718.938,
+          1313,
+          302.109
+        ]
+      },
+      {
+        "font": "50.4px",
+        "name": "H2",
+        "rect": [
+          641.203,
+          3769.734,
+          727.797,
+          166.313
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "footer-grid",
+        "rect": [
+          56,
+          4190.047,
+          1313,
+          214.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          738.891,
+          4190.047,
+          70.328,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          56,
+          4190.047,
+          316.531,
+          23.391
+        ]
+      }
+    ],
+    "h": 900,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/car-seat-768.webp",
+        "rect": [
+          -13.982,
+          107.122,
+          472.771,
+          472.771
+        ],
+        "src": "/images/parts/car-seat.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/steering-assembly-384.webp",
+        "rect": [
+          413.048,
+          420.302,
+          274.508,
+          274.508
+        ],
+        "src": "/images/parts/steering-assembly.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/coverage-studio-background-1672.webp",
+        "rect": [
+          0,
+          0,
+          1425,
+          900
+        ],
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/exploded-sedan-components-960.webp",
+        "rect": [
+          35.806,
+          3.14,
+          843.691,
+          918.72
+        ],
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "missing": [],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0.2"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0.125"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 7830
+  },
+  {
+    "checkpoint": "cabin",
+    "elements": [
+      {
+        "font": "14.4px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.696,
+          41.93,
+          747.143,
+          667.087
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          -664.522,
+          148.527,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group body-group",
+        "rect": [
+          -679.927,
+          79.755,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group interior-group",
+        "rect": [
+          21,
+          114.141,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.859,
+          570,
+          346.641
+        ]
+      },
+      {
+        "font": "64.8px",
+        "name": "H1",
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.422
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          185.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          259.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ]
+      },
+      {
+        "font": "47.52px",
+        "name": "H2",
+        "rect": [
+          969,
+          298.391,
+          399,
+          152.031
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.109,
+          399,
+          94
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          56,
+          2649.594,
+          1313,
+          324.094
+        ]
+      },
+      {
+        "font": "57.6px",
+        "name": "H2",
+        "rect": [
+          748.125,
+          2718.016,
+          620.875,
+          190.031
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          3176.688,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          1064.75,
+          3372.281,
+          280.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          736.5,
+          3372.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          408.25,
+          3372.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          80,
+          3372.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          3631.578,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          961.344,
+          3811.938,
+          377.656,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          523.672,
+          3811.938,
+          376.672,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          86.016,
+          3811.938,
+          376.656,
+          36
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          56,
+          4078.938,
+          1313,
+          302.109
+        ]
+      },
+      {
+        "font": "50.4px",
+        "name": "H2",
+        "rect": [
+          641.203,
+          4129.734,
+          727.797,
+          166.313
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "footer-grid",
+        "rect": [
+          56,
+          4550.047,
+          1313,
+          214.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          738.891,
+          4550.047,
+          70.328,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          56,
+          4550.047,
+          316.531,
+          23.391
+        ]
+      }
+    ],
+    "h": 900,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/car-seat-768.webp",
+        "rect": [
+          51.797,
+          127.891,
+          477.547,
+          477.547
+        ],
+        "src": "/images/parts/car-seat.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/steering-assembly-384.webp",
+        "rect": [
+          483.141,
+          444.234,
+          277.281,
+          277.281
+        ],
+        "src": "/images/parts/steering-assembly.png"
+      }
+    ],
+    "missing": [],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 7470
+  },
+  {
+    "checkpoint": "body",
+    "elements": [
+      {
+        "font": "14.4px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.696,
+          41.93,
+          747.143,
+          667.087
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          -664.522,
+          148.527,
+          754.845,
+          673.964
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group body-group",
+        "rect": [
+          21,
+          114.141,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group interior-group",
+        "rect": [
+          -287.1,
+          272.316,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.859,
+          570,
+          346.641
+        ]
+      },
+      {
+        "font": "64.8px",
+        "name": "H1",
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.422
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          185.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          259.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ]
+      },
+      {
+        "font": "47.52px",
+        "name": "H2",
+        "rect": [
+          969,
+          298.391,
+          399,
+          152.031
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.109,
+          399,
+          94
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          56,
+          4359.594,
+          1313,
+          324.094
+        ]
+      },
+      {
+        "font": "57.6px",
+        "name": "H2",
+        "rect": [
+          748.125,
+          4428.016,
+          620.875,
+          190.031
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          4886.688,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          1064.75,
+          5082.281,
+          280.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          736.5,
+          5082.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          408.25,
+          5082.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          80,
+          5082.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          5341.578,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          961.344,
+          5521.938,
+          377.656,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          523.672,
+          5521.938,
+          376.672,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          86.016,
+          5521.938,
+          376.656,
+          36
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          56,
+          5788.938,
+          1313,
+          302.109
+        ]
+      },
+      {
+        "font": "50.4px",
+        "name": "H2",
+        "rect": [
+          641.203,
+          5839.734,
+          727.797,
+          166.313
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "footer-grid",
+        "rect": [
+          56,
+          6260.047,
+          1313,
+          214.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          738.891,
+          6260.047,
+          70.328,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          56,
+          6260.047,
+          316.531,
+          23.391
+        ]
+      }
+    ],
+    "h": 900,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/front-bumper-768.webp",
+        "rect": [
+          59.5,
+          389.219,
+          477.547,
+          477.547
+        ],
+        "src": "/images/parts/front-bumper.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/front-fender-384.webp",
+        "rect": [
+          475.438,
+          114.141,
+          292.688,
+          292.688
+        ],
+        "src": "/images/parts/front-fender.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/headlight-main-192.webp",
+        "rect": [
+          98.016,
+          210.406,
+          169.453,
+          169.453
+        ],
+        "src": "/images/parts/headlight-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/side-mirror-192.webp",
+        "rect": [
+          590.984,
+          444.234,
+          154.047,
+          154.047
+        ],
+        "src": "/images/parts/side-mirror.png"
+      }
+    ],
+    "missing": [],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 5760
+  },
+  {
+    "checkpoint": "brakes",
+    "elements": [
+      {
+        "font": "14.4px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          -737.696,
+          41.93,
+          747.143,
+          667.087
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          21,
+          114.141,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group body-group",
+        "rect": [
+          -225.48,
+          244.807,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group interior-group",
+        "rect": [
+          -287.1,
+          272.316,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.859,
+          570,
+          346.641
+        ]
+      },
+      {
+        "font": "64.8px",
+        "name": "H1",
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.422
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          780,
+          163.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          780,
+          237.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          185.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          259.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ]
+      },
+      {
+        "font": "47.52px",
+        "name": "H2",
+        "rect": [
+          969,
+          298.391,
+          399,
+          152.031
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.109,
+          399,
+          94
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          56,
+          6159.594,
+          1313,
+          324.094
+        ]
+      },
+      {
+        "font": "57.6px",
+        "name": "H2",
+        "rect": [
+          748.125,
+          6228.016,
+          620.875,
+          190.031
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          6686.688,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          1064.75,
+          6882.281,
+          280.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          736.5,
+          6882.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          408.25,
+          6882.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          80,
+          6882.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          7141.578,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          961.344,
+          7321.938,
+          377.656,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          523.672,
+          7321.938,
+          376.672,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          86.016,
+          7321.938,
+          376.656,
+          36
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          56,
+          7588.938,
+          1313,
+          302.109
+        ]
+      },
+      {
+        "font": "50.4px",
+        "name": "H2",
+        "rect": [
+          641.203,
+          7639.734,
+          727.797,
+          166.313
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "footer-grid",
+        "rect": [
+          56,
+          8060.047,
+          1313,
+          214.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          738.891,
+          8060.047,
+          70.328,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          56,
+          8060.047,
+          316.531,
+          23.391
+        ]
+      }
+    ],
+    "h": 900,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/brake-disc-768.webp",
+        "rect": [
+          44.094,
+          169.156,
+          500.656,
+          500.656
+        ],
+        "src": "/images/parts/brake-disc.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/brake-caliper-384.webp",
+        "rect": [
+          398.422,
+          471.75,
+          215.656,
+          215.656
+        ],
+        "src": "/images/parts/brake-caliper.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/suspension-main-384.webp",
+        "rect": [
+          460.031,
+          141.641,
+          315.797,
+          315.797
+        ],
+        "src": "/images/parts/suspension-main.png"
+      }
+    ],
+    "missing": [],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 3960
+  },
+  {
+    "checkpoint": "powertrain",
+    "elements": [
+      {
+        "font": "14.4px",
+        "name": "header is-compact",
+        "rect": [
+          0,
+          0,
+          1425,
+          70
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          21,
+          114.141,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          -163.86,
+          217.298,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group body-group",
+        "rect": [
+          -225.48,
+          244.807,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group interior-group",
+        "rect": [
+          -287.1,
+          272.316,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          186.859,
+          570,
+          346.641
+        ]
+      },
+      {
+        "font": "64.8px",
+        "name": "H1",
+        "rect": [
+          798,
+          243.75,
+          570,
+          100.422
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          185.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          259.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ]
+      },
+      {
+        "font": "47.52px",
+        "name": "H2",
+        "rect": [
+          969,
+          298.391,
+          399,
+          152.031
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.109,
+          399,
+          94
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          56,
+          7959.594,
+          1313,
+          324.094
+        ]
+      },
+      {
+        "font": "57.6px",
+        "name": "H2",
+        "rect": [
+          748.125,
+          8028.016,
+          620.875,
+          190.031
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          8486.688,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          1064.75,
+          8682.281,
+          280.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          736.5,
+          8682.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          408.25,
+          8682.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          80,
+          8682.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          8941.578,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          961.344,
+          9121.938,
+          377.656,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          523.672,
+          9121.938,
+          376.672,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          86.016,
+          9121.938,
+          376.656,
+          36
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          56,
+          9388.938,
+          1313,
+          302.109
+        ]
+      },
+      {
+        "font": "50.4px",
+        "name": "H2",
+        "rect": [
+          641.203,
+          9439.734,
+          727.797,
+          166.313
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "footer-grid",
+        "rect": [
+          56,
+          9860.047,
+          1313,
+          214.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          738.891,
+          9860.047,
+          70.328,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          56,
+          9860.047,
+          316.531,
+          23.391
+        ]
+      }
+    ],
+    "h": 900,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/engine-main-768.webp",
+        "rect": [
+          74.906,
+          203.531,
+          554.578,
+          554.578
+        ],
+        "src": "/images/parts/engine-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/gearbox-main-384.webp",
+        "rect": [
+          506.25,
+          506.125,
+          261.875,
+          261.875
+        ],
+        "src": "/images/parts/gearbox-main.png"
+      }
+    ],
+    "missing": [],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 2160
+  },
+  {
+    "checkpoint": "hero",
+    "elements": [
+      {
+        "font": "14.4px",
+        "name": "header",
+        "rect": [
+          0,
+          0,
+          1425,
+          88
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          21,
+          114.141,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          21,
+          114.141,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group body-group",
+        "rect": [
+          21,
+          114.141,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "composition-group interior-group",
+        "rect": [
+          21,
+          114.141,
+          770.25,
+          687.719
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          216.859,
+          570,
+          346.641
+        ]
+      },
+      {
+        "font": "64.8px",
+        "name": "H1",
+        "rect": [
+          798,
+          273.75,
+          570,
+          100.422
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-copy",
+        "rect": [
+          798,
+          210.531,
+          570,
+          466.922
+        ]
+      },
+      {
+        "font": "52.56px",
+        "name": "H2",
+        "rect": [
+          798,
+          284.531,
+          570,
+          162.938
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-visual",
+        "rect": [
+          42.75,
+          0,
+          826.5,
+          900
+        ]
+      },
+      {
+        "font": "47.52px",
+        "name": "H2",
+        "rect": [
+          969,
+          298.391,
+          399,
+          152.031
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "coverage-categories",
+        "rect": [
+          969,
+          616.109,
+          399,
+          94
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          56,
+          10119.594,
+          1313,
+          324.094
+        ]
+      },
+      {
+        "font": "57.6px",
+        "name": "H2",
+        "rect": [
+          748.125,
+          10188.016,
+          620.875,
+          190.031
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          10646.688,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          1064.75,
+          10842.281,
+          280.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          736.5,
+          10842.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          408.25,
+          10842.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          80,
+          10842.281,
+          279.25,
+          33.297
+        ]
+      },
+      {
+        "font": "38px",
+        "name": "H2",
+        "rect": [
+          56,
+          11101.578,
+          1313,
+          64.594
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          961.344,
+          11281.938,
+          377.656,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          523.672,
+          11281.938,
+          376.672,
+          36
+        ]
+      },
+      {
+        "font": "20px",
+        "name": "H3",
+        "rect": [
+          86.016,
+          11281.938,
+          376.656,
+          36
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          56,
+          11548.938,
+          1313,
+          302.109
+        ]
+      },
+      {
+        "font": "50.4px",
+        "name": "H2",
+        "rect": [
+          641.203,
+          11599.734,
+          727.797,
+          166.313
+        ]
+      },
+      {
+        "font": "14.4px",
+        "name": "footer-grid",
+        "rect": [
+          56,
+          12020.047,
+          1313,
+          214.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          738.891,
+          12020.047,
+          70.328,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          56,
+          12020.047,
+          316.531,
+          23.391
+        ]
+      }
+    ],
+    "h": 900,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/engine-main-768.webp",
+        "rect": [
+          205.848,
+          292.935,
+          477.547,
+          477.547
+        ],
+        "src": "/images/parts/engine-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/gearbox-main-384.webp",
+        "rect": [
+          521.655,
+          162.277,
+          223.353,
+          223.353
+        ],
+        "src": "/images/parts/gearbox-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/brake-disc-768.webp",
+        "rect": [
+          67.201,
+          409.856,
+          138.632,
+          138.632
+        ],
+        "src": "/images/parts/brake-disc.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/suspension-main-384.webp",
+        "rect": [
+          652.59,
+          581.776,
+          115.55,
+          115.55
+        ],
+        "src": "/images/parts/suspension-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/front-bumper-768.webp",
+        "rect": [
+          20.988,
+          588.655,
+          184.858,
+          184.858
+        ],
+        "src": "/images/parts/front-bumper.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/headlight-main-192.webp",
+        "rect": [
+          352.195,
+          148.512,
+          115.533,
+          115.533
+        ],
+        "src": "/images/parts/headlight-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/car-seat-768.webp",
+        "rect": [
+          121.118,
+          189.785,
+          200.283,
+          200.283
+        ],
+        "src": "/images/parts/car-seat.png"
+      }
+    ],
+    "missing": [],
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 0
+  }
+]

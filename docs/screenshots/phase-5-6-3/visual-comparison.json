@@ -1,0 +1,590 @@
+[
+  {
+    "label": "hero-1440",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "powertrain-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "brakes-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "body-1440",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "cabin-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "coverage-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "handoff-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "about-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "why-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "principles-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "contact-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "footer-1440",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "hero-1280",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 3
+  },
+  {
+    "label": "powertrain-1280",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "brakes-1280",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "body-1280",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 3
+  },
+  {
+    "label": "cabin-1280",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "coverage-1280",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "handoff-1280",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "about-1280",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "why-1280",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "principles-1280",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "contact-1280",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "footer-1280",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "hero-1024",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 3
+  },
+  {
+    "label": "powertrain-1024",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "brakes-1024",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "body-1024",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 3
+  },
+  {
+    "label": "cabin-1024",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "coverage-1024",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "handoff-1024",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "about-1024",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "why-1024",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "principles-1024",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "contact-1024",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "footer-1024",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "hero-768",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "powertrain-768",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "brakes-768",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "body-768",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "cabin-768",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "coverage-768",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "handoff-768",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "about-768",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "why-768",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "principles-768",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "contact-768",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "footer-768",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "hero-430",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "powertrain-430",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "brakes-430",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "body-430",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "cabin-430",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "coverage-430",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "handoff-430",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "about-430",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "why-430",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "principles-430",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "contact-430",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "footer-430",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "hero-390",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "powertrain-390",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "brakes-390",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "body-390",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "cabin-390",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "coverage-390",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "handoff-390",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "about-390",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "why-390",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "principles-390",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "contact-390",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "footer-390",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "hero-320",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "powertrain-320",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "brakes-320",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "body-320",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 2
+  },
+  {
+    "label": "cabin-320",
+    "pixelIdentical": false,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 1
+  },
+  {
+    "label": "coverage-320",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "handoff-320",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "about-320",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "why-320",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "principles-320",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "contact-320",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  },
+  {
+    "label": "footer-320",
+    "pixelIdentical": true,
+    "maxRectDifference": 0,
+    "fontSizesEqual": true,
+    "imageSelectionChanges": 0
+  }
+]

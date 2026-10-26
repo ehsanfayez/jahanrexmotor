@@ -1,0 +1,24 @@
+{
+  "originalSha256": "6c099cb8a3d4adeb7865dacaba0fa77f5ac94a01b28121836199c9297da0ee6c",
+  "originalUnchanged": true,
+  "originalBytes": 2528902,
+  "imageElements": 1,
+  "categories": 4,
+  "icons": 4,
+  "actions": 0,
+  "exactPhoneLinks": true,
+  "optimized": [
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-coverage-960.webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 112508
+    },
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-coverage-1672.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 294842
+    }
+  ]
+}

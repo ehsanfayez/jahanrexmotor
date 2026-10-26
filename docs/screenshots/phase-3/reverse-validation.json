@@ -1,0 +1,161 @@
+{
+  "match": true,
+  "forward": {
+    "groups": [
+      {
+        "matrix": "matrix(0.9682, 0, 0, 0.9682, -420.982, -60.1399)",
+        "name": "powertrain",
+        "opacity": "0.4706"
+      },
+      {
+        "matrix": "matrix(0.9341, 0, 0, 0.9341, 318.075, 100.233)",
+        "name": "brakes",
+        "opacity": "0.5294"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -63.615, -120.697)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "panels": [
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0.2"
+      },
+      {
+        "inert": true,
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "parts": [
+      {
+        "matrix": "matrix(1.04, 0, 0, 1.04, -103.374, -85.1985)",
+        "name": "engine-main",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1.18, 0, 0, 1.18, -11.9273, 326.582)",
+        "name": "gearbox-main",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brake-disc",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brake-caliper",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -59.6391, -69.5789)",
+        "name": "headlight-main",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 33.3937, -11.1313)",
+        "name": "side-mirror",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -38.1656, 25.4438)",
+        "name": "suspension-main",
+        "opacity": "1"
+      }
+    ],
+    "scroll": 2340
+  },
+  "reverse": {
+    "groups": [
+      {
+        "matrix": "matrix(0.9682, 0, 0, 0.9682, -420.982, -60.1399)",
+        "name": "powertrain",
+        "opacity": "0.4706"
+      },
+      {
+        "matrix": "matrix(0.9341, 0, 0, 0.9341, 318.075, 100.233)",
+        "name": "brakes",
+        "opacity": "0.5294"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -63.615, -120.697)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "panels": [
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0.2"
+      },
+      {
+        "inert": true,
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "parts": [
+      {
+        "matrix": "matrix(1.04, 0, 0, 1.04, -103.374, -85.1985)",
+        "name": "engine-main",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1.18, 0, 0, 1.18, -11.9273, 326.582)",
+        "name": "gearbox-main",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brake-disc",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brake-caliper",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -59.6391, -69.5789)",
+        "name": "headlight-main",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 33.3937, -11.1313)",
+        "name": "side-mirror",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -38.1656, 25.4438)",
+        "name": "suspension-main",
+        "opacity": "1"
+      }
+    ],
+    "scroll": 2340
+  }
+}

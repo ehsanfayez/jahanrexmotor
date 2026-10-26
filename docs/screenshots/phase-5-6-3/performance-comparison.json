@@ -1,0 +1,66 @@
+[
+  {
+    "device": "desktop",
+    "before": {
+      "viewport": [
+        1280,
+        720
+      ],
+      "dpr": 1,
+      "lcpMs": 392,
+      "cls": 0,
+      "observedLongTaskBlockingMs": 27,
+      "resourceRequests": 24,
+      "totalTransferBytes": 5111446,
+      "imageTransferBytes": 4929752,
+      "failedResponses": []
+    },
+    "after": {
+      "viewport": [
+        1280,
+        720
+      ],
+      "dpr": 1,
+      "lcpMs": 788,
+      "cls": 0.004053900406366466,
+      "observedLongTaskBlockingMs": 581,
+      "resourceRequests": 17,
+      "totalTransferBytes": 2511293,
+      "imageTransferBytes": 2329482,
+      "failedResponses": []
+    },
+    "transferReductionPercent": 50.86922565551901
+  },
+  {
+    "device": "mobile",
+    "before": {
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 1,
+      "lcpMs": 1060,
+      "cls": 0,
+      "observedLongTaskBlockingMs": 600,
+      "resourceRequests": 17,
+      "totalTransferBytes": 1535372,
+      "imageTransferBytes": 1353678,
+      "failedResponses": []
+    },
+    "after": {
+      "viewport": [
+        390,
+        844
+      ],
+      "dpr": 1,
+      "lcpMs": 432,
+      "cls": 0.07591248722512972,
+      "observedLongTaskBlockingMs": 101,
+      "resourceRequests": 17,
+      "totalTransferBytes": 1012367,
+      "imageTransferBytes": 830556,
+      "failedResponses": []
+    },
+    "transferReductionPercent": 34.063731786172994
+  }
+]

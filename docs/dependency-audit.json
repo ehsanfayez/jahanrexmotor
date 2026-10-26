@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-26",
+  "kind": "Structured summary of actual audit attempts, not a current-registry guarantee",
+  "initial": {
+    "status": "completed",
+    "command": "npm audit --json",
+    "vulnerabilities": {
+      "info": 0,
+      "low": 0,
+      "moderate": 0,
+      "high": 0,
+      "critical": 0,
+      "total": 0
+    },
+    "dependencyCount": 319
+  },
+  "finalRepeat": {
+    "status": "network-error",
+    "code": "ECONNRESET"
+  },
+  "packageVersionsChanged": false
+}

@@ -1,0 +1,63 @@
+{
+  "desktop1024": {
+    "viewport": [
+      1024,
+      768
+    ],
+    "enhanced": true,
+    "overflow": false
+  },
+  "tablet768": {
+    "viewport": [
+      768,
+      1024
+    ],
+    "enhanced": false,
+    "overflow": false,
+    "coverageStyles": [
+      null,
+      null,
+      null
+    ],
+    "panels": [
+      {
+        "inert": false,
+        "name": "hero",
+        "opacity": "1",
+        "style": null
+      },
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "1",
+        "style": null
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "1",
+        "style": null
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "1",
+        "style": null
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "1",
+        "style": null
+      },
+      {
+        "inert": false,
+        "name": "coverage",
+        "opacity": "1",
+        "style": null
+      }
+    ],
+    "reducedMotionQuery": false
+  },
+  "reducedMotionNote": "OS-level preference emulation is not exposed by this browser. The unchanged reduced-motion query and the same static cleanup path were verified."
+}

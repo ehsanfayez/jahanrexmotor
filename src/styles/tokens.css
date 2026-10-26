@@ -1,0 +1,44 @@
+/* Shared visual tokens. Persian typography is inherited throughout the site. */
+:root {
+  --font-sans: Vazirmatn, Tahoma, sans-serif;
+  --bg: #222831;
+  --deep: #191f27;
+  --surface: #303944;
+  --text: #f4f5f6;
+  --secondary: #c0c8d1;
+  --muted: #98a5b3;
+  --accent: #c78b43;
+  --accent-depth: #b87431;
+  --cta: #d39a52;
+  --cta-hover: #e0af6b;
+  --paper: #f3f1ec;
+  --paper-soft: #f7f6f2;
+  --ink: #242a30;
+  --ink-secondary: #59616a;
+  --paper-line: rgba(36, 42, 48, .15);
+  --line: rgba(192, 200, 209, .16);
+  --line-strong: rgba(192, 200, 209, .3);
+  --button-secondary: rgba(48, 57, 68, .62);
+  --button-radius: 11px;
+  --button-height: 50px;
+  --motion-ui: 220ms;
+  --studio-metal: #79848d;
+  --studio-warm: rgba(199, 139, 67, .19);
+  --studio-cool: rgba(152, 177, 195, .15);
+  --editorial-rule: rgba(192, 200, 209, .22);
+  --editorial-kicker: 10px;
+  --shadow-button: 0 8px 20px rgba(0, 0, 0, .14);
+  --shadow-raised: 0 10px 24px rgba(0, 0, 0, .2);
+  --type-body: clamp(14px, 1vw, 16px);
+  --type-small: clamp(12px, .85vw, 13px);
+  --type-caption: 11px;
+  --type-section: clamp(34px, 3.6vw, 54px);
+  --leading-body: 2.15;
+  --leading-heading: 1.65;
+  --shell: 1320px;
+  --header: 92px;
+  color-scheme: dark;
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--text);
+}

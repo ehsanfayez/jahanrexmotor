@@ -1,0 +1,52 @@
+[
+  {
+    "foreground": "text",
+    "background": "deep",
+    "ratio": 15.19
+  },
+  {
+    "foreground": "text",
+    "background": "bg",
+    "ratio": 13.59
+  },
+  {
+    "foreground": "secondary",
+    "background": "bg",
+    "ratio": 8.77
+  },
+  {
+    "foreground": "muted",
+    "background": "surface",
+    "ratio": 4.66
+  },
+  {
+    "foreground": "accent",
+    "background": "deep",
+    "ratio": 5.69
+  },
+  {
+    "foreground": "accent",
+    "background": "bg",
+    "ratio": 5.09
+  },
+  {
+    "foreground": "cta-hover",
+    "background": "deep",
+    "ratio": 8.3
+  },
+  {
+    "foreground": "ink",
+    "background": "paper-soft",
+    "ratio": 13.4
+  },
+  {
+    "foreground": "ink-secondary",
+    "background": "paper",
+    "ratio": 5.57
+  },
+  {
+    "foreground": "accent-depth",
+    "background": "paper-soft",
+    "ratio": 3.48
+  }
+]

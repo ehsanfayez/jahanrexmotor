@@ -1,0 +1,469 @@
+{
+  "instrumentationRemoved": true,
+  "ssrError": false,
+  "title": "جهانرکسان موتور | حرکت، از جزئیات آغاز می‌شود",
+  "triggers": "1",
+  "mobile": {
+    "elements": [
+      {
+        "font": "14px",
+        "name": "header",
+        "rect": [
+          0,
+          0,
+          375,
+          76
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group powertrain-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group brakes-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group body-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "composition-group interior-group",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          86,
+          335,
+          193.859
+        ]
+      },
+      {
+        "font": "32.76px",
+        "name": "H1",
+        "rect": [
+          20,
+          111,
+          335,
+          52.422
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-hero",
+        "rect": [
+          20,
+          297.922,
+          335,
+          420
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-powertrain",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-brakes",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-body",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-copy",
+        "rect": [
+          20,
+          98,
+          335,
+          184.344
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          133,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "panel-static-visual static-interior",
+        "rect": [
+          65.225,
+          317.472,
+          324.95,
+          407.4
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-visual",
+        "rect": [
+          60.2,
+          268.134,
+          324.95,
+          349.2
+        ]
+      },
+      {
+        "font": "29.25px",
+        "name": "H2",
+        "rect": [
+          20,
+          121.5,
+          335,
+          90.656
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "coverage-categories",
+        "rect": [
+          20,
+          722,
+          335,
+          70
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell corporate-intro-grid",
+        "rect": [
+          20,
+          5879,
+          335,
+          540.797
+        ]
+      },
+      {
+        "font": "35.1px",
+        "name": "H2",
+        "rect": [
+          20,
+          5922.641,
+          335,
+          115.781
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          6558.984,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          6714.031,
+          143.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          6714.031,
+          142.5,
+          59.188
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          199.5,
+          6920.016,
+          143.5,
+          29.594
+        ]
+      },
+      {
+        "font": "16px",
+        "name": "H3",
+        "rect": [
+          32,
+          6920.016,
+          142.5,
+          29.594
+        ]
+      },
+      {
+        "font": "27px",
+        "name": "H2",
+        "rect": [
+          20,
+          7143.797,
+          335,
+          47.25
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          7263.047,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          7370.438,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "18px",
+        "name": "H3",
+        "rect": [
+          20,
+          7477.828,
+          283,
+          32.391
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "shell cooperation-grid",
+        "rect": [
+          20,
+          7696.219,
+          335,
+          469.719
+        ]
+      },
+      {
+        "font": "30px",
+        "name": "H2",
+        "rect": [
+          20,
+          7738.719,
+          335,
+          99
+        ]
+      },
+      {
+        "font": "14px",
+        "name": "footer-grid",
+        "rect": [
+          20,
+          8274.938,
+          335,
+          488.547
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          8428.703,
+          335,
+          23.391
+        ]
+      },
+      {
+        "font": "13px",
+        "name": "H2",
+        "rect": [
+          20,
+          8583.094,
+          335,
+          23.391
+        ]
+      }
+    ],
+    "h": 844,
+    "images": [
+      {
+        "current": "http://localhost:4329/images/parts/optimized/engine-main-768.webp",
+        "rect": [
+          127.188,
+          348.313,
+          207.688,
+          207.688
+        ],
+        "src": "/images/parts/engine-main.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/front-bumper-768.webp",
+        "rect": [
+          20,
+          528.922,
+          107.188,
+          107.188
+        ],
+        "src": "/images/parts/front-bumper.png"
+      },
+      {
+        "current": "http://localhost:4329/images/parts/optimized/car-seat-768.webp",
+        "rect": [
+          26.688,
+          297.922,
+          83.75,
+          83.75
+        ],
+        "src": "/images/parts/car-seat.png"
+      }
+    ],
+    "missing": [],
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "scene": "hero",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 0
+  },
+  "console": []
+}

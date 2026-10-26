@@ -1,0 +1,782 @@
+[
+  {
+    "label": "coverage-hold-1440",
+    "cabin": {
+      "matrix": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "coverage": {
+      "copyBottom": 900,
+      "copyOpacity": "1",
+      "copyTop": 0,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": true,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.94,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "cabin-hold-1440",
+    "cabin": {
+      "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "coverage": {
+      "copyBottom": 918,
+      "copyOpacity": "0",
+      "copyTop": 18,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "enhanced": true,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.83,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "cabin-departure-1440",
+    "cabin": {
+      "matrix": "matrix(0.9944, 0, 0, 0.9944, -38.9939, -13.5398)",
+      "opacity": "0.7187",
+      "visibility": "visible"
+    },
+    "coverage": {
+      "copyBottom": 918,
+      "copyOpacity": "0",
+      "copyTop": 18,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "matrix(1.0252, 0, 0, 1.0252, -8.4028, 15.125)",
+      "opacity": "0.0313",
+      "visibility": "visible"
+    },
+    "enhanced": true,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0.4"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0.0313"
+      }
+    ],
+    "progress": 0.865,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "coverage-entrance-1440",
+    "cabin": {
+      "matrix": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "coverage": {
+      "copyBottom": 910.125,
+      "copyOpacity": "0.4375",
+      "copyTop": 10.125,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "matrix(1.0075, 0, 0, 1.0075, -2.5, 4.5)",
+      "opacity": "0.875",
+      "visibility": "visible"
+    },
+    "enhanced": true,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0.875"
+      }
+    ],
+    "progress": 0.89,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "coverage-exit-1440",
+    "cabin": {
+      "matrix": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "coverage": {
+      "copyBottom": 893.2800002098083,
+      "copyOpacity": "0.784",
+      "copyTop": -6.71999979019165,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "matrix(1, 0, 0, 1, 0, -8.64)",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": true,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.987,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "corporate-entrance-1440",
+    "cabin": {
+      "matrix": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "coverage": {
+      "copyBottom": 481,
+      "copyOpacity": "0.55",
+      "copyTop": -419,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "matrix(1, 0, 0, 1, 0, -18)",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": true,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 1.045,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "coverage-hold-1280",
+    "cabin": {
+      "matrix": "matrix(0.98, 0, 0, 0.98, -107.854, -37.4489)",
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "coverage": {
+      "copyBottom": 720,
+      "copyOpacity": "1",
+      "copyTop": 0,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": true,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.94,
+    "viewport": [
+      1280,
+      720
+    ]
+  },
+  {
+    "label": "coverage-hold-1024",
+    "cabin": {
+      "matrix": "matrix(0.98, 0, 0, 0.98, -95.9625, -33.32)",
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "coverage": {
+      "copyBottom": 768,
+      "copyOpacity": "1",
+      "copyTop": 0,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": true,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.9399739583333332,
+    "viewport": [
+      1024,
+      768
+    ]
+  },
+  {
+    "label": "coverage-768",
+    "cabin": {
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "coverage": {
+      "copyBottom": 0,
+      "copyOpacity": "1",
+      "copyTop": 0,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": false,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.9828581423823683,
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "label": "coverage-390",
+    "cabin": {
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "coverage": {
+      "copyBottom": 0,
+      "copyOpacity": "1",
+      "copyTop": 0,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": false,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.9888007466168922,
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "label": "coverage-details-390",
+    "cabin": {
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "coverage": {
+      "copyBottom": 0,
+      "copyOpacity": "1",
+      "copyTop": 0,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": false,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 1.0634624358376108,
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "label": "coverage-320",
+    "cabin": {
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "coverage": {
+      "copyBottom": 0,
+      "copyOpacity": "1",
+      "copyTop": 0,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": false,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.9408602150537636,
+    "viewport": [
+      320,
+      700
+    ]
+  },
+  {
+    "label": "coverage-details-320",
+    "cabin": {
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "coverage": {
+      "copyBottom": 0,
+      "copyOpacity": "1",
+      "copyTop": 0,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": false,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 1.0192652329749103,
+    "viewport": [
+      320,
+      700
+    ]
+  },
+  {
+    "label": "coverage-details-768",
+    "cabin": {
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "coverage": {
+      "copyBottom": 0,
+      "copyOpacity": "1",
+      "copyTop": 0,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "none",
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "enhanced": false,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "coverage",
+        "opacity": "1"
+      }
+    ],
+    "progress": 1.0454783977610635,
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "label": "powertrain-regression-1440",
+    "cabin": {
+      "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "coverage": {
+      "copyBottom": 918,
+      "copyOpacity": "0",
+      "copyTop": 18,
+      "cta": 0,
+      "icons": 4,
+      "loaded": true,
+      "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "enhanced": true,
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "coverage",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.24,
+    "viewport": [
+      1440,
+      900
+    ]
+  }
+]

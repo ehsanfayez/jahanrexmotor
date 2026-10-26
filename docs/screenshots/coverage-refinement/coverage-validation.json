@@ -1,0 +1,42 @@
+{
+  "originalSha256": "3c547df9e633910c6f68a638a409c6f82d74f7441c5a662e1711fecf3fe2add7",
+  "originalUnchanged": true,
+  "originalBytes": 2317640,
+  "originalHasAlpha": true,
+  "originalAlphaRange": {
+    "min": 0,
+    "max": 255,
+    "sum": 212209645,
+    "squaresSum": 53153145655,
+    "mean": 134.877411412068,
+    "stdev": 124.86581597364115,
+    "minX": 0,
+    "minY": 144,
+    "maxX": 501,
+    "maxY": 147
+  },
+  "referencesOldArtwork": false,
+  "studioPresent": true,
+  "studioOriginalUnchanged": true,
+  "imageElements": 2,
+  "categories": 4,
+  "icons": 4,
+  "actions": 0,
+  "exactPhoneLinks": true,
+  "optimized": [
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-components-960.webp",
+      "width": 960,
+      "height": 540,
+      "hasAlpha": true,
+      "bytes": 208254
+    },
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-components-1672.webp",
+      "width": 1672,
+      "height": 941,
+      "hasAlpha": true,
+      "bytes": 497678
+    }
+  ]
+}

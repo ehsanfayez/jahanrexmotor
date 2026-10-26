@@ -1,0 +1,297 @@
+{
+  "summary": {
+    "screenshots": 40,
+    "pixelIdentical": 25,
+    "metricsIdentical": 40,
+    "changedExistingSource": [
+      "src/pages/index.astro"
+    ],
+    "onlyPageEntrypointChanged": true,
+    "unlayeredProductionCssIdentical": true,
+    "preflightNotImported": true,
+    "preflightAbsent": true,
+    "fixtureRemoved": true
+  },
+  "results": [
+    {
+      "label": "hero-1440",
+      "changedPixels": 34778,
+      "maximumChannelDifference": 18,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "powertrain-1440",
+      "changedPixels": 30695,
+      "maximumChannelDifference": 25,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "brakes-1440",
+      "changedPixels": 49706,
+      "maximumChannelDifference": 27,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "body-1440",
+      "changedPixels": 44435,
+      "maximumChannelDifference": 22,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "cabin-1440",
+      "changedPixels": 35866,
+      "maximumChannelDifference": 30,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "coverage-1440",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "handoff-1440",
+      "changedPixels": 62,
+      "maximumChannelDifference": 24,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "company-1440",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "why-1440",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "principles-1440",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "contact-1440",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "footer-1440",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "hero-1280",
+      "changedPixels": 31473,
+      "maximumChannelDifference": 38,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "powertrain-1280",
+      "changedPixels": 18283,
+      "maximumChannelDifference": 24,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "brakes-1280",
+      "changedPixels": 31112,
+      "maximumChannelDifference": 24,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "body-1280",
+      "changedPixels": 29452,
+      "maximumChannelDifference": 25,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "cabin-1280",
+      "changedPixels": 22334,
+      "maximumChannelDifference": 26,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "coverage-1280",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "handoff-1280",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "company-1280",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "why-1280",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "principles-1280",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "contact-1280",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "footer-1280",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "hero-390",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "coverage-390",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "company-390",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "why-390",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "principles-390",
+      "changedPixels": 4337,
+      "maximumChannelDifference": 146,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "contact-390",
+      "changedPixels": 4336,
+      "maximumChannelDifference": 146,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "footer-390",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "menu-390",
+      "changedPixels": 3698,
+      "maximumChannelDifference": 15,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "hero-320",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "coverage-320",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "company-320",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "why-320",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "principles-320",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "contact-320",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "footer-320",
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "menu-320",
+      "changedPixels": 1809,
+      "maximumChannelDifference": 9,
+      "metricsEqual": true,
+      "elementDifferences": []
+    }
+  ]
+}

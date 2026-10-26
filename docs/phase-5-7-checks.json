@@ -1,0 +1,106 @@
+{
+  "node": "v24.19.0",
+  "npm": "11.17.0",
+  "cleanInstall": {
+    "command": "npm ci --offline --no-audit --no-fund --cache ../offline-cache",
+    "status": "passed",
+    "packagesInstalled": 203,
+    "onlineAttempt": {
+      "status": "failed",
+      "code": "ECONNRESET"
+    },
+    "usedExistingNodeModules": false,
+    "lockfileUnchanged": true,
+    "platform": "win32",
+    "arch": "x64"
+  },
+  "tailwind": {
+    "grid": true,
+    "padding": true,
+    "spacing": true,
+    "color": true,
+    "responsive": true,
+    "hover": true,
+    "namespacedTheme": true
+  },
+  "preservation": {
+    "htmlMatchesPhase563": true,
+    "isolatedHtmlMatchesRoot": true
+  },
+  "mediaMetadata": [],
+  "development": {
+    "desktop": true,
+    "font": "Vazirmatn, Tahoma, sans-serif",
+    "fontsLoaded": "loaded",
+    "ssrError": false,
+    "title": "جهانرکسان موتور | حرکت، از جزئیات آغاز می‌شود",
+    "triggers": "1",
+    "console": []
+  },
+  "preview": {
+    "desktop": {
+      "desktop": true,
+      "font": "Vazirmatn, Tahoma, sans-serif",
+      "fonts": "loaded",
+      "overflow": false,
+      "ssrError": false,
+      "title": "جهانرکسان موتور | حرکت، از جزئیات آغاز می‌شود",
+      "triggers": "1",
+      "initialImagesNotDecoded": 20,
+      "finalImages": {
+        "deferredOrNotDecoded": 0,
+        "visibleMissing": []
+      }
+    },
+    "mobile": {
+      "brokenLinks": [],
+      "mode": "mobile",
+      "overflow": false,
+      "phones": [
+        "tel:09373020028",
+        "tel:09373020028",
+        "tel:09373020028",
+        "tel:09373020028",
+        "tel:09373020028"
+      ],
+      "scene": "powertrain",
+      "stagePosition": "sticky",
+      "triggers": "1"
+    },
+    "console": [],
+    "coverage": {
+      "fade": "linear-gradient(rgba(7, 20, 35, 0.9), rgba(7, 20, 35, 0.86) 25%, rgba(0, 0, 0, 0) 44%), linear-gradient(rgba(0, 0, 0, 0) 32%, rgba(7, 20, 35, 0.96) 56%, rgb(7, 20, 35)), linear-gradient(90deg, rgba(0, 0, 0, 0) 15%, rgba(7, 20, 35, 0.35) 30%, rgb(7, 20, 35) 82%)",
+      "scene": "coverage",
+      "sedan": "http://127.0.0.1:4330/images/parts/optimized/exploded-sedan-components-960.webp",
+      "studio": "http://127.0.0.1:4330/images/parts/optimized/coverage-studio-background-1672.webp",
+      "visibleMissing": []
+    }
+  },
+  "dependencies": {
+    "versionsChanged": [],
+    "explicitToolDependencies": {
+      "sharp": "0.35.5",
+      "postcss": "8.5.31"
+    }
+  },
+  "validation": {
+    "rootTypecheck": "passed",
+    "rootBuild": "passed",
+    "isolatedTypecheck": "passed",
+    "isolatedBuild": "passed",
+    "imageRefreshTest": "passed",
+    "productionAssets": "65 paths passed",
+    "tailwindFixtureRemoved": true
+  },
+  "cleanup": {
+    "temporaryWorkspaceRemoved": true,
+    "testServersStopped": true
+  },
+  "git": {
+    "repository": false,
+    "branch": null,
+    "remotes": [],
+    "workingTreeStatus": "not-applicable",
+    "writeOperationsPerformed": false
+  }
+}

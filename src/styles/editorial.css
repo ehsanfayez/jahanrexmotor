@@ -1,0 +1,91 @@
+/* Corporate editorial environment: open layouts, restrained rules and no photography. */
+.corporate-environment {
+  color: var(--ink);
+  background: var(--paper-soft);
+  color-scheme: light;
+}
+.corporate-environment .shell { width: min(var(--shell), calc(100% - 112px)); }
+/* The shared html scroll-padding already clears the fixed header. */
+.corporate-environment section { scroll-margin-top: 0; }
+.corporate-environment h2, .corporate-environment h3 { color: var(--ink); letter-spacing: 0; margin: 0; }
+.corporate-environment p { margin: 0; }
+.corporate-introduction { padding-block: 90px 100px; }
+.corporate-intro-grid { display: grid; grid-template-columns: 1.05fr 1fr; gap: clamp(48px, 7vw, 110px); align-items: center; }
+.corporate-eyebrow { display: flex; align-items: center; gap: 12px; color: var(--ink-secondary); font-size: 12px; font-weight: 500; }
+.corporate-eyebrow i { width: 24px; height: 2px; background: var(--accent-depth); }
+.corporate-environment .corporate-intro-heading h2 { font-size: clamp(38px, 4vw, 58px); font-weight: 650; line-height: 1.65; margin-block: 27px 20px; }
+.corporate-intro-heading h2 span { color: var(--ink-secondary); font-weight: 450; }
+.corporate-environment .corporate-intro-note { color: var(--ink-secondary); font-size: 15px; line-height: 2; }
+.corporate-english { display: block; color: var(--ink-secondary); font-size: 10px; font-weight: 500; letter-spacing: 1.7px; line-height: 1.8; }
+.corporate-intro-copy { max-width: 500px; padding-top: 10px; }
+.corporate-environment .corporate-lead { font-size: clamp(16px, 1.25vw, 18px); line-height: 2.25; color: var(--ink); margin-top: 22px; }
+.corporate-environment .corporate-support { font-size: 14px; line-height: 2.2; color: var(--ink-secondary); margin-top: 18px; max-width: 440px; }
+.corporate-conversation { display: inline-flex; align-items: center; gap: 22px; min-height: 48px; margin-top: 25px; color: var(--ink); font-size: 13px; font-weight: 600; border-bottom: 1px solid var(--accent-depth); transition: color var(--motion-ui), border-color var(--motion-ui); }
+.corporate-conversation svg { color: var(--accent-depth); flex: 0 0 auto; }
+.corporate-conversation:hover { color: var(--ink); border-bottom-color: var(--ink); }
+.corporate-environment a:focus-visible { outline-color: var(--accent-depth); }
+.corporate-reasons { padding-block: 74px 86px; background: var(--paper); border-top: 1px solid var(--paper-line); }
+.corporate-section-heading { text-align: center; }
+.corporate-environment .corporate-section-heading h2 { font-size: clamp(29px, 2.65vw, 38px); font-weight: 600; line-height: 1.7; margin-top: 10px; }
+.corporate-title-rule { display: block; width: 48px; height: 2px; background: var(--accent-depth); margin: 20px auto 0; }
+.corporate-reasons-grid { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); margin-top: 49px; }
+.corporate-reason { text-align: center; padding: 4px 24px; }
+.corporate-reason + .corporate-reason { border-inline-start: 1px solid var(--paper-line); }
+.corporate-reason > svg, .corporate-principle > svg { display: block; margin-inline: auto; color: var(--accent-depth); }
+.corporate-environment .corporate-reason h3 { font-size: 18px; font-weight: 600; line-height: 1.85; margin-top: 22px; }
+.corporate-environment .corporate-reason p { font-size: 14px; line-height: 2; color: var(--ink-secondary); margin-top: 9px; }
+.corporate-principles { position: relative; padding-block: 70px 82px; overflow: hidden; background: var(--paper-soft); border-top: 1px solid var(--paper-line); isolation: isolate; }
+.corporate-principles::before { content: ''; position: absolute; inset: 0; z-index: -1; background: color-mix(in srgb, var(--ink) 3%, transparent); clip-path: polygon(0 16%, 38% 100%, 0 100%); pointer-events: none; }
+.corporate-principles-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); margin-top: 43px; }
+.corporate-principle { text-align: center; padding: 0 30px; }
+.corporate-principle + .corporate-principle { border-inline-start: 1px solid var(--paper-line); }
+.corporate-environment .corporate-principle h3 { font-size: 20px; line-height: 1.8; font-weight: 600; margin-top: 18px; }
+.corporate-environment .corporate-principle p { font-size: 14px; line-height: 2; color: var(--ink-secondary); margin-top: 6px; }
+@media (max-width: 1023px) {
+  .corporate-environment .shell { width: calc(100% - 64px); }
+  .corporate-introduction { padding-block: 70px 80px; }
+  .corporate-intro-grid { grid-template-columns: 1fr 1fr; gap: 40px; }
+  .corporate-environment .corporate-intro-heading h2 { font-size: 39px; }
+  .corporate-environment .corporate-lead { font-size: 16px; }
+  .corporate-reasons-grid { grid-template-columns: repeat(2,minmax(0,1fr)); row-gap: 38px; }
+  .corporate-reason:nth-child(3) { border-inline-start: 0; }
+  .corporate-reason { padding-inline: 26px; }
+  .corporate-principle { padding-inline: 18px; }
+  .corporate-environment .corporate-principle h3 { font-size: 18px; }
+  .corporate-environment .corporate-principle p { font-size: 13px; }
+}
+@media (max-width: 600px) {
+  .corporate-environment .shell { width: calc(100% - 40px); }
+  .corporate-introduction { padding-block: 50px 60px; }
+  .corporate-intro-grid { grid-template-columns: 1fr; gap: 35px; }
+  .corporate-environment .corporate-intro-heading h2 { font-size: clamp(33px, 9vw, 42px); line-height: 1.65; margin-block: 20px 14px; }
+  .corporate-environment .corporate-intro-note { font-size: 13px; }
+  .corporate-intro-copy { padding-top: 0; }
+  .corporate-environment .corporate-lead { font-size: 15px; line-height: 2.2; margin-top: 15px; }
+  .corporate-environment .corporate-support { font-size: 13px; }
+  .corporate-english { font-size: 9px; letter-spacing: 1.2px; }
+  .corporate-eyebrow { font-size: 11px; }
+  .corporate-conversation { margin-top: 20px; font-size: 12px; }
+  .corporate-reasons { padding-block: 52px 58px; }
+  .corporate-reasons-grid { margin-top: 34px; row-gap: 34px; }
+  .corporate-reason { padding-inline: 12px; }
+  .corporate-reason > svg { width: 30px; height: 30px; }
+  .corporate-environment .corporate-reason h3 { font-size: 16px; margin-top: 17px; line-height: 1.85; }
+  .corporate-environment .corporate-reason p { font-size: 12px; line-height: 2; }
+  .corporate-environment .corporate-section-heading h2 { font-size: 27px; line-height: 1.75; }
+  .corporate-principles { padding-block: 48px 54px; }
+  .corporate-principles-grid { grid-template-columns: 1fr; margin-top: 28px; }
+  .corporate-principle { display: grid; grid-template-columns: 34px 1fr; gap: 18px; text-align: right; padding: 22px 0; align-items: start; }
+  .corporate-principle + .corporate-principle { border-inline-start: 0; border-top: 1px solid var(--paper-line); }
+  .corporate-principle > svg { width: 30px; height: 30px; margin-top: 4px; }
+  .corporate-environment .corporate-principle h3 { margin-top: 0; font-size: 18px; }
+  .corporate-environment .corporate-principle p { font-size: 13px; margin-top: 4px; }
+}
+@media (max-width: 359px) {
+  .corporate-reasons-grid { grid-template-columns: 1fr; row-gap: 0; }
+  .corporate-reason { display: grid; grid-template-columns: 34px 1fr; gap: 0 17px; text-align: right; padding: 22px 0; }
+  .corporate-reason + .corporate-reason { border-inline-start: 0; border-top: 1px solid var(--paper-line); }
+  .corporate-reason > svg { grid-row: 1 / span 2; margin-top: 4px; }
+  .corporate-environment .corporate-reason h3 { margin-top: 0; }
+  .corporate-environment .corporate-reason p { margin-top: 5px; }
+}

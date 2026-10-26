@@ -1,0 +1,113 @@
+{
+  "changedOld": [],
+  "checks": [
+    {
+      "file": "public/images/parts/optimized/brake-caliper-192.webp",
+      "bytes": 27684,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/brake-disc-192.webp",
+      "bytes": 24550,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/car-seat-192.webp",
+      "bytes": 22516,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/engine-main-192.webp",
+      "bytes": 40244,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-components-480.webp",
+      "bytes": 130754,
+      "width": 480,
+      "height": 270,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/front-bumper-192.webp",
+      "bytes": 21010,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/front-fender-192.webp",
+      "bytes": 18548,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/gearbox-main-192.webp",
+      "bytes": 34824,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/headlight-main-192.webp",
+      "bytes": 28560,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/side-mirror-192.webp",
+      "bytes": 22188,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/steering-assembly-192.webp",
+      "bytes": 30222,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    },
+    {
+      "file": "public/images/parts/optimized/suspension-main-192.webp",
+      "bytes": 22664,
+      "width": 192,
+      "height": 192,
+      "alpha": true,
+      "differentAlpha": 0,
+      "differentVisibleColor": 0
+    }
+  ]
+}

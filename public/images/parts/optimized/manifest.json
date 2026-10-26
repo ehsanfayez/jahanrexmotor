@@ -1,0 +1,277 @@
+[
+  {
+    "name": "engine-main",
+    "sha256": "e2e3efa4ee822bf0283e1f6dfcb0b76457c1d7a7cf22a37391d2dc5bbe329930",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 2362047,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 40244
+      },
+      {
+        "width": 384,
+        "bytes": 140794
+      },
+      {
+        "width": 768,
+        "bytes": 543742
+      },
+      {
+        "width": 1254,
+        "bytes": 1418372
+      }
+    ]
+  },
+  {
+    "name": "gearbox-main",
+    "sha256": "7030e3033f24e77d0e66681163b001565aa50d2a3a1b3d7fcd03086e610c6af1",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 2026203,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 34824
+      },
+      {
+        "width": 384,
+        "bytes": 121778
+      },
+      {
+        "width": 768,
+        "bytes": 470980
+      },
+      {
+        "width": 1254,
+        "bytes": 1216902
+      }
+    ]
+  },
+  {
+    "name": "brake-disc",
+    "sha256": "740a44dc161ca79f410d8412f6fd1e0093e0d082b715ed26d0cd8c95b8d116dc",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 1564814,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 24550
+      },
+      {
+        "width": 384,
+        "bytes": 83732
+      },
+      {
+        "width": 768,
+        "bytes": 331668
+      },
+      {
+        "width": 1254,
+        "bytes": 902052
+      }
+    ]
+  },
+  {
+    "name": "brake-caliper",
+    "sha256": "e2cfa3768481cce4290bac38cb685989477e0cabcf3dfac097ce2fa81f9a9d82",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 1881451,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 27684
+      },
+      {
+        "width": 384,
+        "bytes": 96236
+      },
+      {
+        "width": 768,
+        "bytes": 400464
+      },
+      {
+        "width": 1254,
+        "bytes": 1068032
+      }
+    ]
+  },
+  {
+    "name": "headlight-main",
+    "sha256": "e1045da74a35540cf716063a85e95734540db923420215ea6efb8df0f948c783",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 1765564,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 28560
+      },
+      {
+        "width": 384,
+        "bytes": 100002
+      },
+      {
+        "width": 768,
+        "bytes": 391688
+      },
+      {
+        "width": 1254,
+        "bytes": 1014716
+      }
+    ]
+  },
+  {
+    "name": "side-mirror",
+    "sha256": "4e1833f9da9474e812edab9a51ffc7d81fc906fe5e75868cbbc1f4dc4d0887e2",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 1333419,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 22188
+      },
+      {
+        "width": 384,
+        "bytes": 74500
+      },
+      {
+        "width": 768,
+        "bytes": 286722
+      },
+      {
+        "width": 1254,
+        "bytes": 744742
+      }
+    ]
+  },
+  {
+    "name": "suspension-main",
+    "sha256": "bc15a26bf841dcedde695d785cee84a86c2314b008b69f4ea057fc8f91f77c23",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 1196825,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 22664
+      },
+      {
+        "width": 384,
+        "bytes": 71332
+      },
+      {
+        "width": 768,
+        "bytes": 269772
+      },
+      {
+        "width": 1254,
+        "bytes": 693928
+      }
+    ]
+  },
+  {
+    "name": "front-bumper",
+    "sha256": "891028791c37b692883fa49d99c39180a15f0d2357ab9ceeb2fa6cb376f4f364",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 1205131,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 21010
+      },
+      {
+        "width": 384,
+        "bytes": 71676
+      },
+      {
+        "width": 768,
+        "bytes": 262558
+      },
+      {
+        "width": 1254,
+        "bytes": 663698
+      }
+    ]
+  },
+  {
+    "name": "front-fender",
+    "sha256": "e3447ce346b275a48a1500b3858e4a85a146b3001f49bcade08ae7fd7a78f4f3",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 1127345,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 18548
+      },
+      {
+        "width": 384,
+        "bytes": 61624
+      },
+      {
+        "width": 768,
+        "bytes": 256682
+      },
+      {
+        "width": 1254,
+        "bytes": 669256
+      }
+    ]
+  },
+  {
+    "name": "car-seat",
+    "sha256": "6423857929ca3bc5eb2a684729fdc9080912cc314f7aa5790a914467f6a1a9e3",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 1520784,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 22516
+      },
+      {
+        "width": 384,
+        "bytes": 78538
+      },
+      {
+        "width": 768,
+        "bytes": 336330
+      },
+      {
+        "width": 1254,
+        "bytes": 881406
+      }
+    ]
+  },
+  {
+    "name": "steering-assembly",
+    "sha256": "31beb2593b6278e68641585e44cf1bcc026ffe4cd157cfced1bf3b107f9b71fd",
+    "width": 1254,
+    "height": 1254,
+    "originalBytes": 1744756,
+    "derivatives": [
+      {
+        "width": 192,
+        "bytes": 30222
+      },
+      {
+        "width": 384,
+        "bytes": 104840
+      },
+      {
+        "width": 768,
+        "bytes": 398108
+      },
+      {
+        "width": 1254,
+        "bytes": 1010860
+      }
+    ]
+  }
+]

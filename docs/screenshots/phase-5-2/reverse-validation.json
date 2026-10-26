@@ -1,0 +1,698 @@
+{
+  "results": [
+    {
+      "progress": "35",
+      "equal": true
+    },
+    {
+      "progress": "55",
+      "equal": true
+    },
+    {
+      "progress": "75",
+      "equal": true
+    }
+  ],
+  "forward": {
+    "35": {
+      "groups": [
+        {
+          "matrix": "matrix(0.985, 0, 0, 0.985, -385.125, -41.2631)",
+          "name": "powertrain",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(0.97, 0, 0, 0.97, 327.356, 61.8947)",
+          "name": "brakes",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(1, 0, 0, 1, -246.48, 130.667)",
+          "name": "body",
+          "opacity": "0"
+        },
+        {
+          "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+          "name": "interior",
+          "opacity": "0"
+        }
+      ],
+      "lights": [
+        "0.5",
+        "0",
+        "0",
+        "0"
+      ],
+      "panels": [
+        {
+          "name": "hero",
+          "opacity": "0"
+        },
+        {
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "name": "brakes",
+          "opacity": "0.3056"
+        },
+        {
+          "name": "body",
+          "opacity": "0"
+        },
+        {
+          "name": "interior",
+          "opacity": "0"
+        },
+        {
+          "name": "handoff",
+          "opacity": "0"
+        }
+      ],
+      "parts": [
+        {
+          "id": "engine-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "gearbox-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-disc",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-caliper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "suspension-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-bumper",
+          "matrix": "matrix(0.4432, 0, 0, 0.4432, -38.512, 302.595)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-fender",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "0"
+        },
+        {
+          "id": "headlight-main",
+          "matrix": "matrix(0.68, 0, 0, 0.68, 269.587, 61.8952)",
+          "opacity": "1"
+        },
+        {
+          "id": "side-mirror",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "0"
+        },
+        {
+          "id": "car-seat",
+          "matrix": "matrix(0.4194, 0, 0, 0.4194, 84.7259, 89.4025)",
+          "opacity": "1"
+        },
+        {
+          "id": "steering-assembly",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "0"
+        }
+      ]
+    },
+    "55": {
+      "groups": [
+        {
+          "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "matrix": "matrix(0.99, 0, 0, 0.99, -346.612, 13.7544)",
+          "name": "brakes",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(0.99, 0, 0, 0.99, 338.91, -20.6316)",
+          "name": "body",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+          "name": "interior",
+          "opacity": "0"
+        }
+      ],
+      "lights": [
+        "1",
+        "0.5",
+        "0",
+        "0"
+      ],
+      "panels": [
+        {
+          "name": "hero",
+          "opacity": "0"
+        },
+        {
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "name": "brakes",
+          "opacity": "0"
+        },
+        {
+          "name": "body",
+          "opacity": "0.3056"
+        },
+        {
+          "name": "interior",
+          "opacity": "0"
+        },
+        {
+          "name": "handoff",
+          "opacity": "0"
+        }
+      ],
+      "parts": [
+        {
+          "id": "engine-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "gearbox-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-disc",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-caliper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "suspension-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-bumper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-fender",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "headlight-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "side-mirror",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "car-seat",
+          "matrix": "matrix(0.4194, 0, 0, 0.4194, 84.7259, 89.4025)",
+          "opacity": "1"
+        },
+        {
+          "id": "steering-assembly",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "0"
+        }
+      ]
+    },
+    "75": {
+      "groups": [
+        {
+          "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "matrix": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+          "name": "brakes",
+          "opacity": "0"
+        },
+        {
+          "matrix": "matrix(0.99, 0, 0, 0.99, -354.315, -20.6316)",
+          "name": "body",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(0.985, 0, 0, 0.985, 277.29, 34.3859)",
+          "name": "interior",
+          "opacity": "0.5"
+        }
+      ],
+      "lights": [
+        "1",
+        "1",
+        "0.5",
+        "0"
+      ],
+      "panels": [
+        {
+          "name": "hero",
+          "opacity": "0"
+        },
+        {
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "name": "brakes",
+          "opacity": "0"
+        },
+        {
+          "name": "body",
+          "opacity": "0"
+        },
+        {
+          "name": "interior",
+          "opacity": "0.3056"
+        },
+        {
+          "name": "handoff",
+          "opacity": "0"
+        }
+      ],
+      "parts": [
+        {
+          "id": "engine-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "gearbox-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-disc",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-caliper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "suspension-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-bumper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-fender",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "headlight-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "side-mirror",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "car-seat",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "steering-assembly",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        }
+      ]
+    }
+  },
+  "reverse": {
+    "35": {
+      "groups": [
+        {
+          "matrix": "matrix(0.985, 0, 0, 0.985, -385.125, -41.2631)",
+          "name": "powertrain",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(0.97, 0, 0, 0.97, 327.356, 61.8947)",
+          "name": "brakes",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(1, 0, 0, 1, -246.48, 130.667)",
+          "name": "body",
+          "opacity": "0"
+        },
+        {
+          "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+          "name": "interior",
+          "opacity": "0"
+        }
+      ],
+      "lights": [
+        "0.5",
+        "0",
+        "0",
+        "0"
+      ],
+      "panels": [
+        {
+          "name": "hero",
+          "opacity": "0"
+        },
+        {
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "name": "brakes",
+          "opacity": "0.3056"
+        },
+        {
+          "name": "body",
+          "opacity": "0"
+        },
+        {
+          "name": "interior",
+          "opacity": "0"
+        },
+        {
+          "name": "handoff",
+          "opacity": "0"
+        }
+      ],
+      "parts": [
+        {
+          "id": "engine-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "gearbox-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-disc",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-caliper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "suspension-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-bumper",
+          "matrix": "matrix(0.4432, 0, 0, 0.4432, -38.512, 302.595)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-fender",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "0"
+        },
+        {
+          "id": "headlight-main",
+          "matrix": "matrix(0.68, 0, 0, 0.68, 269.587, 61.8952)",
+          "opacity": "1"
+        },
+        {
+          "id": "side-mirror",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "0"
+        },
+        {
+          "id": "car-seat",
+          "matrix": "matrix(0.4194, 0, 0, 0.4194, 84.7259, 89.4025)",
+          "opacity": "1"
+        },
+        {
+          "id": "steering-assembly",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "0"
+        }
+      ]
+    },
+    "55": {
+      "groups": [
+        {
+          "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "matrix": "matrix(0.99, 0, 0, 0.99, -346.612, 13.7544)",
+          "name": "brakes",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(0.99, 0, 0, 0.99, 338.91, -20.6316)",
+          "name": "body",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+          "name": "interior",
+          "opacity": "0"
+        }
+      ],
+      "lights": [
+        "1",
+        "0.5",
+        "0",
+        "0"
+      ],
+      "panels": [
+        {
+          "name": "hero",
+          "opacity": "0"
+        },
+        {
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "name": "brakes",
+          "opacity": "0"
+        },
+        {
+          "name": "body",
+          "opacity": "0.3056"
+        },
+        {
+          "name": "interior",
+          "opacity": "0"
+        },
+        {
+          "name": "handoff",
+          "opacity": "0"
+        }
+      ],
+      "parts": [
+        {
+          "id": "engine-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "gearbox-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-disc",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-caliper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "suspension-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-bumper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-fender",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "headlight-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "side-mirror",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "car-seat",
+          "matrix": "matrix(0.4194, 0, 0, 0.4194, 84.7259, 89.4025)",
+          "opacity": "1"
+        },
+        {
+          "id": "steering-assembly",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "0"
+        }
+      ]
+    },
+    "75": {
+      "groups": [
+        {
+          "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "matrix": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+          "name": "brakes",
+          "opacity": "0"
+        },
+        {
+          "matrix": "matrix(0.99, 0, 0, 0.99, -354.315, -20.6316)",
+          "name": "body",
+          "opacity": "0.5"
+        },
+        {
+          "matrix": "matrix(0.985, 0, 0, 0.985, 277.29, 34.3859)",
+          "name": "interior",
+          "opacity": "0.5"
+        }
+      ],
+      "lights": [
+        "1",
+        "1",
+        "0.5",
+        "0"
+      ],
+      "panels": [
+        {
+          "name": "hero",
+          "opacity": "0"
+        },
+        {
+          "name": "powertrain",
+          "opacity": "0"
+        },
+        {
+          "name": "brakes",
+          "opacity": "0"
+        },
+        {
+          "name": "body",
+          "opacity": "0"
+        },
+        {
+          "name": "interior",
+          "opacity": "0.3056"
+        },
+        {
+          "name": "handoff",
+          "opacity": "0"
+        }
+      ],
+      "parts": [
+        {
+          "id": "engine-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "gearbox-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-disc",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "brake-caliper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "suspension-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-bumper",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "front-fender",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "headlight-main",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "side-mirror",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "car-seat",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "id": "steering-assembly",
+          "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+          "opacity": "1"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2560 @@
+[
+  {
+    "label": "coverage-375",
+    "stage": "mobile",
+    "count": "1",
+    "h": 812,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4710,
+    "w": 375,
+    "y": 4380
+  },
+  {
+    "label": "handoff-375",
+    "stage": "mobile",
+    "count": "1",
+    "h": 812,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, -14px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4710,
+    "w": 375,
+    "y": 5087
+  },
+  {
+    "label": "hero-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "hero",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 0
+  },
+  {
+    "label": "hero-power-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4424; visibility: inherit; transform: translate(-8.3644%, 0%) translate3d(0px, -6.6915px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.72; visibility: inherit; transform: translate(3.3597%, 0%) translate3d(0px, 5.0396px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 784
+  },
+  {
+    "label": "powertrain-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 1189
+  },
+  {
+    "label": "power-brakes-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4427; visibility: inherit; transform: translate(-8.3594%, 0%) translate3d(0px, -6.6875px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7198; visibility: inherit; transform: translate(3.362%, 0%) translate3d(0px, 5.043px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 1757
+  },
+  {
+    "label": "brakes-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 2162
+  },
+  {
+    "label": "brakes-body-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.443; visibility: inherit; transform: translate(-8.3544%, 0%) translate3d(0px, -6.6835px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7196; visibility: inherit; transform: translate(3.3642%, 0%) translate3d(0px, 5.0463px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 2730
+  },
+  {
+    "label": "body-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 3135
+  },
+  {
+    "label": "body-cabin-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4433; visibility: inherit; transform: translate(-8.3498%, 0%) translate3d(0px, -6.6798px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7195; visibility: inherit; transform: translate(3.3663%, 0%) translate3d(0px, 5.0495px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 3703
+  },
+  {
+    "label": "cabin-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 4109
+  },
+  {
+    "label": "cabin-coverage-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.2558; visibility: inherit; transform: translate(-11.1627%, 0%) translate3d(0px, -8.9302px, 0px) scale(0.9777, 0.9777);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7193; visibility: inherit; transform: translate(3.3686%, 0%) translate3d(0px, 5.0528px, 0px) scale(0.9916, 0.9916);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 4676
+  },
+  {
+    "label": "coverage-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 5028
+  },
+  {
+    "label": "handoff-430",
+    "stage": "mobile",
+    "count": "1",
+    "h": 932,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, -14px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 5406,
+    "w": 430,
+    "y": 5838
+  },
+  {
+    "label": "hero-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "hero",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 0
+  },
+  {
+    "label": "hero-power-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4435; visibility: inherit; transform: translate(-8.3478%, 0%) translate3d(0px, -6.6782px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7194; visibility: inherit; transform: translate(3.3672%, 0%) translate3d(0px, 5.0508px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 861
+  },
+  {
+    "label": "powertrain-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 1307
+  },
+  {
+    "label": "power-brakes-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4435; visibility: inherit; transform: translate(-8.3468%, 0%) translate3d(0px, -6.6774px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7194; visibility: inherit; transform: translate(3.3677%, 0%) translate3d(0px, 5.0515px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 1930
+  },
+  {
+    "label": "brakes-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 2376
+  },
+  {
+    "label": "brakes-body-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4436; visibility: inherit; transform: translate(-8.3454%, 0%) translate3d(0px, -6.6763px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7193; visibility: inherit; transform: translate(3.3683%, 0%) translate3d(0px, 5.0524px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 2999
+  },
+  {
+    "label": "body-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 3445
+  },
+  {
+    "label": "body-cabin-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4437; visibility: inherit; transform: translate(-8.3444%, 0%) translate3d(0px, -6.6756px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7193; visibility: inherit; transform: translate(3.3687%, 0%) translate3d(0px, 5.0531px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 4068
+  },
+  {
+    "label": "cabin-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 4514
+  },
+  {
+    "label": "cabin-coverage-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.2559; visibility: inherit; transform: translate(-11.1612%, 0%) translate3d(0px, -8.929px, 0px) scale(0.9777, 0.9777);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7192; visibility: inherit; transform: translate(3.3693%, 0%) translate3d(0px, 5.054px, 0px) scale(0.9916, 0.9916);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 5137
+  },
+  {
+    "label": "coverage-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 5523
+  },
+  {
+    "label": "handoff-768",
+    "stage": "mobile",
+    "count": "1",
+    "h": 1024,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, -14px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 5939,
+    "w": 768,
+    "y": 6414
+  },
+  {
+    "label": "reverse-handoff-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, -14px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 6414
+  },
+  {
+    "label": "reverse-coverage-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 3776
+  },
+  {
+    "label": "reverse-cabin-coverage-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.2546; visibility: inherit; transform: translate(-11.1811%, 0%) translate3d(0px, -8.9449px, 0px) scale(0.9776, 0.9776);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.72; visibility: inherit; transform: translate(3.3596%, 0%) translate3d(0px, 5.0394px, 0px) scale(0.9916, 0.9916);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 3512
+  },
+  {
+    "label": "reverse-cabin-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 3086
+  },
+  {
+    "label": "reverse-body-cabin-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4435; visibility: inherit; transform: translate(-8.3481%, 0%) translate3d(0px, -6.6785px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7194; visibility: inherit; transform: translate(3.3671%, 0%) translate3d(0px, 5.0506px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 2781
+  },
+  {
+    "label": "reverse-body-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 2355
+  },
+  {
+    "label": "reverse-brakes-body-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4445; visibility: inherit; transform: translate(-8.3318%, 0%) translate3d(0px, -6.6654px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7188; visibility: inherit; transform: translate(3.3744%, 0%) translate3d(0px, 5.0616px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 2050
+  },
+  {
+    "label": "reverse-brakes-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 1624
+  },
+  {
+    "label": "reverse-power-brakes-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4402; visibility: inherit; transform: translate(-8.3972%, 0%) translate3d(0px, -6.7178px, 0px) scale(0.9832, 0.9832);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7213; visibility: inherit; transform: translate(3.345%, 0%) translate3d(0px, 5.0174px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 1320
+  },
+  {
+    "label": "reverse-powertrain-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 893
+  },
+  {
+    "label": "reverse-hero-power-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4413; visibility: inherit; transform: translate(-8.381%, 0%) translate3d(0px, -6.7048px, 0px) scale(0.9832, 0.9832);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7206; visibility: inherit; transform: translate(3.3523%, 0%) translate3d(0px, 5.0284px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 589
+  },
+  {
+    "label": "reverse-hero-320",
+    "stage": "mobile",
+    "count": "1",
+    "h": 700,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "hero",
+    "start": 0,
+    "travel": 4060,
+    "w": 320,
+    "y": 0
+  },
+  {
+    "label": "reverse-handoff-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0.4188",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.9721; visibility: inherit; transform: translate(0.3343%, 0%) translate3d(0px, 0.5015px, 0px) scale(0.9992, 0.9992);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 4385
+  },
+  {
+    "label": "reverse-coverage-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 4552
+  },
+  {
+    "label": "reverse-cabin-coverage-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.2558; visibility: inherit; transform: translate(-11.1624%, 0%) translate3d(0px, -8.93px, 0px) scale(0.9777, 0.9777);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7193; visibility: inherit; transform: translate(3.3687%, 0%) translate3d(0px, 5.0531px, 0px) scale(0.9916, 0.9916);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 4234
+  },
+  {
+    "label": "reverse-cabin-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 3720
+  },
+  {
+    "label": "reverse-body-cabin-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4432; visibility: inherit; transform: translate(-8.3514%, 0%) translate3d(0px, -6.6811px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7195; visibility: inherit; transform: translate(3.3656%, 0%) translate3d(0px, 5.0483px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 3353
+  },
+  {
+    "label": "reverse-body-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 2839
+  },
+  {
+    "label": "reverse-brakes-body-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4428; visibility: inherit; transform: translate(-8.3581%, 0%) translate3d(0px, -6.6864px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7198; visibility: inherit; transform: translate(3.3626%, 0%) translate3d(0px, 5.0439px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 2472
+  },
+  {
+    "label": "reverse-brakes-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 1958
+  },
+  {
+    "label": "reverse-power-brakes-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4423; visibility: inherit; transform: translate(-8.365%, 0%) translate3d(0px, -6.692px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.72; visibility: inherit; transform: translate(3.3594%, 0%) translate3d(0px, 5.0392px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 1591
+  },
+  {
+    "label": "reverse-powertrain-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 1077
+  },
+  {
+    "label": "reverse-hero-power-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.4419; visibility: inherit; transform: translate(-8.3717%, 0%) translate3d(0px, -6.6973px, 0px) scale(0.9833, 0.9833);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0.7203; visibility: inherit; transform: translate(3.3564%, 0%) translate3d(0px, 5.0347px, 0px) scale(0.9916, 0.9916);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 710
+  },
+  {
+    "label": "reverse-hero-390",
+    "stage": "mobile",
+    "count": "1",
+    "h": 844,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "hero",
+    "start": 0,
+    "travel": 4895,
+    "w": 390,
+    "y": 0
+  },
+  {
+    "label": "hero-1440",
+    "stage": "after",
+    "count": "1",
+    "h": 900,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "transform": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": ""
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "w": 1440,
+    "y": 0
+  },
+  {
+    "label": "powertrain-1440",
+    "stage": "after",
+    "count": "1",
+    "h": 900,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "transform": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": ""
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "w": 1440,
+    "y": 2160
+  },
+  {
+    "label": "brakes-1440",
+    "stage": "after",
+    "count": "1",
+    "h": 900,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "transform": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": ""
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "w": 1440,
+    "y": 3960
+  },
+  {
+    "label": "body-1440",
+    "stage": "after",
+    "count": "1",
+    "h": 900,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "transform": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": ""
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "w": 1440,
+    "y": 5760
+  },
+  {
+    "label": "cabin-1440",
+    "stage": "after",
+    "count": "1",
+    "h": 900,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "transform": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "transform": ""
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "w": 1440,
+    "y": 7470
+  },
+  {
+    "label": "coverage-1440",
+    "stage": "after",
+    "count": "1",
+    "h": 900,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "w": 1440,
+    "y": 8460
+  },
+  {
+    "label": "handoff-1440",
+    "stage": "after",
+    "count": "1",
+    "h": 900,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "transform": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "transform": "translate: none; rotate: none; scale: none; transform: translate(0px, -18px);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "w": 1440,
+    "y": 9405
+  }
+]

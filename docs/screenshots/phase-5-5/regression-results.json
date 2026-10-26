@@ -1,0 +1,419 @@
+{
+  "summary": {
+    "screenshots": 40,
+    "originalPixelIdentical": 29,
+    "warmCacheControlFrames": 15,
+    "pixelIdentical": 40,
+    "metricsIdentical": 40,
+    "changedExistingSource": [
+      "src/pages/index.astro"
+    ],
+    "onlyPageEntrypointChanged": true,
+    "unlayeredProductionCssIdentical": true,
+    "preflightNotImported": true,
+    "preflightAbsent": true,
+    "fixtureRemoved": true
+  },
+  "results": [
+    {
+      "label": "hero-1440",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "powertrain-1440",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "brakes-1440",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "body-1440",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "cabin-1440",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "coverage-1440",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "handoff-1440",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "company-1440",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "why-1440",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "principles-1440",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "contact-1440",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "footer-1440",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "hero-1280",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "powertrain-1280",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "brakes-1280",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "body-1280",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "cabin-1280",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": false,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "coverage-1280",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "handoff-1280",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "company-1280",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "why-1280",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "principles-1280",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "contact-1280",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "footer-1280",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "hero-390",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "coverage-390",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "company-390",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "why-390",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "principles-390",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "contact-390",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "footer-390",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "menu-390",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "hero-320",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "coverage-320",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "company-320",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "why-320",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "principles-320",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "contact-320",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "footer-320",
+      "referenceStage": "before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    },
+    {
+      "label": "menu-320",
+      "referenceStage": "controlled-before",
+      "originalPixelIdentical": true,
+      "changedPixels": 0,
+      "maximumChannelDifference": 0,
+      "metricsEqual": true,
+      "referenceMetricsEqual": true,
+      "elementDifferences": []
+    }
+  ]
+}

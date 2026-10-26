@@ -1,0 +1,80 @@
+{
+  "cooperation": {
+    "href": "#contact",
+    "icon": "messages-square"
+  },
+  "images": [
+    {
+      "loaded": true,
+      "src": "/images/parts/engine-main.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/gearbox-main.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/brake-disc.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/brake-caliper.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/suspension-main.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/front-bumper.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/front-fender.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/headlight-main.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/side-mirror.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/car-seat.png"
+    },
+    {
+      "loaded": true,
+      "src": "/images/parts/steering-assembly.png"
+    }
+  ],
+  "overflow": false,
+  "phoneLinks": [
+    {
+      "href": "tel:09373020028",
+      "icon": "phone-call",
+      "text": "ارتباط با ما"
+    },
+    {
+      "href": "tel:09373020028",
+      "text": "09373020028"
+    },
+    {
+      "href": "tel:09373020028",
+      "icon": "phone-call",
+      "text": "تماس با جهانرکسان موتور"
+    },
+    {
+      "href": "tel:09373020028",
+      "icon": "phone-call",
+      "text": "09373020028"
+    },
+    {
+      "href": "tel:09373020028",
+      "text": "تماس مستقیم با ما"
+    }
+  ],
+  "principles": 3,
+  "why": 4
+}

@@ -1,0 +1,28 @@
+---
+import Icon from './Icon.astro';
+import { mobileDescriptions } from '../data/mobile-story';
+const categories = [
+  { icon: 'cog', label: 'پیشرانه و انتقال قدرت' },
+  { icon: 'disc-3', label: 'ترمز و تعلیق' },
+  { icon: 'car-front', label: 'بدنه و روشنایی' },
+  { icon: 'armchair', label: 'کابین و تجهیزات داخلی' },
+];
+---
+<article class="experience-panel coverage-panel" data-panel="coverage" aria-labelledby="coverage-title">
+  <picture class="coverage-studio" aria-hidden="true">
+    <source type="image/webp" srcset="/images/parts/optimized/coverage-studio-background-960.webp 960w, /images/parts/optimized/coverage-studio-background-1672.webp 1672w" sizes="(max-width: 1023px) 1400px, 100vw" />
+    <img src="/images/parts/coverage-studio-background.png" width="1672" height="940" alt="" loading="eager" decoding="async" fetchpriority="low" />
+  </picture>
+  <picture class="coverage-visual" data-coverage-visual>
+    <source type="image/webp" srcset="/images/parts/optimized/exploded-sedan-components-480.webp 480w, /images/parts/optimized/exploded-sedan-components-960.webp 960w, /images/parts/optimized/exploded-sedan-components-1672.webp 1672w" sizes="(min-width: 1024px) 58vw, (min-width: 601px) 600px, 100vw" />
+    <img src="/images/parts/exploded-sedan-components.png" width="1672" height="941" alt="اجزای جداشدهٔ سدان نقره‌ای؛ پیشرانه، انتقال قدرت، ترمز، تعلیق و مجموعه‌های بدنه" loading="eager" decoding="async" fetchpriority="low" />
+  </picture>
+  <div class="coverage-copy" data-coverage-copy>
+    <p class="coverage-eyebrow" lang="en" dir="ltr">COMPLETE COVERAGE / 05</p>
+    <h2 id="coverage-title">جزء به جزء،<br /><span>یک تصویر کامل.</span></h2>
+    <p class="coverage-description"><span class="default-story-copy">جهانرکسان موتور با نگاهی جامع به مجموعه‌های خودرویی، از پیشرانه و انتقال قدرت تا سیستم ترمز، تعلیق، بدنه، روشنایی و تجهیزات کابین، حوزه‌های متنوع قطعات خودرو را در مسیر همکاری‌های حرفه‌ای پوشش می‌دهد.</span><span class="mobile-story-copy">{mobileDescriptions.coverage}</span></p>
+    <ul class="coverage-categories" data-coverage-categories aria-label="حوزه‌های پوشش قطعات خودرو">
+      {categories.map(category => <li><Icon name={category.icon} size={20} /><span>{category.label}</span></li>)}
+    </ul>
+  </div>
+</article>

@@ -1,0 +1,9 @@
+---
+import Brand from './Brand.astro';
+import Icon from './Icon.astro';
+import '../styles/header.css';
+---
+<header class="header" data-header><div class="header-inner shell"><Brand />
+<button class="menu-toggle" data-menu-toggle aria-controls="navigation" aria-expanded="false" type="button">منو <span class="menu-symbol" aria-hidden="true"><i></i><i></i></span></button>
+<nav id="navigation" class="navigation" data-navigation aria-label="ناوبری اصلی"><a href="#parts">دنیای قطعات</a><a href="#about">درباره جهانرکسان</a><a href="#approach">نگاه ما</a><a class="mobile-contact" href="#contact">اطلاعات تماس</a></nav>
+<a class="header-cta" href="#contact">گفت‌وگو برای همکاری <Icon name="messages-square" size={20} /></a></div></header>

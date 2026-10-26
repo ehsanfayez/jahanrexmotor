@@ -1,0 +1,92 @@
+{
+  "originals": [
+    {
+      "name": "engine-main",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "gearbox-main",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "brake-disc",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "brake-caliper",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "headlight-main",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "side-mirror",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "suspension-main",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "front-bumper",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "front-fender",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "car-seat",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    },
+    {
+      "name": "steering-assembly",
+      "width": 1254,
+      "height": 1254,
+      "matches": true
+    }
+  ],
+  "webpCount": 35,
+  "referencedAssets": 50,
+  "missing": [],
+  "idCount": 25,
+  "duplicateIds": [],
+  "internalAnchors": 11,
+  "missingAnchors": [],
+  "missingAriaTargets": [],
+  "sceneGroups": [
+    "powertrain",
+    "brakes",
+    "body",
+    "interior"
+  ],
+  "panels": [
+    "hero",
+    "powertrain",
+    "brakes",
+    "body",
+    "interior",
+    "coverage"
+  ]
+}

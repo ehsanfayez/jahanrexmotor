@@ -1,0 +1,714 @@
+[
+  {
+    "checkpoint": "handoff",
+    "h": 844,
+    "missingImages": 0,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, -14px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 5784
+  },
+  {
+    "checkpoint": "coverage",
+    "h": 844,
+    "missingImages": 0,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 4601
+  },
+  {
+    "checkpoint": "cabin-coverage",
+    "h": 844,
+    "missingImages": 0,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0.2558; visibility: inherit; transform: translate(-11.1624%, 0%) translate3d(0px, -8.93px, 0px) scale(0.9777, 0.9777);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0.7193; visibility: inherit; transform: translate(3.3687%, 0%) translate3d(0px, 5.0531px, 0px) scale(0.9916, 0.9916);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 4234
+  },
+  {
+    "checkpoint": "cabin",
+    "h": 844,
+    "missingImages": 0,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "interior",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 3720
+  },
+  {
+    "checkpoint": "body",
+    "h": 844,
+    "missingImages": 0,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "body",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 2839
+  },
+  {
+    "checkpoint": "brakes",
+    "h": 844,
+    "missingImages": 0,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "brakes",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 1958
+  },
+  {
+    "checkpoint": "powertrain",
+    "h": 844,
+    "missingImages": 0,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "powertrain",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 1077
+  },
+  {
+    "checkpoint": "hero",
+    "h": 844,
+    "missingImages": 0,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(12%, 0%) translate(0px, 18px) scale(0.97, 0.97);"
+      }
+    ],
+    "scene": "hero",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 0
+  },
+  {
+    "checkpoint": "handoff",
+    "h": 900,
+    "missingImages": 0,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; transform: translate(0px, -18px);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 9630
+  },
+  {
+    "checkpoint": "coverage",
+    "h": 900,
+    "missingImages": 0,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 8460
+  },
+  {
+    "checkpoint": "cabin-coverage",
+    "h": 900,
+    "missingImages": 0,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0.2",
+        "visual": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0.125",
+        "visual": "translate: none; rotate: none; scale: none; transform: translate3d(-6.9444px, 12.5px, 0px) scale(1.0208, 1.0208);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 7830
+  },
+  {
+    "checkpoint": "cabin",
+    "h": 900,
+    "missingImages": 0,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "interior",
+        "opacity": "1",
+        "visual": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 7470
+  },
+  {
+    "checkpoint": "body",
+    "h": 900,
+    "missingImages": 0,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "body",
+        "opacity": "1",
+        "visual": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 5760
+  },
+  {
+    "checkpoint": "brakes",
+    "h": 900,
+    "missingImages": 0,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "1",
+        "visual": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 3960
+  },
+  {
+    "checkpoint": "powertrain",
+    "h": 900,
+    "missingImages": 0,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "1",
+        "visual": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 2160
+  },
+  {
+    "checkpoint": "hero",
+    "h": 900,
+    "missingImages": 0,
+    "mode": "desktop",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "1",
+        "visual": null
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": null
+      },
+      {
+        "id": "coverage",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+      }
+    ],
+    "start": 0,
+    "travel": 9000,
+    "triggers": "1",
+    "w": 1440,
+    "y": 0
+  }
+]

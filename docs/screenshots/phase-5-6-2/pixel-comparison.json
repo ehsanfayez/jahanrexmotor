@@ -1,0 +1,434 @@
+[
+  {
+    "width": 1440,
+    "scene": "hero",
+    "pixelIdentical": false,
+    "changedPixels": 124426
+  },
+  {
+    "width": 1440,
+    "scene": "powertrain",
+    "pixelIdentical": false,
+    "changedPixels": 30695
+  },
+  {
+    "width": 1440,
+    "scene": "brakes",
+    "pixelIdentical": false,
+    "changedPixels": 49706
+  },
+  {
+    "width": 1440,
+    "scene": "body",
+    "pixelIdentical": false,
+    "changedPixels": 44435
+  },
+  {
+    "width": 1440,
+    "scene": "cabin",
+    "pixelIdentical": false,
+    "changedPixels": 35866
+  },
+  {
+    "width": 1440,
+    "scene": "coverage",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1440,
+    "scene": "handoff",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1440,
+    "scene": "about",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1440,
+    "scene": "why",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1440,
+    "scene": "principles",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1440,
+    "scene": "contact",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1440,
+    "scene": "footer",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1280,
+    "scene": "hero",
+    "pixelIdentical": false,
+    "changedPixels": 20878
+  },
+  {
+    "width": 1280,
+    "scene": "powertrain",
+    "pixelIdentical": false,
+    "changedPixels": 18283
+  },
+  {
+    "width": 1280,
+    "scene": "brakes",
+    "pixelIdentical": false,
+    "changedPixels": 31578
+  },
+  {
+    "width": 1280,
+    "scene": "body",
+    "pixelIdentical": false,
+    "changedPixels": 29452
+  },
+  {
+    "width": 1280,
+    "scene": "cabin",
+    "pixelIdentical": false,
+    "changedPixels": 22334
+  },
+  {
+    "width": 1280,
+    "scene": "coverage",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1280,
+    "scene": "handoff",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1280,
+    "scene": "about",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1280,
+    "scene": "why",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1280,
+    "scene": "principles",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1280,
+    "scene": "contact",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1280,
+    "scene": "footer",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1024,
+    "scene": "hero",
+    "pixelIdentical": false,
+    "changedPixels": 32746
+  },
+  {
+    "width": 1024,
+    "scene": "powertrain",
+    "pixelIdentical": false,
+    "changedPixels": 14898
+  },
+  {
+    "width": 1024,
+    "scene": "brakes",
+    "pixelIdentical": false,
+    "changedPixels": 66090
+  },
+  {
+    "width": 1024,
+    "scene": "body",
+    "pixelIdentical": false,
+    "changedPixels": 60187
+  },
+  {
+    "width": 1024,
+    "scene": "cabin",
+    "pixelIdentical": false,
+    "changedPixels": 54408
+  },
+  {
+    "width": 1024,
+    "scene": "coverage",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1024,
+    "scene": "handoff",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1024,
+    "scene": "about",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1024,
+    "scene": "why",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1024,
+    "scene": "principles",
+    "pixelIdentical": false,
+    "changedPixels": 52
+  },
+  {
+    "width": 1024,
+    "scene": "contact",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 1024,
+    "scene": "footer",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 768,
+    "scene": "hero",
+    "pixelIdentical": false,
+    "changedPixels": 83858
+  },
+  {
+    "width": 768,
+    "scene": "powertrain",
+    "pixelIdentical": false,
+    "changedPixels": 145681
+  },
+  {
+    "width": 768,
+    "scene": "brakes",
+    "pixelIdentical": false,
+    "changedPixels": 58422
+  },
+  {
+    "width": 768,
+    "scene": "body",
+    "pixelIdentical": false,
+    "changedPixels": 52645
+  },
+  {
+    "width": 768,
+    "scene": "cabin",
+    "pixelIdentical": false,
+    "changedPixels": 63451
+  },
+  {
+    "width": 768,
+    "scene": "coverage",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 768,
+    "scene": "handoff",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 768,
+    "scene": "about",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 768,
+    "scene": "why",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 768,
+    "scene": "principles",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 768,
+    "scene": "contact",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 768,
+    "scene": "footer",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 390,
+    "scene": "hero",
+    "pixelIdentical": false,
+    "changedPixels": 22663
+  },
+  {
+    "width": 390,
+    "scene": "powertrain",
+    "pixelIdentical": false,
+    "changedPixels": 60331
+  },
+  {
+    "width": 390,
+    "scene": "brakes",
+    "pixelIdentical": false,
+    "changedPixels": 4690
+  },
+  {
+    "width": 390,
+    "scene": "body",
+    "pixelIdentical": false,
+    "changedPixels": 3557
+  },
+  {
+    "width": 390,
+    "scene": "cabin",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 390,
+    "scene": "coverage",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 390,
+    "scene": "handoff",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 390,
+    "scene": "about",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 390,
+    "scene": "why",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 390,
+    "scene": "principles",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 390,
+    "scene": "contact",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 390,
+    "scene": "footer",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 320,
+    "scene": "hero",
+    "pixelIdentical": false,
+    "changedPixels": 17210
+  },
+  {
+    "width": 320,
+    "scene": "powertrain",
+    "pixelIdentical": false,
+    "changedPixels": 40699
+  },
+  {
+    "width": 320,
+    "scene": "brakes",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 320,
+    "scene": "body",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 320,
+    "scene": "cabin",
+    "pixelIdentical": false,
+    "changedPixels": 10870
+  },
+  {
+    "width": 320,
+    "scene": "coverage",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 320,
+    "scene": "handoff",
+    "pixelIdentical": false,
+    "changedPixels": 233
+  },
+  {
+    "width": 320,
+    "scene": "about",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 320,
+    "scene": "why",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 320,
+    "scene": "principles",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 320,
+    "scene": "contact",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  },
+  {
+    "width": 320,
+    "scene": "footer",
+    "pixelIdentical": true,
+    "changedPixels": 0
+  }
+]

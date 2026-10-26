@@ -1,0 +1,331 @@
+{
+  "beforeMenu": {
+    "brand": [
+      207.03125,
+      13.203125,
+      147.96875,
+      39.59375
+    ],
+    "y": 1077
+  },
+  "menuOpen": {
+    "brand": [
+      207.03125,
+      13.203125,
+      147.96875,
+      39.59375
+    ],
+    "focus": "دنیای قطعات",
+    "outline": "solid",
+    "rootOverflow": "hidden",
+    "y": 1077
+  },
+  "afterWheelY": 1077,
+  "menuClosed": {
+    "compensation": "",
+    "expanded": "false",
+    "focusedToggle": true,
+    "overflow": "visible"
+  },
+  "anchors": [
+    {
+      "headerBottom": 66,
+      "headingTop": 193.640625,
+      "locked": "visible",
+      "target": "#about",
+      "top": 100
+    },
+    {
+      "headerBottom": 66,
+      "headingTop": 222.71875,
+      "locked": "visible",
+      "target": "#contact",
+      "top": 100.21875
+    }
+  ],
+  "coverageAnchor": {
+    "h": 844,
+    "missingImages": 0,
+    "mode": "mobile",
+    "overflow": false,
+    "panels": [
+      {
+        "id": "hero",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "powertrain",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "brakes",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "body",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "interior",
+        "opacity": "0",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+      },
+      {
+        "id": "coverage",
+        "opacity": "1",
+        "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+      }
+    ],
+    "scene": "coverage",
+    "start": 0,
+    "travel": 4895,
+    "triggers": "1",
+    "w": 390,
+    "y": 4552
+  },
+  "resize": [
+    {
+      "h": 1024,
+      "missingImages": 0,
+      "mode": "mobile",
+      "overflow": false,
+      "panels": [
+        {
+          "id": "hero",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "powertrain",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "brakes",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "body",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "interior",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "coverage",
+          "opacity": "1",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+        }
+      ],
+      "scene": "coverage",
+      "start": 0,
+      "travel": 4895,
+      "triggers": "1",
+      "w": 768,
+      "y": 4552
+    },
+    {
+      "h": 768,
+      "missingImages": 0,
+      "mode": "desktop",
+      "overflow": false,
+      "panels": [
+        {
+          "id": "hero",
+          "opacity": "0",
+          "visual": null
+        },
+        {
+          "id": "powertrain",
+          "opacity": "0",
+          "visual": null
+        },
+        {
+          "id": "brakes",
+          "opacity": "0",
+          "visual": null
+        },
+        {
+          "id": "body",
+          "opacity": "0.9852",
+          "visual": null
+        },
+        {
+          "id": "interior",
+          "opacity": "0",
+          "visual": null
+        },
+        {
+          "id": "coverage",
+          "opacity": "0",
+          "visual": ""
+        }
+      ],
+      "start": 0,
+      "travel": 7680,
+      "triggers": "1",
+      "w": 1024,
+      "y": 4552
+    },
+    {
+      "h": 844,
+      "missingImages": 0,
+      "mode": "mobile",
+      "overflow": false,
+      "panels": [
+        {
+          "id": "hero",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "powertrain",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "brakes",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "body",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "interior",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "coverage",
+          "opacity": "1",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+        }
+      ],
+      "scene": "coverage",
+      "start": 0,
+      "travel": 4895,
+      "triggers": "1",
+      "w": 390,
+      "y": 4552
+    },
+    {
+      "h": 390,
+      "missingImages": 0,
+      "mode": "static",
+      "overflow": false,
+      "panels": [
+        {
+          "id": "hero",
+          "opacity": "1",
+          "visual": null
+        },
+        {
+          "id": "powertrain",
+          "opacity": "1",
+          "visual": null
+        },
+        {
+          "id": "brakes",
+          "opacity": "1",
+          "visual": null
+        },
+        {
+          "id": "body",
+          "opacity": "1",
+          "visual": null
+        },
+        {
+          "id": "interior",
+          "opacity": "1",
+          "visual": null
+        },
+        {
+          "id": "coverage",
+          "opacity": "1",
+          "visual": null
+        }
+      ],
+      "start": 0,
+      "travel": 6207.21875,
+      "triggers": "0",
+      "w": 844,
+      "y": 4552
+    },
+    {
+      "h": 844,
+      "missingImages": 0,
+      "mode": "mobile",
+      "overflow": false,
+      "panels": [
+        {
+          "id": "hero",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "powertrain",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "brakes",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "body",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "interior",
+          "opacity": "0",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 0; visibility: hidden; transform: translate(-15%, 0%) translate(0px, -12px) scale(0.97, 0.97);"
+        },
+        {
+          "id": "coverage",
+          "opacity": "1",
+          "visual": "translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);"
+        }
+      ],
+      "scene": "coverage",
+      "start": 0,
+      "travel": 4895,
+      "triggers": "1",
+      "w": 390,
+      "y": 4552
+    }
+  ],
+  "page": {
+    "brokenInternalLinks": [],
+    "direction": "rtl",
+    "duplicateIds": [],
+    "font": "Vazirmatn, Tahoma, sans-serif",
+    "phones": [
+      "tel:09373020028",
+      "tel:09373020028",
+      "tel:09373020028",
+      "tel:09373020028",
+      "tel:09373020028"
+    ],
+    "ssrError": false
+  },
+  "console": [],
+  "openMenuToDesktop": {
+    "compensation": "",
+    "expanded": "false",
+    "overflow": "visible",
+    "storyTriggers": "1"
+  }
+}

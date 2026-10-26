@@ -1,0 +1,30 @@
+---
+import type { PartAsset } from '../data/landing';
+import manifest from '../../public/images/parts/optimized/manifest.json';
+import { partImageSizes } from '../data/part-delivery';
+interface Props {
+  asset: PartAsset;
+  variant?: string;
+  eager?: boolean;
+  priority?: boolean;
+  sizes?: string;
+}
+const { asset, variant = '', eager = false, priority = false, sizes = partImageSizes(asset.id) } = Astro.props;
+const name = asset.src.split('/').pop()!.replace('.png', '');
+const metadata = manifest.find(part => part.name === name);
+if (!metadata) throw new Error(`Missing prepared image metadata for ${name}. Run npm run prepare:parts.`);
+const srcset = metadata.derivatives.map(({ width }) => `/images/parts/optimized/${name}-${width}.webp ${width}w`).join(', ');
+---
+<figure class:list={['part-slot', `part-${asset.kind}`, variant]} data-asset-slot={asset.id}>
+  <div class="part-motion" data-part-motion>
+    <div class="part-float" data-float>
+      <picture>
+        <source type="image/webp" srcset={srcset} sizes={sizes} />
+        <img src={asset.src} alt={asset.alt} width={metadata.width} height={metadata.height}
+          loading={eager ? 'eager' : 'lazy'} fetchpriority={priority ? 'high' : 'auto'}
+          decoding="async" draggable="false" />
+      </picture>
+    </div>
+  </div>
+  <figcaption dir="ltr"><span class="slot-cross" aria-hidden="true">+</span> {asset.label}<small>JAHANROKSAN MOTOR</small></figcaption>
+</figure>

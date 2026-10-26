@@ -1,0 +1,50 @@
+[
+  {
+    "foreground": "text",
+    "background": "bg",
+    "ratio": 13.59,
+    "normalAA": true
+  },
+  {
+    "foreground": "secondary",
+    "background": "bg",
+    "ratio": 8.77,
+    "normalAA": true
+  },
+  {
+    "foreground": "muted",
+    "background": "bg",
+    "ratio": 5.91,
+    "normalAA": true
+  },
+  {
+    "foreground": "text",
+    "background": "surface",
+    "ratio": 10.72,
+    "normalAA": true
+  },
+  {
+    "foreground": "secondary",
+    "background": "surface",
+    "ratio": 6.92,
+    "normalAA": true
+  },
+  {
+    "foreground": "muted",
+    "background": "surface",
+    "ratio": 4.66,
+    "normalAA": true
+  },
+  {
+    "foreground": "deep",
+    "background": "cta",
+    "ratio": 7.72,
+    "normalAA": true
+  },
+  {
+    "foreground": "deep",
+    "background": "accent",
+    "ratio": 6.86,
+    "normalAA": true
+  }
+]

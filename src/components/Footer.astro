@@ -1,0 +1,17 @@
+---
+import Brand from './Brand.astro';
+import Icon from './Icon.astro';
+import { contact } from '../data/landing';
+import '../styles/closing.css';
+---
+<footer class="footer corporate-footer">
+  <div class="shell">
+    <div class="footer-grid">
+      <div class="footer-identity"><Brand /><p>فعال در حوزه قطعات و مجموعه‌های خودرویی؛ با نگاهی به کیفیت، شناخت فنی و همکاری حرفه‌ای.</p></div>
+      <nav class="footer-navigation" aria-label="ناوبری پاورقی"><h2>در جهانرکسان</h2><a href="#parts">دنیای قطعات</a><a href="#about">درباره جهانرکسان</a><a href="#why">چرا جهانرکسان موتور؟</a><a href="#contact">اطلاعات تماس و همکاری</a></nav>
+      <div class="footer-communication"><h2>در ارتباط باشیم</h2><a class="footer-phone" href={`tel:${contact.phone}`} aria-label={`تماس با شماره ${contact.phone}`}><bdi dir="ltr">{contact.phone}</bdi><Icon name="phone-call" size={20} /></a><a class="footer-call-link" href={`tel:${contact.phone}`}>تماس مستقیم با ما</a><a class="footer-top-link" href="#parts">بازگشت به آغاز <Icon name="arrow-up" size={18} /></a></div>
+    </div>
+    <div class="footer-signature" lang="en" dir="ltr" aria-hidden="true">JAHANREXAN MOTOR</div>
+    <div class="footer-legal"><span>© {new Date().getFullYear().toLocaleString('fa-IR', { useGrouping: false })} جهانرکسان موتور. تمامی حقوق محفوظ است.</span><span lang="en" dir="ltr">PRECISION. CONNECTION. MOTION.</span></div>
+  </div>
+</footer>

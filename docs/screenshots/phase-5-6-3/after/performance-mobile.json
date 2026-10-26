@@ -1,0 +1,153 @@
+{
+  "environment": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+    "dpr": 1,
+    "width": 390,
+    "height": 844,
+    "throttling": "none; localhost preview"
+  },
+  "lcp": {
+    "time": 432,
+    "url": "http://127.0.0.1:4328/images/parts/optimized/engine-main-384.webp",
+    "element": "IMG"
+  },
+  "cls": 0.07591248722512972,
+  "longTaskBlockingMs": 101,
+  "resources": [
+    {
+      "name": "http://127.0.0.1:4328/fonts/Vazirmatn.woff2",
+      "transferSize": 111452,
+      "encodedBodySize": 111152,
+      "duration": 37.59999996423721,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/_astro/index.Bf0YJh77.css",
+      "transferSize": 11525,
+      "encodedBodySize": 11225,
+      "duration": 46.5,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/engine-main-384.webp",
+      "transferSize": 141094,
+      "encodedBodySize": 140794,
+      "duration": 45.80000001192093,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/gearbox-main-192.webp",
+      "transferSize": 35124,
+      "encodedBodySize": 34824,
+      "duration": 59.19999998807907,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/brake-disc-384.webp",
+      "transferSize": 84032,
+      "encodedBodySize": 83732,
+      "duration": 64.10000002384186,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/brake-caliper-192.webp",
+      "transferSize": 27984,
+      "encodedBodySize": 27684,
+      "duration": 74.69999998807907,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/suspension-main-192.webp",
+      "transferSize": 22964,
+      "encodedBodySize": 22664,
+      "duration": 78.40000003576279,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/front-bumper-384.webp",
+      "transferSize": 71976,
+      "encodedBodySize": 71676,
+      "duration": 98.89999997615814,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/front-fender-192.webp",
+      "transferSize": 18848,
+      "encodedBodySize": 18548,
+      "duration": 103.19999998807907,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/headlight-main-192.webp",
+      "transferSize": 28860,
+      "encodedBodySize": 28560,
+      "duration": 103.79999995231628,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/car-seat-384.webp",
+      "transferSize": 78838,
+      "encodedBodySize": 78538,
+      "duration": 107.40000003576279,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/side-mirror-192.webp",
+      "transferSize": 22488,
+      "encodedBodySize": 22188,
+      "duration": 111.69999998807907,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/steering-assembly-192.webp",
+      "transferSize": 30522,
+      "encodedBodySize": 30222,
+      "duration": 111.89999997615814,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/coverage-studio-background-1672.webp",
+      "transferSize": 136772,
+      "encodedBodySize": 136472,
+      "duration": 117.90000003576279,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/images/parts/optimized/exploded-sedan-components-480.webp",
+      "transferSize": 131054,
+      "encodedBodySize": 130754,
+      "duration": 123.10000002384186,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/_astro/index.astro_astro_type_script_index_0_lang.zgaot2pO.js",
+      "transferSize": 48742,
+      "encodedBodySize": 48442,
+      "duration": 58.19999998807907,
+      "responseStatus": 200
+    },
+    {
+      "name": "http://127.0.0.1:4328/favicon.svg",
+      "transferSize": 480,
+      "encodedBodySize": 180,
+      "duration": 8,
+      "responseStatus": 200
+    }
+  ],
+  "paint": [
+    {
+      "name": "first-paint",
+      "time": 432
+    },
+    {
+      "name": "first-contentful-paint",
+      "time": 432
+    }
+  ],
+  "navigation": {
+    "duration": 572.1999999880791,
+    "transferSize": 9612
+  },
+  "elapsed": 5563.600000023842,
+  "ready": true
+}

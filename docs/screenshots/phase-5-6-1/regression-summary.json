@@ -1,0 +1,60 @@
+{
+  "result": [
+    {
+      "scene": "hero",
+      "maxRectDifference": 0.0013000000000147338,
+      "typographyAndPaintEqual": true,
+      "responsiveImageSelectionChanges": 3
+    },
+    {
+      "scene": "powertrain",
+      "maxRectDifference": 0.0005999999999630745,
+      "typographyAndPaintEqual": true,
+      "responsiveImageSelectionChanges": 1
+    },
+    {
+      "scene": "brakes",
+      "maxRectDifference": 0,
+      "typographyAndPaintEqual": true,
+      "responsiveImageSelectionChanges": 2
+    },
+    {
+      "scene": "body",
+      "maxRectDifference": 0,
+      "typographyAndPaintEqual": true,
+      "responsiveImageSelectionChanges": 3
+    },
+    {
+      "scene": "cabin",
+      "maxRectDifference": 0,
+      "typographyAndPaintEqual": true,
+      "responsiveImageSelectionChanges": 1
+    },
+    {
+      "scene": "coverage",
+      "maxRectDifference": 0,
+      "typographyAndPaintEqual": true,
+      "responsiveImageSelectionChanges": 0
+    },
+    {
+      "scene": "handoff",
+      "maxRectDifference": 0,
+      "typographyAndPaintEqual": true,
+      "responsiveImageSelectionChanges": 0
+    }
+  ],
+  "unchanged": [
+    "src/scripts/cinematic-hero.ts",
+    "src/data/cinematic-story.ts",
+    "src/styles/cinematic-hero.css",
+    "src/components/Header.astro",
+    "src/components/Footer.astro",
+    "src/components/Capabilities.astro",
+    "src/components/Contact.astro",
+    "src/styles/tokens.css",
+    "src/tailwind.css",
+    "astro.config.mjs",
+    "package.json",
+    "package-lock.json"
+  ]
+}

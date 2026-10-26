@@ -1,0 +1,107 @@
+/* The closing environment joins the light corporate pages to the deep brand footer. */
+.cooperation {
+  position: relative;
+  isolation: isolate;
+  background: radial-gradient(ellipse at 78% 26%, color-mix(in srgb, var(--surface) 70%, transparent), transparent 68%), var(--bg);
+  color: var(--text);
+  padding-block: 115px 96px;
+  scroll-margin-top: 0;
+}
+.cooperation::before {
+  content: '';
+  position: absolute;
+  inset: 0 0 auto;
+  height: 52px;
+  background: var(--paper);
+  clip-path: polygon(0 0, 100% 0, 100% 12%, 0 100%);
+  pointer-events: none;
+}
+.cooperation .cooperation-grid { display: grid; grid-template-columns: 1.5fr 1fr; gap: 100px; align-items: center; }
+.cooperation .closing-eyebrow { display: flex; align-items: center; gap: 12px; font-size: 12px; color: var(--secondary); margin: 0; }
+.cooperation .closing-eyebrow > span { width: 22px; height: 3px; background: var(--accent); flex: 0 0 auto; }
+.cooperation h2 { font-size: clamp(34px, 3.5vw, 53px); line-height: 1.65; font-weight: 650; letter-spacing: 0; margin: 25px 0 22px; }
+.cooperation h2 > .conversation-emphasis { color: var(--cta-hover); }
+.cooperation-ending { white-space: nowrap; }
+.cooperation .cooperation-description { font-size: 15px; line-height: 2.1; color: var(--secondary); max-width: 510px; margin: 0; }
+.cooperation .cooperation-action { padding-inline-start: 55px; border-inline-start: 1px solid var(--editorial-rule); scroll-margin-top: 0; min-width: 0; }
+.cooperation .contact-channel { display: block; color: var(--muted); font-size: 12px; }
+.cooperation .contact-number { display: flex; width: fit-content; align-items: center; min-height: 52px; font-size: clamp(26px, 2.4vw, 35px); font-weight: 450; line-height: 1.5; margin-block: 11px 25px; }
+.cooperation .contact-number bdi { letter-spacing: .035em; }
+.closing-call { min-height: 54px; border: 1px solid var(--accent); border-radius: var(--button-radius); background: var(--deep); color: var(--text); padding: 13px 22px; display: inline-flex; align-items: center; justify-content: center; gap: 20px; font-size: 13px; font-weight: 550; line-height: 1.7; transition: background var(--motion-ui), border-color var(--motion-ui), transform var(--motion-ui); }
+.closing-call svg { color: var(--cta-hover); flex: 0 0 auto; }
+.closing-call:hover { background: color-mix(in srgb, var(--accent-depth) 17%, var(--deep)); border-color: var(--cta-hover); transform: translateY(-2px); }
+.cooperation .cooperation-action p { color: var(--muted); font-size: 11px; margin: 16px 0 0; }
+.footer.corporate-footer { background: var(--deep); color: var(--text); padding: 72px 0 0; overflow: clip; border-top: 1px solid var(--line); }
+.corporate-footer .footer-grid { display: grid; grid-template-columns: 1.35fr 1fr .9fr; gap: 85px; align-items: start; }
+.corporate-footer .footer-identity { max-width: 350px; }
+.corporate-footer .brand { font-size: 22px; gap: 12px; }
+.corporate-footer .brand-symbol { width: 43px; height: 43px; flex-shrink: 0; }
+.corporate-footer .brand small { font-size: 8px; letter-spacing: 2px; }
+.corporate-footer .footer-identity p { color: var(--secondary); font-size: 13px; line-height: 2.15; margin: 25px 0 0; }
+.corporate-footer h2 { font-size: 13px; font-weight: 600; margin: 0 0 15px; line-height: 1.8; color: var(--text); }
+.corporate-footer .footer-navigation { display: flex; flex-direction: column; align-items: flex-start; min-width: 0; }
+.corporate-footer .footer-navigation a { display: inline-flex; align-items: center; min-height: 44px; color: var(--secondary); font-size: 12px; }
+.corporate-footer .footer-communication { min-width: 0; }
+.corporate-footer .footer-phone { display: inline-flex; gap: 15px; align-items: center; min-height: 44px; font-size: 23px; font-weight: 450; line-height: 1.5; }
+.corporate-footer .footer-phone svg { color: var(--accent); flex-shrink: 0; }
+.corporate-footer .footer-call-link { display: flex; align-items: center; min-height: 44px; width: fit-content; color: var(--secondary); font-size: 12px; }
+.corporate-footer .footer-top-link { display: inline-flex; align-items: center; gap: 17px; min-height: 44px; color: var(--muted); font-size: 11px; margin-top: 16px; }
+.corporate-footer .footer-top-link svg { color: var(--accent); }
+.corporate-footer a:hover { color: var(--cta-hover); }
+.corporate-footer .footer-signature { font-size: clamp(20px, 7.7vw, 110px); font-weight: 700; line-height: 1.2; letter-spacing: -.055em; color: color-mix(in srgb, var(--secondary) 13%, var(--deep)); white-space: nowrap; margin: 65px 0 32px; }
+.corporate-footer .footer-legal { display: flex; justify-content: space-between; gap: 25px; align-items: center; min-height: 70px; padding-block: 21px; border-top: 1px solid var(--line); color: var(--muted); font-size: 11px; line-height: 1.9; }
+.corporate-footer .footer-legal [lang] { font-size: 9px; letter-spacing: 1.3px; }
+@media (max-width: 1100px) {
+  .cooperation .cooperation-grid { gap: 60px; grid-template-columns: 1.4fr 1fr; }
+  .cooperation .cooperation-action { padding-inline-start: 35px; }
+  .corporate-footer .footer-grid { gap: 45px; }
+  .corporate-footer .brand { font-size: 19px; }
+  .corporate-footer .footer-phone { font-size: 21px; }
+}
+@media (max-width: 899px) {
+  .cooperation { padding-block: 95px 75px; }
+  .cooperation .cooperation-grid { grid-template-columns: 1fr; gap: 42px; }
+  .cooperation .cooperation-action { border-inline-start: 0; padding: 30px 0 0; border-top: 1px solid var(--editorial-rule); }
+  .cooperation h2 { font-size: 40px; }
+  .cooperation .contact-number { font-size: 32px; }
+  .corporate-footer .footer-grid { grid-template-columns: 1.25fr 1fr; gap: 45px; }
+  .corporate-footer .footer-identity { grid-column: 1 / -1; max-width: 430px; }
+  .corporate-footer .footer-signature { margin-top: 45px; }
+  .corporate-footer .footer-legal { align-items: flex-start; }
+}
+@media (max-width: 600px) {
+  .cooperation { padding-block: 80px 58px; }
+  .cooperation::before { height: 30px; }
+  .cooperation .cooperation-grid, .corporate-footer > .shell { width: calc(100% - 40px); }
+  .cooperation .closing-eyebrow { font-size: 10px; gap: 10px; }
+  .cooperation h2 { font-size: 30px; margin-block: 21px 20px; }
+  .cooperation .cooperation-description { font-size: 14px; }
+  .cooperation .cooperation-grid { gap: 28px; }
+  .cooperation .cooperation-action { padding-top: 25px; }
+  .cooperation .contact-number { font-size: 29px; margin-block: 8px 20px; }
+  .closing-call { min-height: 50px; padding: 12px 17px; font-size: 12px; gap: 16px; }
+  .footer.corporate-footer { padding-top: 50px; }
+  .corporate-footer .footer-grid { grid-template-columns: 1fr; gap: 34px; }
+  .corporate-footer .footer-identity { grid-column: auto; }
+  .corporate-footer .brand { font-size: 20px; }
+  .corporate-footer .brand-symbol { width: 38px; height: 38px; }
+  .corporate-footer .brand small { font-size: 7px; }
+  .corporate-footer .footer-identity p { font-size: 13px; margin-top: 18px; }
+  .corporate-footer h2 { margin-bottom: 9px; }
+  .corporate-footer .footer-navigation { display: grid; grid-template-columns: 1fr 1fr; gap: 0 15px; }
+  .corporate-footer .footer-navigation h2 { grid-column: 1 / -1; }
+  .corporate-footer .footer-navigation a { font-size: 12px; }
+  .corporate-footer .footer-phone { font-size: 24px; }
+  .corporate-footer .footer-signature { margin-block: 38px 24px; }
+  .corporate-footer .footer-legal { flex-direction: column; gap: 9px; min-height: 0; padding-block: 20px; font-size: 10px; }
+  .corporate-footer .footer-legal [lang] { font-size: 8px; letter-spacing: 1px; }
+}
+@media (max-width: 360px) {
+  .cooperation h2 { font-size: 26px; }
+  .cooperation .closing-eyebrow { font-size: 9px; }
+  .cooperation .closing-call { width: 100%; }
+  .corporate-footer .footer-navigation { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .closing-call:hover { transform: none; }
+}

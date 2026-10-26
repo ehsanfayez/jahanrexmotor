@@ -1,0 +1,39 @@
+{
+  "panels": [
+    {
+      "inert": false,
+      "name": "hero",
+      "style": null
+    },
+    {
+      "inert": false,
+      "name": "powertrain",
+      "style": null
+    },
+    {
+      "inert": false,
+      "name": "brakes",
+      "style": null
+    },
+    {
+      "inert": false,
+      "name": "body",
+      "style": null
+    },
+    {
+      "inert": false,
+      "name": "interior",
+      "style": null
+    },
+    {
+      "inert": false,
+      "name": "coverage",
+      "style": null
+    }
+  ],
+  "visualStyles": [
+    null,
+    null,
+    null
+  ]
+}

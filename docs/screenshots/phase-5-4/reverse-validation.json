@@ -1,0 +1,2709 @@
+{
+  "comparison": "Computed transform none is normalized to its equivalent identity matrix.",
+  "results": [
+    {
+      "progress": 0.83,
+      "equal": true
+    },
+    {
+      "progress": 0.89,
+      "equal": true
+    },
+    {
+      "progress": 0.94,
+      "equal": true
+    },
+    {
+      "progress": 0.865,
+      "equal": true
+    },
+    {
+      "progress": 0.987,
+      "equal": true
+    }
+  ],
+  "forward": {
+    "83": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "coverage",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 18)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 10)",
+        "visibility": "hidden"
+      }
+    ],
+    "89": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -24)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage",
+        "opacity": "0.875",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "matrix(1.0075, 0, 0, 1.0075, -2.5, 4.5)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "0.4375",
+        "transform": "matrix(1, 0, 0, 1, 0, 10.125)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 10)",
+        "visibility": "hidden"
+      }
+    ],
+    "94": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -24)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      }
+    ],
+    "865": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0.7187",
+        "transform": "matrix(0.9944, 0, 0, 0.9944, -38.9939, -13.5398)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0.4",
+        "transform": "matrix(1, 0, 0, 1, 0, -14.4)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "coverage",
+        "opacity": "0.0313",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "matrix(1.0252, 0, 0, 1.0252, -8.4028, 15.125)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 18)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 10)",
+        "visibility": "hidden"
+      }
+    ],
+    "987": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -24)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, -8.64)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "0.784",
+        "transform": "matrix(1, 0, 0, 1, 0, -6.72)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      }
+    ]
+  },
+  "reverse": {
+    "83": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "coverage",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 18)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 10)",
+        "visibility": "hidden"
+      }
+    ],
+    "89": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -24)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage",
+        "opacity": "0.875",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "matrix(1.0075, 0, 0, 1.0075, -2.5, 4.5)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "0.4375",
+        "transform": "matrix(1, 0, 0, 1, 0, 10.125)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 10)",
+        "visibility": "hidden"
+      }
+    ],
+    "94": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -24)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      }
+    ],
+    "865": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0.7187",
+        "transform": "matrix(0.9944, 0, 0, 0.9944, -38.9939, -13.5398)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0.4",
+        "transform": "matrix(1, 0, 0, 1, 0, -14.4)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "visible"
+      },
+      {
+        "inert": true,
+        "name": "coverage",
+        "opacity": "0.0313",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "matrix(1.0252, 0, 0, 1.0252, -8.4028, 15.125)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 18)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 10)",
+        "visibility": "hidden"
+      }
+    ],
+    "987": [
+      {
+        "inert": false,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(0.98, 0, 0, 0.98, -138.645, -48.1403)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "hero",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -30)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "powertrain",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "brakes",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "body",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, -18, -22)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": true,
+        "name": "interior",
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, -24)",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "part-motion",
+        "opacity": "1",
+        "transform": "none",
+        "visibility": "hidden"
+      },
+      {
+        "inert": false,
+        "name": "coverage",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-visual",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, -8.64)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-copy",
+        "opacity": "0.784",
+        "transform": "matrix(1, 0, 0, 1, 0, -6.72)",
+        "visibility": "visible"
+      },
+      {
+        "inert": false,
+        "name": "coverage-categories",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "visibility": "visible"
+      }
+    ]
+  }
+}

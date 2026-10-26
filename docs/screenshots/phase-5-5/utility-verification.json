@@ -1,0 +1,67 @@
+{
+  "checks": {
+    "grid": true,
+    "padding": true,
+    "spacing": true,
+    "color": true,
+    "responsive": true,
+    "hover": true,
+    "namespacedTheme": true
+  },
+  "rules": [
+    {
+      "selector": ".tw\\:grid",
+      "declarations": [
+        [
+          "display",
+          "grid"
+        ]
+      ]
+    },
+    {
+      "selector": ".tw\\:gap-4",
+      "declarations": [
+        [
+          "gap",
+          "calc(var(--tw-spacing) * 4)"
+        ]
+      ]
+    },
+    {
+      "selector": ".tw\\:p-4",
+      "declarations": [
+        [
+          "padding",
+          "calc(var(--tw-spacing) * 4)"
+        ]
+      ]
+    },
+    {
+      "selector": ".tw\\:text-red-500",
+      "declarations": [
+        [
+          "color",
+          "var(--tw-color-red-500)"
+        ]
+      ]
+    },
+    {
+      "selector": ".tw\\:hover\\:bg-blue-500:hover",
+      "declarations": [
+        [
+          "background-color",
+          "var(--tw-color-blue-500)"
+        ]
+      ]
+    },
+    {
+      "selector": ".tw\\:md\\:flex",
+      "declarations": [
+        [
+          "display",
+          "flex"
+        ]
+      ]
+    }
+  ]
+}

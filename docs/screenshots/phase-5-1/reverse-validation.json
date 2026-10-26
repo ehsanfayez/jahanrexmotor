@@ -1,0 +1,139 @@
+{
+  "equal": true,
+  "reverse": {
+    "groups": [
+      {
+        "matrix": "matrix(0.985, 0, 0, 0.985, -385.125, -48.1403)",
+        "name": "powertrain",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(0.95, 0, 0, 0.95, 327.356, 82.5263)",
+        "name": "brakes",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -46.215, -82.5263)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "light": "0.5",
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0.36"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "parts": [
+      {
+        "matrix": "matrix(1.0286, 0, 0, 1.0286, -38.5125, -48.1405)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1.125, 0, 0, 1.125, 30.8086, 350.723)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -35.4313, -35.4313)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "opacity": "1"
+      }
+    ]
+  },
+  "forward": {
+    "groups": [
+      {
+        "matrix": "matrix(0.985, 0, 0, 0.985, -385.125, -48.1403)",
+        "name": "powertrain",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(0.95, 0, 0, 0.95, 327.356, 82.5263)",
+        "name": "brakes",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -46.215, -82.5263)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "light": "0.5",
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0.36"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "parts": [
+      {
+        "matrix": "matrix(1.0286, 0, 0, 1.0286, -38.5125, -48.1405)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1.125, 0, 0, 1.125, 30.8086, 350.723)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -35.4313, -35.4313)",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "opacity": "1"
+      }
+    ]
+  }
+}

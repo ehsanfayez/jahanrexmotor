@@ -1,0 +1,33 @@
+{
+  "enhanced": "cinematic-experience",
+  "panels": [
+    {
+      "inert": false,
+      "name": "hero",
+      "opacity": "1",
+      "style": null,
+      "visibility": "visible"
+    },
+    {
+      "inert": false,
+      "name": "powertrain",
+      "opacity": "1",
+      "style": null,
+      "visibility": "visible"
+    },
+    {
+      "inert": false,
+      "name": "brakes",
+      "opacity": "1",
+      "style": null,
+      "visibility": "visible"
+    },
+    {
+      "inert": false,
+      "name": "handoff",
+      "opacity": "1",
+      "style": null,
+      "visibility": "visible"
+    }
+  ]
+}

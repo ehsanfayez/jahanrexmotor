@@ -1,0 +1,274 @@
+[
+  {
+    "label": "coverage-1440",
+    "actions": 0,
+    "cabin": {
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "car": {
+      "left": 42.75,
+      "mask": "linear-gradient(to right, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 82%, rgba(0, 0, 0, 0.9) 94%, rgba(0, 0, 0, 0) 100%)",
+      "width": 826.5
+    },
+    "categories": 4,
+    "coverageOpacity": "1",
+    "enhanced": true,
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "overflow": false,
+    "progress": 0.94,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "handoff-1440",
+    "actions": 0,
+    "cabin": {
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "car": {
+      "left": 42.75,
+      "mask": "linear-gradient(to right, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 82%, rgba(0, 0, 0, 0.9) 94%, rgba(0, 0, 0, 0) 100%)",
+      "width": 826.5
+    },
+    "categories": 4,
+    "coverageOpacity": "1",
+    "enhanced": true,
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "overflow": false,
+    "progress": 1.045,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "coverage-1280",
+    "actions": 0,
+    "cabin": {
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "car": {
+      "left": 37.9375,
+      "mask": "linear-gradient(to right, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 82%, rgba(0, 0, 0, 0.9) 94%, rgba(0, 0, 0, 0) 100%)",
+      "width": 733.6875
+    },
+    "categories": 4,
+    "coverageOpacity": "1",
+    "enhanced": true,
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "overflow": false,
+    "progress": 0.94,
+    "viewport": [
+      1280,
+      720
+    ]
+  },
+  {
+    "label": "coverage-1024",
+    "actions": 0,
+    "cabin": {
+      "opacity": "0",
+      "visibility": "hidden"
+    },
+    "car": {
+      "left": 30.265625,
+      "mask": "linear-gradient(to right, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 82%, rgba(0, 0, 0, 0.9) 94%, rgba(0, 0, 0, 0) 100%)",
+      "width": 585.21875
+    },
+    "categories": 4,
+    "coverageOpacity": "1",
+    "enhanced": true,
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "overflow": false,
+    "progress": 0.9399739583333332,
+    "viewport": [
+      1024,
+      768
+    ]
+  },
+  {
+    "label": "coverage-768",
+    "actions": 0,
+    "cabin": {
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "car": {
+      "left": 32,
+      "mask": "linear-gradient(to right, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 82%, rgba(0, 0, 0, 0.6) 100%)",
+      "width": 564.96875
+    },
+    "categories": 4,
+    "coverageOpacity": "1",
+    "enhanced": false,
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "overflow": false,
+    "progress": 1.0192098586444365,
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "label": "coverage-390",
+    "actions": 0,
+    "cabin": {
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "car": {
+      "left": 0,
+      "mask": "linear-gradient(to right, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 82%, rgba(0, 0, 0, 0.6) 100%)",
+      "width": 307.5
+    },
+    "categories": 4,
+    "coverageOpacity": "1",
+    "enhanced": false,
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "overflow": false,
+    "progress": 1.0153183341311631,
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "label": "coverage-320",
+    "actions": 0,
+    "cabin": {
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "car": {
+      "left": 0,
+      "mask": "linear-gradient(to right, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 82%, rgba(0, 0, 0, 0.6) 100%)",
+      "width": 250.09375
+    },
+    "categories": 4,
+    "coverageOpacity": "1",
+    "enhanced": false,
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "overflow": false,
+    "progress": 0.9609232175502742,
+    "viewport": [
+      320,
+      700
+    ]
+  },
+  {
+    "label": "coverage-details-320",
+    "actions": 0,
+    "cabin": {
+      "opacity": "1",
+      "visibility": "visible"
+    },
+    "car": {
+      "left": 0,
+      "mask": "linear-gradient(to right, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 82%, rgba(0, 0, 0, 0.6) 100%)",
+      "width": 250.09375
+    },
+    "categories": 4,
+    "coverageOpacity": "1",
+    "enhanced": false,
+    "images": [
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/coverage-studio-background-1672.webp",
+        "loaded": true,
+        "src": "/images/parts/coverage-studio-background.png"
+      },
+      {
+        "current": "http://127.0.0.1:4325/images/parts/optimized/exploded-sedan-components-960.webp",
+        "loaded": true,
+        "src": "/images/parts/exploded-sedan-components.png"
+      }
+    ],
+    "overflow": false,
+    "progress": 1.01691042047532,
+    "viewport": [
+      320,
+      700
+    ]
+  }
+]

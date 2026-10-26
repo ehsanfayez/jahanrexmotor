@@ -1,0 +1,547 @@
+{
+  "scope": "Local deliverable files; dependencies, build output, caches and isolated install excluded. Pattern scan is not a proof that no secret exists.",
+  "scannedFiles": 1051,
+  "findings": [],
+  "machinePaths": [],
+  "assetPaths": {
+    "checked": 65,
+    "failures": []
+  },
+  "assets": [
+    {
+      "file": "public/favicon.svg",
+      "bytes": 180,
+      "category": "required-static-assets-or-notices",
+      "sha256": "c4deeefbeeeca2567368dee31c5aa9033d791e8eb54f805f97cd019cd36331a3"
+    },
+    {
+      "file": "public/fonts/OFL.txt",
+      "bytes": 4391,
+      "category": "required-static-assets-or-notices",
+      "sha256": "17e355067c8284f47743a1ee3b1ef7ff684ff0601eda357f9353b10b3016ab31"
+    },
+    {
+      "file": "public/fonts/Vazirmatn.woff2",
+      "bytes": 111152,
+      "category": "required-static-assets-or-notices",
+      "sha256": "4e3fa217d38fdafc1fea4414ceb58ca5e662cf0ab5fa735a8c8c20e8b42cad92"
+    },
+    {
+      "file": "public/images/parts/brake-caliper.png",
+      "bytes": 1881451,
+      "category": "required-static-assets-or-notices",
+      "sha256": "e2cfa3768481cce4290bac38cb685989477e0cabcf3dfac097ce2fa81f9a9d82"
+    },
+    {
+      "file": "public/images/parts/brake-disc.png",
+      "bytes": 1564814,
+      "category": "required-static-assets-or-notices",
+      "sha256": "740a44dc161ca79f410d8412f6fd1e0093e0d082b715ed26d0cd8c95b8d116dc"
+    },
+    {
+      "file": "public/images/parts/car-seat.png",
+      "bytes": 1520784,
+      "category": "required-static-assets-or-notices",
+      "sha256": "6423857929ca3bc5eb2a684729fdc9080912cc314f7aa5790a914467f6a1a9e3"
+    },
+    {
+      "file": "public/images/parts/coverage-studio-background.png",
+      "bytes": 1950090,
+      "category": "required-static-assets-or-notices",
+      "sha256": "2ccb8ea38723859b72fc8048c74eefc78c6bb74b37c2beac58a5e965afbb8685"
+    },
+    {
+      "file": "public/images/parts/engine-main.png",
+      "bytes": 2362047,
+      "category": "required-static-assets-or-notices",
+      "sha256": "e2e3efa4ee822bf0283e1f6dfcb0b76457c1d7a7cf22a37391d2dc5bbe329930"
+    },
+    {
+      "file": "public/images/parts/exploded-sedan-components.png",
+      "bytes": 2317640,
+      "category": "required-static-assets-or-notices",
+      "sha256": "3c547df9e633910c6f68a638a409c6f82d74f7441c5a662e1711fecf3fe2add7"
+    },
+    {
+      "file": "public/images/parts/front-bumper.png",
+      "bytes": 1205131,
+      "category": "required-static-assets-or-notices",
+      "sha256": "891028791c37b692883fa49d99c39180a15f0d2357ab9ceeb2fa6cb376f4f364"
+    },
+    {
+      "file": "public/images/parts/front-fender.png",
+      "bytes": 1127345,
+      "category": "required-static-assets-or-notices",
+      "sha256": "e3447ce346b275a48a1500b3858e4a85a146b3001f49bcade08ae7fd7a78f4f3"
+    },
+    {
+      "file": "public/images/parts/gearbox-main.png",
+      "bytes": 2026203,
+      "category": "required-static-assets-or-notices",
+      "sha256": "7030e3033f24e77d0e66681163b001565aa50d2a3a1b3d7fcd03086e610c6af1"
+    },
+    {
+      "file": "public/images/parts/headlight-main.png",
+      "bytes": 1765564,
+      "category": "required-static-assets-or-notices",
+      "sha256": "e1045da74a35540cf716063a85e95734540db923420215ea6efb8df0f948c783"
+    },
+    {
+      "file": "public/images/parts/optimized/brake-caliper-1254.webp",
+      "bytes": 1068032,
+      "category": "required-static-assets-or-notices",
+      "sha256": "5013c0531387a5fc48de86e42cfbe4a949b7d629382bf5cada5d051a282b53c5"
+    },
+    {
+      "file": "public/images/parts/optimized/brake-caliper-192.webp",
+      "bytes": 27684,
+      "category": "required-static-assets-or-notices",
+      "sha256": "91028623fe748485848a0fac3e7acb2ba54ae0c62028d72a5f699d60f08fef10"
+    },
+    {
+      "file": "public/images/parts/optimized/brake-caliper-384.webp",
+      "bytes": 96236,
+      "category": "required-static-assets-or-notices",
+      "sha256": "819e96f52c289efd52d981f72428cbc157f964a8bc5e629c9e91673dab82d95d"
+    },
+    {
+      "file": "public/images/parts/optimized/brake-caliper-768.webp",
+      "bytes": 400464,
+      "category": "required-static-assets-or-notices",
+      "sha256": "b0d11dae8f73759633738810c3020906c1c693f1d16440ddb90cb43470dfd4d2"
+    },
+    {
+      "file": "public/images/parts/optimized/brake-disc-1254.webp",
+      "bytes": 902052,
+      "category": "required-static-assets-or-notices",
+      "sha256": "1e9eff2dabee0b454ed9e373fb29679ccacfb5c7d6b9b6416e3b3ee8208d918f"
+    },
+    {
+      "file": "public/images/parts/optimized/brake-disc-192.webp",
+      "bytes": 24550,
+      "category": "required-static-assets-or-notices",
+      "sha256": "8d62695963ef25416d50037e6e5fffcd173ed8cefb7d8f48b44bc3c9c893ce73"
+    },
+    {
+      "file": "public/images/parts/optimized/brake-disc-384.webp",
+      "bytes": 83732,
+      "category": "required-static-assets-or-notices",
+      "sha256": "2afff54d6f8c79643993e42edaa41285b032ca8502ce68894611e7836df9e5c8"
+    },
+    {
+      "file": "public/images/parts/optimized/brake-disc-768.webp",
+      "bytes": 331668,
+      "category": "required-static-assets-or-notices",
+      "sha256": "a4b3c9820818edd492178ed4250dcb318402b230d2e97cfb5361de35cb29f80b"
+    },
+    {
+      "file": "public/images/parts/optimized/car-seat-1254.webp",
+      "bytes": 881406,
+      "category": "required-static-assets-or-notices",
+      "sha256": "ce9fee6398c2568e961e9d1aeb68864bf2500b2d60063ac205e57278d32ce6a1"
+    },
+    {
+      "file": "public/images/parts/optimized/car-seat-192.webp",
+      "bytes": 22516,
+      "category": "required-static-assets-or-notices",
+      "sha256": "a073b7e94c8118e414eab03b55ab4d9040d904f32559d9a807ecaf1b4a711240"
+    },
+    {
+      "file": "public/images/parts/optimized/car-seat-384.webp",
+      "bytes": 78538,
+      "category": "required-static-assets-or-notices",
+      "sha256": "ce5a3016cac5c31283b6bbf09eca0a34e157c098e77eba6ff838916f130cc783"
+    },
+    {
+      "file": "public/images/parts/optimized/car-seat-768.webp",
+      "bytes": 336330,
+      "category": "required-static-assets-or-notices",
+      "sha256": "3c2bf58114a9d25b35cf3690fc1c90d34f34096dc930c88585ec95f2802b3c0d"
+    },
+    {
+      "file": "public/images/parts/optimized/coverage-studio-background-1672.webp",
+      "bytes": 136472,
+      "category": "required-static-assets-or-notices",
+      "sha256": "36064f09bc1821488a539062be6a79e0ed06eceb287c45dd62006382cca1a8b6"
+    },
+    {
+      "file": "public/images/parts/optimized/coverage-studio-background-960.webp",
+      "bytes": 46552,
+      "category": "required-static-assets-or-notices",
+      "sha256": "12d0aad091aa94af5c041dfa10f52290e978ec924524d6de2f0f3ca5685a6352"
+    },
+    {
+      "file": "public/images/parts/optimized/engine-main-1254.webp",
+      "bytes": 1418372,
+      "category": "required-static-assets-or-notices",
+      "sha256": "c860f2f42f488abbb9570671e6448a9e14d2ae0aaf5cb54352020c757d3060bf"
+    },
+    {
+      "file": "public/images/parts/optimized/engine-main-192.webp",
+      "bytes": 40244,
+      "category": "required-static-assets-or-notices",
+      "sha256": "fb61b87f3d5ca0757beaf3a1fc562ef22a438b52a47030956fc3a6b130caa3b0"
+    },
+    {
+      "file": "public/images/parts/optimized/engine-main-384.webp",
+      "bytes": 140794,
+      "category": "required-static-assets-or-notices",
+      "sha256": "39198906fa3712a603e1ca78396bd6adfb5e80729dfb2083c440fd4725e961d9"
+    },
+    {
+      "file": "public/images/parts/optimized/engine-main-768.webp",
+      "bytes": 543742,
+      "category": "required-static-assets-or-notices",
+      "sha256": "c76f8fae93d15c249185f0c3df18d049b0a1348b33c53265101fc1819a38e949"
+    },
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-components-1672.webp",
+      "bytes": 497678,
+      "category": "required-static-assets-or-notices",
+      "sha256": "00f1772e180fb2db93ea79344293db528a807505d218d462464bc76581861bd6"
+    },
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-components-480.webp",
+      "bytes": 130754,
+      "category": "required-static-assets-or-notices",
+      "sha256": "9ad7d5c434c2d86aff5e9232eb399f74367fea2b8ab5570b76120a28b497da04"
+    },
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-components-960.webp",
+      "bytes": 208254,
+      "category": "required-static-assets-or-notices",
+      "sha256": "9c4498339d27929fb9a880a34caebd449347585bb16776ad41790b7fe23376af"
+    },
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-coverage-1672.webp",
+      "bytes": 294842,
+      "category": "required-static-assets-or-notices",
+      "sha256": "de14c56d91ae71ad08c7d3b6fb79e81c34b42fa15a5994e683f43ec633b6a837"
+    },
+    {
+      "file": "public/images/parts/optimized/exploded-sedan-coverage-960.webp",
+      "bytes": 112508,
+      "category": "required-static-assets-or-notices",
+      "sha256": "6c0c0f15a2ddff01045b3a78207d18b005d34723be6c434e01095649370de7a0"
+    },
+    {
+      "file": "public/images/parts/optimized/front-bumper-1254.webp",
+      "bytes": 663698,
+      "category": "required-static-assets-or-notices",
+      "sha256": "8a1ead7ffa328530606f6a4b89e8ca3445bd02a7342cfd160d3e14fbcffa549c"
+    },
+    {
+      "file": "public/images/parts/optimized/front-bumper-192.webp",
+      "bytes": 21010,
+      "category": "required-static-assets-or-notices",
+      "sha256": "7e7ff97ca777e4e5d9f1ebdeb316f9fd66819b0747b85b759101d17b79ee640a"
+    },
+    {
+      "file": "public/images/parts/optimized/front-bumper-384.webp",
+      "bytes": 71676,
+      "category": "required-static-assets-or-notices",
+      "sha256": "d3dd951a0eac14aa47ef42d40e75bf4fc2dae553d7e9dabd06711b0a6aa131e9"
+    },
+    {
+      "file": "public/images/parts/optimized/front-bumper-768.webp",
+      "bytes": 262558,
+      "category": "required-static-assets-or-notices",
+      "sha256": "00e276c149ca9d4e9928a19de7ca973e859dd0bfa91f7b94edb95f3862d95bc5"
+    },
+    {
+      "file": "public/images/parts/optimized/front-fender-1254.webp",
+      "bytes": 669256,
+      "category": "required-static-assets-or-notices",
+      "sha256": "4803f3673117c4935b92e1f81381136e1ddf776690f2e58edeee13b2fee7c451"
+    },
+    {
+      "file": "public/images/parts/optimized/front-fender-192.webp",
+      "bytes": 18548,
+      "category": "required-static-assets-or-notices",
+      "sha256": "97d32619f813b9e5a25ed78fcd3b7eafad99cde2fc6c79c7d57deb616f524736"
+    },
+    {
+      "file": "public/images/parts/optimized/front-fender-384.webp",
+      "bytes": 61624,
+      "category": "required-static-assets-or-notices",
+      "sha256": "fce50e9a4333f1a2753b0bcc30db69be41bb5387741ad5751c7c2462040173b4"
+    },
+    {
+      "file": "public/images/parts/optimized/front-fender-768.webp",
+      "bytes": 256682,
+      "category": "required-static-assets-or-notices",
+      "sha256": "1a54ec6cc0c9ed2aec1ba824ea59e5f787f39626c2de8de3c294d7407581a88c"
+    },
+    {
+      "file": "public/images/parts/optimized/gearbox-main-1254.webp",
+      "bytes": 1216902,
+      "category": "required-static-assets-or-notices",
+      "sha256": "da938f1e0ed6af0ecef3d0fcc19864834d80a5a08af767fd61080697e26ba9ef"
+    },
+    {
+      "file": "public/images/parts/optimized/gearbox-main-192.webp",
+      "bytes": 34824,
+      "category": "required-static-assets-or-notices",
+      "sha256": "f1ed7906b93286ce7d04bcd64d2a515f2a57e10276ea97088a7d02f7c4481abf"
+    },
+    {
+      "file": "public/images/parts/optimized/gearbox-main-384.webp",
+      "bytes": 121778,
+      "category": "required-static-assets-or-notices",
+      "sha256": "a87e4f849b324638663022cb9682d9f9f798ad9f60dd19cfd8a0792a984916b7"
+    },
+    {
+      "file": "public/images/parts/optimized/gearbox-main-768.webp",
+      "bytes": 470980,
+      "category": "required-static-assets-or-notices",
+      "sha256": "7edb72391443b0f1be0ed190993cfd84907004b57e2d78670e31a9056d7f401a"
+    },
+    {
+      "file": "public/images/parts/optimized/headlight-main-1254.webp",
+      "bytes": 1014716,
+      "category": "required-static-assets-or-notices",
+      "sha256": "8ba283fd46c30a730d9fd67defff5a69a63397e1aedb075e2afd8e590d30ce87"
+    },
+    {
+      "file": "public/images/parts/optimized/headlight-main-192.webp",
+      "bytes": 28560,
+      "category": "required-static-assets-or-notices",
+      "sha256": "02b74b777e7ad317ade08a831535463dc8412c42952b547cba71a8ef045669be"
+    },
+    {
+      "file": "public/images/parts/optimized/headlight-main-384.webp",
+      "bytes": 100002,
+      "category": "required-static-assets-or-notices",
+      "sha256": "73cc17129e34d83a7943ab384042efa1db894ceba9414091492ff4019240f3fa"
+    },
+    {
+      "file": "public/images/parts/optimized/headlight-main-768.webp",
+      "bytes": 391688,
+      "category": "required-static-assets-or-notices",
+      "sha256": "955695b4083a2771d92802efc5648a5a0b2564c7e2a5cd27569d909af8862741"
+    },
+    {
+      "file": "public/images/parts/optimized/manifest.json",
+      "bytes": 5130,
+      "category": "required-static-assets-or-notices",
+      "sha256": "cc01ccd19899f9fc7598f53d3d4a72f988e88aa6828719d268f7ad27598d5b8b"
+    },
+    {
+      "file": "public/images/parts/optimized/side-mirror-1254.webp",
+      "bytes": 744742,
+      "category": "required-static-assets-or-notices",
+      "sha256": "23a9bd4f81b05d2698c263d9866426e660c7b25b12e425b43e06ef310dbe1043"
+    },
+    {
+      "file": "public/images/parts/optimized/side-mirror-192.webp",
+      "bytes": 22188,
+      "category": "required-static-assets-or-notices",
+      "sha256": "ff69390326e664246831a802ee4a6e0bee06cf40337bd26760526e45d78f1f5e"
+    },
+    {
+      "file": "public/images/parts/optimized/side-mirror-384.webp",
+      "bytes": 74500,
+      "category": "required-static-assets-or-notices",
+      "sha256": "26bd7921f6bb6721d489d27bc8cfeeb29f37f33f06aeb1a6d41939be1051e8ea"
+    },
+    {
+      "file": "public/images/parts/optimized/side-mirror-768.webp",
+      "bytes": 286722,
+      "category": "required-static-assets-or-notices",
+      "sha256": "c08729a26de80f79b8d12abb130bc96901cc7f199ab584a1b5f8a5500c2b8a46"
+    },
+    {
+      "file": "public/images/parts/optimized/steering-assembly-1254.webp",
+      "bytes": 1010860,
+      "category": "required-static-assets-or-notices",
+      "sha256": "f825a3cc883dff543ef96c4870ee6cf5a1a813eb927f2735c4bb7180907553e0"
+    },
+    {
+      "file": "public/images/parts/optimized/steering-assembly-192.webp",
+      "bytes": 30222,
+      "category": "required-static-assets-or-notices",
+      "sha256": "0e8dd983c3c07f1382878b4afde67d90dda78b5406488413248f68b1918983b9"
+    },
+    {
+      "file": "public/images/parts/optimized/steering-assembly-384.webp",
+      "bytes": 104840,
+      "category": "required-static-assets-or-notices",
+      "sha256": "63d0dd8c256d71558d5418c728a88833dbf6c1283d33aa4d316f41dff800640a"
+    },
+    {
+      "file": "public/images/parts/optimized/steering-assembly-768.webp",
+      "bytes": 398108,
+      "category": "required-static-assets-or-notices",
+      "sha256": "a12ad08a37e18c768f9f16fda1dede0c62c16eed5b8ba2a4649d515e4812b581"
+    },
+    {
+      "file": "public/images/parts/optimized/suspension-main-1254.webp",
+      "bytes": 693928,
+      "category": "required-static-assets-or-notices",
+      "sha256": "712bc2f2065e12e148cb767c80f272d94bed3771bff4f37405bb7fe48ddb3249"
+    },
+    {
+      "file": "public/images/parts/optimized/suspension-main-192.webp",
+      "bytes": 22664,
+      "category": "required-static-assets-or-notices",
+      "sha256": "1b0f2db7c49461190b0f0880418ff8b260f6a4ddd8bb4651bdeb1dcd178a46d6"
+    },
+    {
+      "file": "public/images/parts/optimized/suspension-main-384.webp",
+      "bytes": 71332,
+      "category": "required-static-assets-or-notices",
+      "sha256": "f609bb05242fdd115add014cf2e634303e5455306a91933b15224fab82b1af53"
+    },
+    {
+      "file": "public/images/parts/optimized/suspension-main-768.webp",
+      "bytes": 269772,
+      "category": "required-static-assets-or-notices",
+      "sha256": "de773cf454a4ce4d3a1fb3536ff1d13f91e9ef177398ae9108692ea40c676a54"
+    },
+    {
+      "file": "public/images/parts/side-mirror.png",
+      "bytes": 1333419,
+      "category": "required-static-assets-or-notices",
+      "sha256": "4e1833f9da9474e812edab9a51ffc7d81fc906fe5e75868cbbc1f4dc4d0887e2"
+    },
+    {
+      "file": "public/images/parts/steering-assembly.png",
+      "bytes": 1744756,
+      "category": "required-static-assets-or-notices",
+      "sha256": "31beb2593b6278e68641585e44cf1bcc026ffe4cd157cfced1bf3b107f9b71fd"
+    },
+    {
+      "file": "public/images/parts/suspension-main.png",
+      "bytes": 1196825,
+      "category": "required-static-assets-or-notices",
+      "sha256": "bc15a26bf841dcedde695d785cee84a86c2314b008b69f4ea057fc8f91f77c23"
+    },
+    {
+      "file": "public/licenses/gsap.txt",
+      "bytes": 437,
+      "category": "required-static-assets-or-notices",
+      "sha256": "f5520ae79c6942c3234d941d2ceb477df381194f57df9db7b7954a647f0e30f2"
+    },
+    {
+      "file": "public/licenses/lucide.txt",
+      "bytes": 2329,
+      "category": "required-static-assets-or-notices",
+      "sha256": "7ec4ef332042a1ba0d9bb2a4a2c697fcbbe4052cbd3281013a00af76f94ff141"
+    },
+    {
+      "file": "public/licenses/tailwindcss.txt",
+      "bytes": 1071,
+      "category": "required-static-assets-or-notices",
+      "sha256": "60e0b68c0f35c078eef3a5d29419d0b03ff84ec1df9c3f9d6e39a519a5ae7985"
+    }
+  ],
+  "largeFiles": [],
+  "largestFiles": [
+    {
+      "file": "docs/screenshots/phase-5-5/after/observations.json",
+      "bytes": 4546064,
+      "category": "qa-evidence-retain-review-delivery-scope",
+      "sha256": "b0c03e739f2b5fda8f8f9333ba35359a3c4c4cf5d81a4b7ad49589f50374ebf1"
+    },
+    {
+      "file": "docs/screenshots/phase-5-5/before/observations.json",
+      "bytes": 4546064,
+      "category": "qa-evidence-retain-review-delivery-scope",
+      "sha256": "b0c03e739f2b5fda8f8f9333ba35359a3c4c4cf5d81a4b7ad49589f50374ebf1"
+    },
+    {
+      "file": "public/images/parts/engine-main.png",
+      "bytes": 2362047,
+      "category": "required-static-assets-or-notices",
+      "sha256": "e2e3efa4ee822bf0283e1f6dfcb0b76457c1d7a7cf22a37391d2dc5bbe329930"
+    },
+    {
+      "file": "public/images/parts/exploded-sedan-components.png",
+      "bytes": 2317640,
+      "category": "required-static-assets-or-notices",
+      "sha256": "3c547df9e633910c6f68a638a409c6f82d74f7441c5a662e1711fecf3fe2add7"
+    },
+    {
+      "file": "public/images/parts/gearbox-main.png",
+      "bytes": 2026203,
+      "category": "required-static-assets-or-notices",
+      "sha256": "7030e3033f24e77d0e66681163b001565aa50d2a3a1b3d7fcd03086e610c6af1"
+    },
+    {
+      "file": "public/images/parts/coverage-studio-background.png",
+      "bytes": 1950090,
+      "category": "required-static-assets-or-notices",
+      "sha256": "2ccb8ea38723859b72fc8048c74eefc78c6bb74b37c2beac58a5e965afbb8685"
+    },
+    {
+      "file": "public/images/parts/brake-caliper.png",
+      "bytes": 1881451,
+      "category": "required-static-assets-or-notices",
+      "sha256": "e2cfa3768481cce4290bac38cb685989477e0cabcf3dfac097ce2fa81f9a9d82"
+    },
+    {
+      "file": "public/images/parts/headlight-main.png",
+      "bytes": 1765564,
+      "category": "required-static-assets-or-notices",
+      "sha256": "e1045da74a35540cf716063a85e95734540db923420215ea6efb8df0f948c783"
+    },
+    {
+      "file": "public/images/parts/steering-assembly.png",
+      "bytes": 1744756,
+      "category": "required-static-assets-or-notices",
+      "sha256": "31beb2593b6278e68641585e44cf1bcc026ffe4cd157cfced1bf3b107f9b71fd"
+    },
+    {
+      "file": "docs/screenshots/phase-5-5/controlled-before/observations.json",
+      "bytes": 1706465,
+      "category": "qa-evidence-retain-review-delivery-scope",
+      "sha256": "d3c7e00a173672b92f6ca8c9a49ec8b98f1fb45807340e1f1cad252c28357169"
+    },
+    {
+      "file": "docs/screenshots/phase-5-6-3/observations.json",
+      "bytes": 1670447,
+      "category": "qa-evidence-retain-review-delivery-scope",
+      "sha256": "060818da394e893b3582f24952d64f43571bb3404d8fc93ad8018bad33439520"
+    },
+    {
+      "file": "public/images/parts/brake-disc.png",
+      "bytes": 1564814,
+      "category": "required-static-assets-or-notices",
+      "sha256": "740a44dc161ca79f410d8412f6fd1e0093e0d082b715ed26d0cd8c95b8d116dc"
+    }
+  ],
+  "categories": {
+    "required-configuration": {
+      "count": 5,
+      "bytes": 167050
+    },
+    "optional-shared-editor-configuration": {
+      "count": 2,
+      "bytes": 294
+    },
+    "required-documentation": {
+      "count": 25,
+      "bytes": 272860
+    },
+    "manual-review": {
+      "count": 3,
+      "bytes": 24352
+    },
+    "qa-evidence-retain-review-delivery-scope": {
+      "count": 903,
+      "bytes": 73741812
+    },
+    "required-static-assets-or-notices": {
+      "count": 71,
+      "bytes": 39078559
+    },
+    "development-and-qa-tools": {
+      "count": 15,
+      "bytes": 58122
+    },
+    "required-source": {
+      "count": 27,
+      "bytes": 126285
+    }
+  }
+}

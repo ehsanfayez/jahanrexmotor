@@ -1,0 +1,37 @@
+{
+  "originals": [
+    {
+      "name": "engine-main",
+      "matches": true
+    },
+    {
+      "name": "gearbox-main",
+      "matches": true
+    },
+    {
+      "name": "brake-disc",
+      "matches": true
+    },
+    {
+      "name": "brake-caliper",
+      "matches": true
+    },
+    {
+      "name": "headlight-main",
+      "matches": true
+    },
+    {
+      "name": "side-mirror",
+      "matches": true
+    },
+    {
+      "name": "suspension-main",
+      "matches": true
+    }
+  ],
+  "webpCount": 21,
+  "referencedAssets": 31,
+  "missing": [],
+  "idCount": 20,
+  "duplicateIds": []
+}

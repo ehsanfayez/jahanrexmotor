@@ -1,0 +1,44 @@
+---
+import Icon from './Icon.astro';
+import '../styles/editorial.css';
+const reasons = [
+  { icon: 'scan-search', title: 'شناخت بازار و نیاز مشتری', text: 'توجه به نیازهای واقعی بازار و همکاران' },
+  { icon: 'boxes', title: 'نگاه گسترده به قطعات', text: 'فعالیت در حوزه‌های متنوع قطعات خودرو' },
+  { icon: 'shield-check', title: 'تمرکز بر کیفیت', text: 'توجه به انتخاب صحیح و کیفیت قطعات' },
+  { icon: 'headset', title: 'پاسخ‌گویی و همکاری', text: 'ارتباط حرفه‌ای در مسیر همکاری' },
+];
+const principles = [
+  { icon: 'shield-check', title: 'کیفیت و اصالت', text: 'انتخاب آگاهانه، با توجه به کیفیت هر جزء' },
+  { icon: 'settings', title: 'تأمین پایدار', text: 'نگاه بلندمدت به تأمین و تداوم همکاری' },
+  { icon: 'users-round', title: 'همکاری بلندمدت', text: 'گفت‌وگوی روشن، پایهٔ ارتباطی ماندگار' },
+];
+---
+<div class="corporate-environment">
+  <section id="about" class="corporate-introduction" aria-labelledby="about-title">
+    <div class="shell corporate-intro-grid">
+      <div class="corporate-intro-heading">
+        <p class="corporate-eyebrow"><i aria-hidden="true"></i> درباره جهانرکسان موتور</p>
+        <h2 id="about-title">فراتر از یک قطعه،<br /><span>در کنار یکدیگر.</span></h2>
+        <p class="corporate-intro-note">شناخت قطعه، آغاز یک همکاری حرفه‌ای.</p>
+      </div>
+      <div class="corporate-intro-copy">
+        <span class="corporate-english" lang="en" dir="ltr">A SHARED PERSPECTIVE</span>
+        <p class="corporate-lead">جهانرکسان موتور در حوزه قطعات و مجموعه‌های خودرویی فعالیت می‌کند. نگاه ما بر شناخت نیازهای بازار، توجه به کیفیت و شکل‌گیری ارتباط حرفه‌ای و پایدار با همکاران استوار است.</p>
+        <p class="corporate-support">از درک کاربرد هر جزء تا دیدن جایگاه آن در یک مجموعه بزرگ‌تر؛ نگاه ما به دنیای قطعات، نگاهی یکپارچه است.</p>
+        <a class="corporate-conversation" href="#contact">گفت‌وگو درباره همکاری <Icon name="messages-square" size={20} /></a>
+      </div>
+    </div>
+  </section>
+  <section id="why" class="corporate-reasons" aria-labelledby="why-title">
+    <div class="shell">
+      <div class="corporate-section-heading"><p class="corporate-english" lang="en" dir="ltr">WHY JAHANROKSAN MOTOR</p><h2 id="why-title">چرا جهانرکسان موتور؟</h2><span class="corporate-title-rule" aria-hidden="true"></span></div>
+      <div class="corporate-reasons-grid">{reasons.map(reason => <article class="corporate-reason"><Icon name={reason.icon} size={34} /><h3>{reason.title}</h3><p>{reason.text}</p></article>)}</div>
+    </div>
+  </section>
+  <section id="approach" class="corporate-principles" aria-labelledby="approach-title">
+    <div class="shell">
+      <div class="corporate-section-heading"><p class="corporate-english" lang="en" dir="ltr">OUR OPERATING PHILOSOPHY</p><h2 id="approach-title">سه اصل، یک مسیر مشترک</h2><span class="corporate-title-rule" aria-hidden="true"></span></div>
+      <div class="corporate-principles-grid">{principles.map(principle => <article class="corporate-principle"><Icon name={principle.icon} size={32} /><div><h3>{principle.title}</h3><p>{principle.text}</p></div></article>)}</div>
+    </div>
+  </section>
+</div>

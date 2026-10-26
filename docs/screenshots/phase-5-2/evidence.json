@@ -1,0 +1,1344 @@
+[
+  {
+    "label": "hero-1440",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0,
+    "scroll": 0,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "powertrain-1440",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -184.86, 103.158)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -246.48, 130.667)",
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+        "name": "interior",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.24,
+    "scroll": 1944,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "brakes-1440",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -246.48, 130.667)",
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+        "name": "interior",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.44,
+    "scroll": 3564,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "body-1440",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+        "name": "interior",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.64,
+    "scroll": 5184,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "interior-1440",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.8276543209876543,
+    "scroll": 6704,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "handoff-1440",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -323.505, -55.0175)",
+        "name": "interior",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "1"
+      }
+    ],
+    "progress": 1,
+    "scroll": 8100,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "exchange-35",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.985, 0, 0, 0.985, -385.125, -41.2631)",
+        "name": "powertrain",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, 327.356, 61.8947)",
+        "name": "brakes",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -246.48, 130.667)",
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+        "name": "interior",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0.3056"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.35,
+    "scroll": 2835,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "exchange-55",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.99, 0, 0, 0.99, -346.612, 13.7544)",
+        "name": "brakes",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(0.99, 0, 0, 0.99, 338.91, -20.6316)",
+        "name": "body",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -308.1, 158.175)",
+        "name": "interior",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0.3056"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.55,
+    "scroll": 4455,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "exchange-75",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.99, 0, 0, 0.99, -354.315, -20.6316)",
+        "name": "body",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(0.985, 0, 0, 0.985, 277.29, 34.3859)",
+        "name": "interior",
+        "opacity": "0.5"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0.3056"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.75,
+    "scroll": 6075,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "hero-1280",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0,
+    "scroll": 0,
+    "titleLines": 0.9998389896953404,
+    "titleSize": "57.6px",
+    "viewport": [
+      1280,
+      720
+    ]
+  },
+  {
+    "label": "body-1280",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -599.188, -64.1981)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -539.269, 21.3994)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -239.675, 123.046)",
+        "name": "interior",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.6399691358024692,
+    "scroll": 4147,
+    "titleLines": 0.9998389896953404,
+    "titleSize": "57.6px",
+    "viewport": [
+      1280,
+      720
+    ]
+  },
+  {
+    "label": "hero-1024",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0,
+    "scroll": 0,
+    "titleLines": 1.000053227544494,
+    "titleSize": "44.544px",
+    "viewport": [
+      1024,
+      768
+    ]
+  },
+  {
+    "label": "interior-1024",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -533.125, -57.12)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -479.812, 19.04)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -490.475, -28.56)",
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.8399884259259259,
+    "scroll": 5806,
+    "titleLines": 1.000053227544494,
+    "titleSize": "44.544px",
+    "viewport": [
+      1024,
+      768
+    ]
+  },
+  {
+    "label": "hero-768",
+    "enhanced": false,
+    "groups": [
+      {
+        "matrix": "none",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0,
+    "scroll": 0,
+    "titleLines": 1.000001500096006,
+    "titleSize": "53.76px",
+    "viewport": [
+      768,
+      1024
+    ]
+  },
+  {
+    "label": "hero-390",
+    "enhanced": false,
+    "groups": [
+      {
+        "matrix": "none",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0,
+    "scroll": 0,
+    "titleLines": 0.9999470226742956,
+    "titleSize": "42.9px",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "label": "body-390",
+    "enhanced": false,
+    "groups": [
+      {
+        "matrix": "none",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.7226045936122496,
+    "scroll": 2920,
+    "titleLines": 0.9999470226742956,
+    "titleSize": "42.9px",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "label": "interior-390",
+    "enhanced": false,
+    "groups": [
+      {
+        "matrix": "none",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.9302296806124816,
+    "scroll": 3759,
+    "titleLines": 0.9999470226742956,
+    "titleSize": "42.9px",
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "label": "hero-320",
+    "enhanced": false,
+    "groups": [
+      {
+        "matrix": "none",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0,
+    "scroll": 0,
+    "titleLines": 1.9999098124098125,
+    "titleSize": "42px",
+    "viewport": [
+      320,
+      700
+    ]
+  },
+  {
+    "label": "handoff-320",
+    "enhanced": false,
+    "groups": [
+      {
+        "matrix": "none",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "matrix": "none",
+        "name": "interior",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "body",
+        "opacity": "1"
+      },
+      {
+        "name": "interior",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "1"
+      }
+    ],
+    "progress": 0.988014606610582,
+    "scroll": 4105,
+    "titleLines": 1.9999098124098125,
+    "titleSize": "42px",
+    "viewport": [
+      320,
+      700
+    ]
+  },
+  {
+    "label": "release-94",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.99, 0, 0, 0.99, -161.753, -27.5088)",
+        "name": "interior",
+        "opacity": "0.5"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0.2"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.94,
+    "scroll": 7614,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "release-97",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.9806, 0, 0, 0.9806, -313.395, -53.2982)",
+        "name": "interior",
+        "opacity": "0.0313"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0.75"
+      }
+    ],
+    "progress": 0.97,
+    "scroll": 7857,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "flow-release",
+    "enhanced": true,
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -82.5263)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -693.225, 27.5088)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -708.63, -41.2631)",
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -323.505, -55.0175)",
+        "name": "interior",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "body",
+        "opacity": "0"
+      },
+      {
+        "name": "interior",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "1"
+      }
+    ],
+    "progress": 1.04,
+    "scroll": 8424,
+    "titleLines": 0.999819544006372,
+    "titleSize": "64.8px",
+    "viewport": [
+      1440,
+      900
+    ]
+  }
+]

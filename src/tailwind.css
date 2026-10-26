@@ -1,0 +1,6 @@
+/* Opt-in utilities only. Existing unlayered CSS remains authoritative.
+   Intentionally omit preflight.css and the Tailwind umbrella import. */
+@layer theme, utilities;
+@import "tailwindcss/theme.css" layer(theme) prefix(tw);
+@import "tailwindcss/utilities.css" layer(utilities) prefix(tw) source(none);
+@source "**/*.{astro,html,js,jsx,ts,tsx,md,mdx}";

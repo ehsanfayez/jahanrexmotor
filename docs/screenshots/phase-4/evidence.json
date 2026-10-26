@@ -1,0 +1,482 @@
+[
+  {
+    "label": "000",
+    "groups": [
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "support",
+        "opacity": "1"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "1"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0,
+    "scroll": 0,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "010",
+    "groups": [
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, -12.8947)",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -52.8168, 55.0175)",
+        "name": "brakes",
+        "opacity": "0.7143"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -7.7025, -13.7544)",
+        "name": "support",
+        "opacity": "0.8333"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0.84"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.1,
+    "scroll": 450,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "020",
+    "groups": [
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, -10.5262)",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -184.86, 192.561)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -26.9587, -48.1403)",
+        "name": "support",
+        "opacity": "0.4167"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0.4898"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.2,
+    "scroll": 900,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "035",
+    "groups": [
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -184.86, 192.561)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -46.215, -82.5263)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "1"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.35,
+    "scroll": 1575,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "045",
+    "groups": [
+      {
+        "matrix": "matrix(0.9998, 0, 0, 0.9998, -6.01796, -0.752364)",
+        "name": "powertrain",
+        "opacity": "0.9922"
+      },
+      {
+        "matrix": "matrix(0.9008, 0, 0, 0.9008, 649.597, 163.763)",
+        "name": "brakes",
+        "opacity": "0.0078"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -46.215, -82.5263)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0.8333"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.45,
+    "scroll": 2025,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "052",
+    "groups": [
+      {
+        "matrix": "matrix(0.985, 0, 0, 0.985, -385.125, -48.1403)",
+        "name": "powertrain",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(0.95, 0, 0, 0.95, 327.356, 82.5263)",
+        "name": "brakes",
+        "opacity": "0.5"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -46.215, -82.5263)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0.36"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.52,
+    "scroll": 2340,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "060",
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -96.2806)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -46.215, -82.5263)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.6,
+    "scroll": 2700,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "070",
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -96.2806)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -46.215, -82.5263)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "1"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.7,
+    "scroll": 3150,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "085",
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -96.2806)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.9923, 0, 0, 0.9923, -141.533, -68.4493)",
+        "name": "brakes",
+        "opacity": "0.6172"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -46.215, -82.5263)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0.3"
+      },
+      {
+        "name": "handoff",
+        "opacity": "0"
+      }
+    ],
+    "progress": 0.85,
+    "scroll": 3825,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  },
+  {
+    "label": "100",
+    "groups": [
+      {
+        "matrix": "matrix(0.97, 0, 0, 0.97, -770.25, -96.2806)",
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(0.98, 0, 0, 0.98, -369.72, -178.807)",
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "matrix": "matrix(1, 0, 0, 1, -46.215, -82.5263)",
+        "name": "support",
+        "opacity": "0"
+      }
+    ],
+    "overflow": false,
+    "panels": [
+      {
+        "name": "hero",
+        "opacity": "0"
+      },
+      {
+        "name": "powertrain",
+        "opacity": "0"
+      },
+      {
+        "name": "brakes",
+        "opacity": "0"
+      },
+      {
+        "name": "handoff",
+        "opacity": "1"
+      }
+    ],
+    "progress": 1,
+    "scroll": 4500,
+    "stageTop": 0,
+    "titleLineRatio": 0.9998814776113628,
+    "titleOverflow": false,
+    "viewport": [
+      1440,
+      900
+    ]
+  }
+]
