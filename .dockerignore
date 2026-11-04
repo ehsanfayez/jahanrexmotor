@@ -1,0 +1,16 @@
+.git
+.gitignore
+.vscode
+.idea
+.astro
+node_modules
+dist
+docs
+*.md
+*.log
+.env
+.env.*
+docker-compose.yml
+Makefile
+Dockerfile
+.dockerignore
