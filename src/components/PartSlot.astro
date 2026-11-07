@@ -1,4 +1,7 @@
 ---
+import { translator } from '../data/i18n';
+const t = translator(Astro.currentLocale);
+
 import type { PartAsset } from '../data/landing';
 import manifest from '../../public/images/parts/optimized/manifest.json';
 import { partImageSizes } from '../data/part-delivery';
@@ -20,7 +23,7 @@ const srcset = metadata.derivatives.map(({ width }) => `/images/parts/optimized/
     <div class="part-float" data-float>
       <picture>
         <source type="image/webp" srcset={srcset} sizes={sizes} />
-        <img src={asset.src} alt={asset.alt} width={metadata.width} height={metadata.height}
+        <img src={asset.src} alt={t(asset.alt)} width={metadata.width} height={metadata.height}
           loading={eager ? 'eager' : 'lazy'} fetchpriority={priority ? 'high' : 'auto'}
           decoding="async" draggable="false" />
       </picture>

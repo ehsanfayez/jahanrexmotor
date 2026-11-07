@@ -1,4 +1,23 @@
-<a class="brand" href="#" aria-label="جهانرکسان موتور، ابتدای صفحه">
-  <svg class="brand-symbol" viewBox="0 0 44 44" fill="none" aria-hidden="true"><path d="M9 8h27L24 35H8l5-10h9l5-10H6z" fill="currentColor"/><path d="m30 25 7 10h-9l-3-4z" fill="var(--accent)"/></svg>
-  <span>جهانرکسان موتور<small lang="en" dir="ltr">JAHANREXAN MOTOR</small></span>
+---
+import { translator } from '../data/i18n';
+const t = translator(Astro.currentLocale);
+const homepage = Astro.currentLocale === 'en' ? '/en/' : '/';
+
+---
+<a class="brand" href={homepage} aria-label={t('جهانرکسان موتور، صفحهٔ اصلی')}>
+  <img class="brand-image" src="/images/brand/jahanrexan-symbol.png" width="658" height="383" alt="" decoding="async" />
+  <span>{t("جهانرکسان موتور")}<small lang="en" dir="ltr">JAHANREXAN MOTOR</small></span>
 </a>
+<style>
+  .brand-image { display: block; flex: 0 0 auto; width: 64px; height: auto; aspect-ratio: 658 / 383; object-fit: contain; }
+  :global(.network-footer) .brand-image { width: 84px; }
+  @media (max-width: 1100px) { .brand-image { width: 54px; } }
+  @media (max-width: 600px) {
+    .brand-image { width: 52px; }
+    :global(.network-footer) .brand-image { width: 72px; }
+  }
+  @media (max-width: 359px) {
+    .brand-image { width: 46px; }
+    :global(.network-footer) .brand-image { width: 62px; }
+  }
+</style>

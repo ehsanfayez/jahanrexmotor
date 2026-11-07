@@ -17,6 +17,17 @@ for (const asset of manifest) {
     if (!metadata.hasAlpha || metadata.width !== derivative.width || (await fs.stat(file)).size !== derivative.bytes) throw new Error(`Invalid derivative: ${file}`);
   }
 }
-const phones = [...html.matchAll(/href="(tel:[^"]+)"/g)].map(match => match[1]);
-if (phones.length !== 5 || phones.some(phone => phone !== 'tel:09373020028')) throw new Error('Contact links changed');
-console.log(`Verified ${references.length} production asset paths, ${manifest.length} preserved originals and their responsive derivatives, five phone links, and clean uninstrumented HTML.`);
+for (const [file, lang, dir] of [['dist/index.html', 'fa', 'rtl'], ['dist/en/index.html', 'en', 'ltr']]) {
+  const page = await fs.readFile(file, 'utf8');
+  if (!page.includes(`<html lang="${lang}" dir="${dir}">`)) throw new Error(`Invalid locale: ${file}`);
+  const phones = [...page.matchAll(/href="(tel:[^"]+)"/g)].map(match => match[1]);
+  const expected = ['tel:09373020024', 'tel:09373020024', 'tel:09373020024', 'tel:09373020024', 'tel:09373020029', 'tel:02133981738'];
+  if (JSON.stringify(phones.sort()) !== JSON.stringify(expected.sort()) || page.includes('09373020028')) throw new Error(`Invalid approved contacts: ${file}`);
+  if (page.includes('design-references') || page.includes('production-audit')) throw new Error(`Development artifact: ${file}`);
+  const text = page.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, '');
+  if (lang === 'en' && /[\u0600-\u06ff]/.test(text)) throw new Error('Untranslated English content');
+  for (const domain of ['https://jahanrex.com/', 'https://rahavardtaklan.ir/', 'https://astroai.ir/']) {
+    if (page.split(`href="${domain}"`).length !== 3) throw new Error(`Missing company links: ${domain}`);
+  }
+}
+console.log(`Verified both locales, ${references.length} production asset paths, ${manifest.length} preserved originals and their responsive derivatives, approved phone links, and clean uninstrumented HTML.`);

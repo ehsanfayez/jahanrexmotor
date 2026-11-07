@@ -1,0 +1,18 @@
+---
+import { companies } from '../data/network';
+import { translator } from '../data/i18n';
+import Icon from './Icon.astro';
+import '../styles/network-footer.css';
+const locale = Astro.currentLocale === 'en' ? 'en' : 'fa';
+const t = translator(locale);
+---
+<section id="network" class="network" aria-labelledby="network-title">
+  <div class="shell">
+    <div class="network-heading"><p class="network-eyebrow" lang="en" dir="ltr">OUR NETWORK</p><h2 id="network-title">{t('مجموعه‌های هم‌مسیر')}</h2><span class="network-rule" aria-hidden="true"></span><p>{t('هم‌افزایی در زنجیره تأمین و عرضه محصولات و تجهیزات خودرویی')}</p></div>
+    <ol class="network-list">{companies.map((company, index) => <li class="network-row">
+      <span class="network-index" dir="ltr">{String(index + 1).padStart(2, '0')}</span>
+      <div class="network-copy"><h3><a href={company.url} target="_blank" rel="noopener noreferrer" aria-label={`${company.name[locale]} — ${t('در پنجرهٔ جدید')}`}>{company.name[locale]}</a></h3><p>{company.description[locale]}</p></div>
+      <a class="network-domain" href={company.url} target="_blank" rel="noopener noreferrer" aria-label={`${new URL(company.url).hostname} — ${t('در پنجرهٔ جدید')}`}><span dir="ltr">{new URL(company.url).hostname}</span><Icon name="arrow-up-right" size={24} /></a>
+    </li>)}</ol>
+  </div>
+</section>

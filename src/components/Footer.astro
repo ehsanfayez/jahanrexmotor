@@ -1,17 +1,32 @@
 ---
 import Brand from './Brand.astro';
 import Icon from './Icon.astro';
+import LanguageSwitcher from './LanguageSwitcher.astro';
 import { contact } from '../data/landing';
-import '../styles/closing.css';
+import { mapLinks } from '../data/network';
+import { translator } from '../data/i18n';
+import '../styles/network-footer.css';
+const t = translator(Astro.currentLocale);
+const phones = [{ label: 'مدیریت', number: contact.phone }, { label: 'پشتیبانی و فروش', number: contact.sales }, { label: 'تلفن ثابت', number: contact.landline }];
+const navigation = [{ id: 'parts', label: 'دنیای قطعات' }, { id: 'about', label: 'درباره جهانرکسان' }, { id: 'why', label: 'چرا جهانرکسان موتور؟' }, { id: 'contact', label: 'اطلاعات تماس و همکاری' }];
 ---
-<footer class="footer corporate-footer">
+<footer class="network-footer">
   <div class="shell">
-    <div class="footer-grid">
-      <div class="footer-identity"><Brand /><p>فعال در حوزه قطعات و مجموعه‌های خودرویی؛ با نگاهی به کیفیت، شناخت فنی و همکاری حرفه‌ای.</p></div>
-      <nav class="footer-navigation" aria-label="ناوبری پاورقی"><h2>در جهانرکسان</h2><a href="#parts">دنیای قطعات</a><a href="#about">درباره جهانرکسان</a><a href="#why">چرا جهانرکسان موتور؟</a><a href="#contact">اطلاعات تماس و همکاری</a></nav>
-      <div class="footer-communication"><h2>در ارتباط باشیم</h2><a class="footer-phone" href={`tel:${contact.phone}`} aria-label={`تماس با شماره ${contact.phone}`}><bdi dir="ltr">{contact.phone}</bdi><Icon name="phone-call" size={20} /></a><a class="footer-call-link" href={`tel:${contact.phone}`}>تماس مستقیم با ما</a><a class="footer-top-link" href="#parts">بازگشت به آغاز <Icon name="arrow-up" size={18} /></a></div>
+    <div class="network-footer-grid">
+      <div class="network-footer-identity"><Brand /><p>{t('فعال در حوزه قطعات و مجموعه‌های خودرویی؛ با نگاهی به کیفیت، شناخت فنی و همکاری حرفه‌ای.')}</p></div>
+      <section class="network-footer-contact" aria-labelledby="footer-contact-title">
+        <h2 id="footer-contact-title"><Icon name="phone-call" size={25} />{t('راه‌های ارتباطی')}</h2>
+        <dl>{phones.map(phone => <div class="footer-contact-row"><dt><Icon name="phone-call" size={18} />{t(phone.label)}</dt><dd><a href={`tel:${phone.number}`} aria-label={`${t(phone.label)} ${phone.number}`}><bdi dir="ltr">{phone.number}</bdi></a></dd></div>)}
+        <div class="footer-contact-row"><dt><Icon name="mail" size={19} />{t('ایمیل')}</dt><dd><a href={`mailto:${contact.email}`}><bdi dir="ltr">{contact.email}</bdi></a></dd></div></dl>
+      </section>
+      <section class="network-footer-location" aria-labelledby="footer-address-title">
+        <div class="footer-map-art" aria-hidden="true"><span></span><Icon name="map-pin" size={34} /></div>
+        <h2 id="footer-address-title"><Icon name="map-pin" size={25} />{t('نشانی شرکت')}</h2>
+        <address>{t(contact.address)}</address>
+        <div class="footer-map-links">{mapLinks.map(map => map.url ? <a href={map.url} target="_blank" rel="noopener noreferrer" aria-label={`${t(map.name)} — ${t('در پنجرهٔ جدید')}`}><Icon name="map-pin" size={18} />{t(map.name)}</a> : <span class="map-pending" role="link" aria-disabled="true" title={t('در انتظار تأیید لینک')}><Icon name="map-pin" size={18} />{t(map.name)}<small>{t('در انتظار تأیید لینک')}</small></span>)}</div>
+      </section>
     </div>
-    <div class="footer-signature" lang="en" dir="ltr" aria-hidden="true">JAHANREXAN MOTOR</div>
-    <div class="footer-legal"><span>© {new Date().getFullYear().toLocaleString('fa-IR', { useGrouping: false })} جهانرکسان موتور. تمامی حقوق محفوظ است.</span><span lang="en" dir="ltr">PRECISION. CONNECTION. MOTION.</span></div>
+    <div class="network-footer-navigation"><LanguageSwitcher /><nav aria-label={t('ناوبری پاورقی')}>{navigation.map(link => <a href={`#${link.id}`}>{t(link.label)}</a>)}</nav><p lang="en" dir="ltr">PRECISION. CONNECTION. MOTION.</p></div>
+    <div class="network-footer-legal"><p>© {new Date().getFullYear().toLocaleString(Astro.currentLocale === 'en' ? 'en' : 'fa-IR', { useGrouping: false })} {t('جهانرکسان موتور')}. {t('تمامی حقوق محفوظ است.')}</p><a href="#parts">{t('بازگشت به آغاز')}<Icon name="arrow-up" size={18} /></a></div>
   </div>
 </footer>

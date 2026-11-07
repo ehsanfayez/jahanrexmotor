@@ -22,5 +22,9 @@ export const scenes = [
   { id: 'lighting', number: '۰۳', en: 'FORM MEETS FUNCTION', title: ['فرم، در جزئیات.', 'دید، در حرکت.'], text: 'از سپر و گلگیر تا چراغ و آینه؛ قطعات بدنه و روشنایی، پیوند میان عملکرد و هویت خودرو را شکل می‌دهند. هر جزء، بخشی از یک تصویر هماهنگ است.', tags: ['قطعات بدنه', 'روشنایی', 'تجهیزات بیرونی'], assets: [parts.bumper, parts.fender, parts.light, parts.exterior], note: 'LIGHTING & BODY' },
   { id: 'interior', number: '۰۴', en: 'THE HUMAN SIDE OF MOTION', title: ['درون خودرو،', 'نزدیک‌تر به انسان.'], text: 'صندلی، فرمان و مجموعه‌های کابین، نزدیک‌ترین بخش خودرو به تجربه سرنشین‌اند؛ جایی که توجه به جزئیات، کاربرد و هماهنگی اجزا معنا پیدا می‌کند.', tags: ['صندلی', 'فرمان', 'مجموعه‌های کابین'], assets: [parts.seat, parts.steering], note: 'INTERIOR & CABIN' },
 ];
-// Official phone supplied by the user; other channels remain unspecified.
-export const contact = { email: '', phone: '09373020028', address: '' };
+// Shared approved contacts in both locales. General cooperation CTAs use management.
+export const contact = {
+  email: 'jahanrexiran@gmail.com', phone: '09373020024', sales: '09373020029', landline: '02133981738',
+  address: 'تهران، خیابان سعدی جنوبی، خیابان اکباتان، کوچه آهنین، مجتمع تجاری آهنین، واحد ۲۲۰',
+  latitude: 35.688851, longitude: 51.426723,
+};

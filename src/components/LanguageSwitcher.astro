@@ -1,0 +1,8 @@
+---
+const locale = Astro.currentLocale === 'en' ? 'en' : 'fa';
+---
+<nav class="language-switcher" dir="ltr" aria-label={locale === 'en' ? 'Language' : 'زبان'}>
+  <a href="/" lang="fa" hreflang="fa" aria-label="فارسی" aria-current={locale === 'fa' ? 'page' : undefined} data-language-link>FA</a>
+  <span aria-hidden="true">|</span>
+  <a href="/en/" lang="en" hreflang="en" aria-label="English" aria-current={locale === 'en' ? 'page' : undefined} data-language-link>EN</a>
+</nav>

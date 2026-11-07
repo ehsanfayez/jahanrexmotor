@@ -14,6 +14,19 @@ function initializeLanding() {
 
   const controller = new AbortController();
   const { signal } = controller;
+  // Native links remain usable without JavaScript; enhance them with a matching
+  // chapter/section only at activation, without storing both locale dictionaries.
+  document.querySelectorAll<HTMLAnchorElement>('[data-language-link]').forEach(link => {
+    link.addEventListener('click', () => {
+      const currentSection = ['network', 'contact', 'approach', 'why', 'about'].find(id => {
+        const box = document.getElementById(id)?.getBoundingClientRect();
+        return box && box.top < innerHeight * .55 && box.bottom > 90;
+      });
+      const active = hero.querySelector<HTMLAnchorElement>('[data-story-link][aria-current]');
+      const hash = currentSection ? `#${currentSection}` : active?.hash || location.hash;
+      link.hash = hash;
+    }, { signal });
+  });
   const header = document.querySelector<HTMLElement>('[data-header]');
   const menu = document.querySelector<HTMLButtonElement>('[data-menu-toggle]');
   const navigation = document.querySelector<HTMLElement>('[data-navigation]');
@@ -60,9 +73,21 @@ function initializeLanding() {
   reportStoryTriggers();
 
   // Local font metrics can settle after initial parsing; refresh once ready.
-  void document.fonts.ready.then(() => { if (!signal.aborted) ScrollTrigger.refresh(); });
+  const initialHash = location.hash;
+  let hashFrame = 0;
+  void document.fonts.ready.then(() => {
+    if (signal.aborted) return;
+    ScrollTrigger.refresh();
+    if (initialHash && location.hash === initialHash) {
+      hashFrame = requestAnimationFrame(() => {
+        document.getElementById(decodeURIComponent(initialHash.slice(1)))?.scrollIntoView({ block: 'start', behavior: 'instant' });
+        ScrollTrigger.update();
+      });
+    }
+  });
   dispose = () => {
     controller.abort();
+    cancelAnimationFrame(hashFrame);
     setMenu(false);
     media.revert();
     ScrollTrigger.removeEventListener('refresh', reportStoryTriggers);

@@ -1,4 +1,7 @@
 ---
+import { translator } from '../data/i18n';
+const t = translator(Astro.currentLocale);
+
 import Icon from './Icon.astro';
 import '../styles/editorial.css';
 const reasons = [
@@ -17,28 +20,28 @@ const principles = [
   <section id="about" class="corporate-introduction" aria-labelledby="about-title">
     <div class="shell corporate-intro-grid">
       <div class="corporate-intro-heading">
-        <p class="corporate-eyebrow"><i aria-hidden="true"></i> درباره جهانرکسان موتور</p>
-        <h2 id="about-title">فراتر از یک قطعه،<br /><span>در کنار یکدیگر.</span></h2>
-        <p class="corporate-intro-note">شناخت قطعه، آغاز یک همکاری حرفه‌ای.</p>
+        <p class="corporate-eyebrow"><i aria-hidden="true"></i>{t("درباره جهانرکسان موتور")}</p>
+        <h2 id="about-title">{t("فراتر از یک قطعه،")}<br /><span>{t("در کنار یکدیگر.")}</span></h2>
+        <p class="corporate-intro-note">{t("شناخت قطعه، آغاز یک همکاری حرفه‌ای.")}</p>
       </div>
       <div class="corporate-intro-copy">
         <span class="corporate-english" lang="en" dir="ltr">A SHARED PERSPECTIVE</span>
-        <p class="corporate-lead">جهانرکسان موتور در حوزه قطعات و مجموعه‌های خودرویی فعالیت می‌کند. نگاه ما بر شناخت نیازهای بازار، توجه به کیفیت و شکل‌گیری ارتباط حرفه‌ای و پایدار با همکاران استوار است.</p>
-        <p class="corporate-support">از درک کاربرد هر جزء تا دیدن جایگاه آن در یک مجموعه بزرگ‌تر؛ نگاه ما به دنیای قطعات، نگاهی یکپارچه است.</p>
-        <a class="corporate-conversation" href="#contact">گفت‌وگو درباره همکاری <Icon name="messages-square" size={20} /></a>
+        <p class="corporate-lead">{t("جهانرکسان موتور در حوزه قطعات و مجموعه‌های خودرویی فعالیت می‌کند. نگاه ما بر شناخت نیازهای بازار، توجه به کیفیت و شکل‌گیری ارتباط حرفه‌ای و پایدار با همکاران استوار است.")}</p>
+        <p class="corporate-support">{t("از درک کاربرد هر جزء تا دیدن جایگاه آن در یک مجموعه بزرگ‌تر؛ نگاه ما به دنیای قطعات، نگاهی یکپارچه است.")}</p>
+        <a class="corporate-conversation" href="#contact">{t("گفت‌وگو درباره همکاری")}<Icon name="messages-square" size={20} /></a>
       </div>
     </div>
   </section>
   <section id="why" class="corporate-reasons" aria-labelledby="why-title">
     <div class="shell">
-      <div class="corporate-section-heading"><p class="corporate-english" lang="en" dir="ltr">WHY JAHANROKSAN MOTOR</p><h2 id="why-title">چرا جهانرکسان موتور؟</h2><span class="corporate-title-rule" aria-hidden="true"></span></div>
-      <div class="corporate-reasons-grid">{reasons.map(reason => <article class="corporate-reason"><Icon name={reason.icon} size={34} /><h3>{reason.title}</h3><p>{reason.text}</p></article>)}</div>
+      <div class="corporate-section-heading"><p class="corporate-english" lang="en" dir="ltr">WHY JAHANROKSAN MOTOR</p><h2 id="why-title">{t("چرا جهانرکسان موتور؟")}</h2><span class="corporate-title-rule" aria-hidden="true"></span></div>
+      <div class="corporate-reasons-grid">{reasons.map(reason => <article class="corporate-reason"><Icon name={reason.icon} size={34} /><h3>{t(reason.title)}</h3><p>{t(reason.text)}</p></article>)}</div>
     </div>
   </section>
   <section id="approach" class="corporate-principles" aria-labelledby="approach-title">
     <div class="shell">
-      <div class="corporate-section-heading"><p class="corporate-english" lang="en" dir="ltr">OUR OPERATING PHILOSOPHY</p><h2 id="approach-title">سه اصل، یک مسیر مشترک</h2><span class="corporate-title-rule" aria-hidden="true"></span></div>
-      <div class="corporate-principles-grid">{principles.map(principle => <article class="corporate-principle"><Icon name={principle.icon} size={32} /><div><h3>{principle.title}</h3><p>{principle.text}</p></div></article>)}</div>
+      <div class="corporate-section-heading"><p class="corporate-english" lang="en" dir="ltr">OUR OPERATING PHILOSOPHY</p><h2 id="approach-title">{t("سه اصل، یک مسیر مشترک")}</h2><span class="corporate-title-rule" aria-hidden="true"></span></div>
+      <div class="corporate-principles-grid">{principles.map(principle => <article class="corporate-principle"><Icon name={principle.icon} size={32} /><div><h3>{t(principle.title)}</h3><p>{t(principle.text)}</p></div></article>)}</div>
     </div>
   </section>
 </div>

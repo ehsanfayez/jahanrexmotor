@@ -1,4 +1,7 @@
 ---
+import { translator } from '../data/i18n';
+const t = translator(Astro.currentLocale);
+
 import PartSlot from './PartSlot.astro';
 import Narrative from './Narrative.astro';
 import Icon from './Icon.astro';
@@ -8,10 +11,10 @@ import { stageGroups, chapterGroups, stageTravel } from '../data/cinematic-story
 import '../styles/cinematic-hero.css';
 import '../styles/mobile-cinematic.css';
 ---
-<section id="parts" class="cinematic-experience" data-experience style={`--story-travel:${stageTravel}svh`} aria-label="روایت حرکت؛ جهانرکسان موتور">
+<section id="parts" class="cinematic-experience" data-experience style={`--story-travel:${stageTravel}svh`} aria-label={t("روایت حرکت؛ جهانرکسان موتور")}>
   <div class="cinematic-stage" data-stage>
     <div class="scene-background" aria-hidden="true"><div class="studio-light"></div><div class="studio-plane"></div><div class="chapter-atmosphere brake-atmosphere" data-brake-light></div><div class="chapter-atmosphere body-atmosphere" data-body-light></div><div class="chapter-atmosphere cabin-atmosphere" data-cabin-light></div><div class="flow-light" data-flow-light></div></div>
-    <div class="parts-layer" aria-label="نمایش پیوسته اجزای خودرو">
+    <div class="parts-layer" aria-label={t("نمایش پیوسته اجزای خودرو")}>
       <div class="visual-window" data-visual-window>
         <div class="composition-reference" aria-hidden="true"><span>JRM — AUTOMOTIVE COLLECTION</span><strong>MOTION<br /><em>IN DETAIL.</em></strong></div>
         {stageGroups.map(group => <div class:list={['composition-group', `${group.id}-group`]} data-group={group.id}>
@@ -22,25 +25,25 @@ import '../styles/mobile-cinematic.css';
     <div class="content-layer">
       <article class="experience-panel hero-panel" data-panel="hero" aria-labelledby="hero-title">
         <div class="panel-copy">
-          <p class="experience-eyebrow hero-eyebrow"><i></i><span>در امتداد حرکت</span><span lang="en" dir="ltr">JAHANREXAN / MOTOR</span></p>
-          <h1 id="hero-title">جهانرکسان موتور</h1>
-          <p class="experience-subtitle"><span>کیفیت در حرکت،</span> اطمینان در مسیر</p>
-          <p class="experience-description">فعال در حوزه قطعات و مجموعه‌های خودرویی، با تمرکز بر کیفیت، شناخت فنی و توسعه همکاری‌های حرفه‌ای.</p>
-          <p class="hero-domain">پیشرانه <i> / </i> شاسی <i> / </i> بدنه <i> / </i> کابین</p>
+          <p class="experience-eyebrow hero-eyebrow"><i></i><span>{t("در امتداد حرکت")}</span><span lang="en" dir="ltr">JAHANREXAN / MOTOR</span></p>
+          <h1 id="hero-title">{t("جهانرکسان موتور")}</h1>
+          <p class="experience-subtitle"><span>{t("کیفیت در حرکت،")}</span> {t("اطمینان در مسیر")}</p>
+          <p class="experience-description">{t("فعال در حوزه قطعات و مجموعه‌های خودرویی، با تمرکز بر کیفیت، شناخت فنی و توسعه همکاری‌های حرفه‌ای.")}</p>
+          <p class="hero-domain">{t("پیشرانه")}<i> / </i>{t("شاسی")}<i> / </i>{t("بدنه")}<i> / </i>{t("کابین")}</p>
         </div>
-        <div class="panel-static-visual static-hero" aria-label="پیشرانه، بدنه و کابین">
+        <div class="panel-static-visual static-hero" aria-label={t("پیشرانه، بدنه و کابین")}>
           <div class="static-hero-engine" data-mobile-asset={parts.engine.id}><PartSlot asset={parts.engine} priority eager /></div>
           <div class="static-hero-bumper" data-mobile-asset={parts.bumper.id}><PartSlot asset={parts.bumper} /></div>
           <div class="static-hero-seat" data-mobile-asset={parts.seat.id}><PartSlot asset={parts.seat} /></div>
         </div>
-        <div class="panel-actions"><a class="button button-orange" href="#powertrain">آشنایی با ما <span aria-hidden="true">↙</span></a><a class="button button-secondary" href={`tel:${contact.phone}`}>ارتباط با ما <Icon name="phone-call" size={20} /></a></div>
-        <p class="hero-endnote"><span>شناخت فنی</span><i aria-hidden="true"></i><span>کیفیت قطعات</span><i aria-hidden="true"></i><span>همکاری حرفه‌ای</span></p>
+        <div class="panel-actions"><a class="button button-orange" href="#powertrain">{t("آشنایی با ما")}<span aria-hidden="true">↙</span></a><a class="button button-secondary" href={`tel:${contact.phone}`}>{t("ارتباط با ما")}<Icon name="phone-call" size={20} /></a></div>
+        <p class="hero-endnote"><span>{t("شناخت فنی")}</span><i aria-hidden="true"></i><span>{t("کیفیت قطعات")}</span><i aria-hidden="true"></i><span>{t("همکاری حرفه‌ای")}</span></p>
       </article>
       <Narrative />
       <span id="brand-statement" class="story-anchor" data-anchor="brand-statement" style="--anchor-progress:.94" aria-hidden="true"></span>
       <Coverage />
     </div>
-    <div class="experience-footer" data-experience-footer><span lang="en" dir="ltr">JAHANROKSAN MOTOR <b>PARTS / 01—05</b></span><nav aria-label="روایت حرکت"><a href="#parts" data-story-link="hero">آغاز</a>{scenes.map((scene,index) => <a href={`#${scene.id}`} data-story-link={chapterGroups[index]}>{['پیشرانه','شاسی','بدنه','کابین'][index]}</a>)}<a href="#brand-statement" data-story-link="coverage">نگاه جامع</a></nav><span class="experience-scroll">اسکرول برای ادامه <i aria-hidden="true">↓</i></span></div>
+    <div class="experience-footer" data-experience-footer><span lang="en" dir="ltr">JAHANROKSAN MOTOR <b>PARTS / 01—05</b></span><nav aria-label={t("روایت حرکت")}><a href="#parts" data-story-link="hero">{t("آغاز")}</a>{scenes.map((scene,index) => <a href={`#${scene.id}`} data-story-link={chapterGroups[index]}>{t(['پیشرانه','شاسی','بدنه','کابین'][index])}</a>)}<a href="#brand-statement" data-story-link="coverage">{t("نگاه جامع")}</a></nav><span class="experience-scroll">{t("اسکرول برای ادامه")}<i aria-hidden="true">↓</i></span></div>
   </div>
 </section>
 <div class="corporate-transition" aria-hidden="true"></div>

@@ -1,4 +1,7 @@
 ---
+import { translator } from '../data/i18n';
+const t = translator(Astro.currentLocale);
+
 import { scenes } from '../data/landing';
 import { stageGroups, chapterGroups, chapterNames, chapterProgress } from '../data/cinematic-story';
 import PartSlot from './PartSlot.astro';
@@ -15,16 +18,16 @@ import { mobileDescriptions } from '../data/mobile-story';
     {index === 2 && <span id="more-parts" class="story-anchor" data-anchor="more-parts" style={anchorStyle} aria-hidden="true"></span>}
     <article class:list={['experience-panel', `${chapterGroups[index]}-panel`]} data-panel={chapterGroups[index]} aria-labelledby={`${scene.id}-title`}>
       <div class="panel-copy">
-        <p class="experience-eyebrow"><span class="editorial-number">{scene.number}</span><span lang="en" dir="ltr">{scene.note}</span></p>
-        <h2 id={`${scene.id}-title`}>{scene.title[0]}<br /><span>{scene.title[1]}</span></h2>
-        <p class="experience-description"><span class="default-story-copy">{scene.text}</span><span class="mobile-story-copy">{mobileDescriptions[chapterGroups[index]]}</span></p>
-        <ul class="experience-tags">{scene.tags.map(tag => <li>{tag}</li>)}</ul>
-        <p class="chapter-meta"><span>{['توان، در جزئیات','اطمینان، در هر حرکت','هویت، در هر نگاه','تجربه، از نزدیک'][index]}</span><span lang="en" dir="ltr">{scene.en}</span></p>
+        <p class="experience-eyebrow"><span class="editorial-number">{Astro.currentLocale === 'en' ? String(index + 1).padStart(2, '0') : scene.number}</span><span lang="en" dir="ltr">{scene.note}</span></p>
+        <h2 id={`${scene.id}-title`}>{t(scene.title[0])}<br /><span>{t(scene.title[1])}</span></h2>
+        <p class="experience-description"><span class="default-story-copy">{t(scene.text)}</span><span class="mobile-story-copy">{t(mobileDescriptions[chapterGroups[index]])}</span></p>
+        <ul class="experience-tags">{scene.tags.map(tag => <li>{t(tag)}</li>)}</ul>
+        <p class="chapter-meta"><span>{t(['توان، در جزئیات','اطمینان، در هر حرکت','هویت، در هر نگاه','تجربه، از نزدیک'][index])}</span><span lang="en" dir="ltr">{scene.en}</span></p>
       </div>
       <div class:list={['panel-static-visual', `static-${group.id}`]} aria-label={scene.note}>
         {group.items.map(item => <div class="static-part" data-mobile-asset={item.asset.id} style={`--part-left:${item.pose.left}%;--part-top:${item.pose.top}%;--part-width:${item.pose.width}%;--part-depth:${item.depth}`}><PartSlot asset={item.asset} /></div>)}
       </div>
-      <div class="panel-actions"><a class="text-link" href={next ? `#${next.id}` : '#brand-statement'}>{next ? `فصل بعد؛ ${chapterNames[index + 1]}` : 'از قطعه‌ها، به یک نگاه مشترک'} <span aria-hidden="true">↓</span></a></div>
+      <div class="panel-actions"><a class="text-link" href={next ? `#${next.id}` : '#brand-statement'}>{next ? `${t('فصل بعد؛ ')}${t(chapterNames[index + 1])}` : t('از قطعه‌ها، به یک نگاه مشترک')} <span aria-hidden="true">↓</span></a></div>
     </article>
   </>;
 })}

@@ -1,0 +1,31 @@
+---
+import '../tailwind.css';
+import Header from '../components/Header.astro';
+import Hero from '../components/Hero.astro';
+import Capabilities from '../components/Capabilities.astro';
+import Contact from '../components/Contact.astro';
+import Footer from '../components/Footer.astro';
+import Network from '../components/Network.astro';
+import { translator } from '../data/i18n';
+import '../styles/landing.css';
+import '../styles/localization.css';
+const locale = Astro.currentLocale === 'en' ? 'en' : 'fa';
+const t = translator(locale);
+const canonical = Astro.site ? new URL(locale === 'en' ? '/en/' : '/', Astro.site) : undefined;
+---
+<!doctype html>
+<html lang={locale} dir={locale === 'en' ? 'ltr' : 'rtl'}>
+<head>
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#222831" />
+<meta name="description" content={t('جهانرکسان موتور؛ روایتی از دقت، حرکت و ارتباط در دنیای قطعات خودرو. آشنایی با حوزه‌های فعالیت و مسیر همکاری.')} />
+<title>{t('جهانرکسان موتور | حرکت، از جزئیات آغاز می‌شود')}</title>
+{canonical && <link rel="canonical" href={canonical} />}
+{Astro.site && <><link rel="alternate" hreflang="fa" href={new URL('/', Astro.site)} /><link rel="alternate" hreflang="en" href={new URL('/en/', Astro.site)} /><link rel="alternate" hreflang="x-default" href={new URL('/', Astro.site)} /></>}
+<link rel="icon" href="/favicon.png?v=81be7fd05fa3" type="image/png" sizes="512x512" />
+<link rel="preload" href="/fonts/Vazirmatn.woff2" as="font" type="font/woff2" crossorigin />
+</head>
+<body><a class="skip-link" href="#main">{t('رفتن به محتوای اصلی')}</a><Header />
+<main id="main"><Hero /><Capabilities /><Contact /><Network /></main><Footer />
+<script>import '../scripts/landing';</script>
+</body></html>
