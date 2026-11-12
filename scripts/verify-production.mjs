@@ -27,7 +27,7 @@ for (const [file, lang, dir] of [['dist/index.html', 'fa', 'rtl'], ['dist/en/ind
   const text = page.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<[^>]+>/g, '');
   if (lang === 'en' && /[\u0600-\u06ff]/.test(text)) throw new Error('Untranslated English content');
   for (const domain of ['https://jahanrex.com/', 'https://rahavardtaklan.ir/', 'https://astroai.ir/']) {
-    if (page.split(`href="${domain}"`).length !== 3) throw new Error(`Missing company links: ${domain}`);
+    if (page.split(`href="${domain}"`).length !== 2) throw new Error(`Missing company links: ${domain}`);
   }
 }
 console.log(`Verified both locales, ${references.length} production asset paths, ${manifest.length} preserved originals and their responsive derivatives, approved phone links, and clean uninstrumented HTML.`);

@@ -2,6 +2,7 @@ import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { setupCinematicHero } from './cinematic-hero';
 import { setupMobileCinematicHero } from './mobile-cinematic';
+import { setupBusinessNetwork } from './business-network';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -65,6 +66,7 @@ function initializeLanding() {
   const media = gsap.matchMedia();
   setupCinematicHero(media, hero);
   setupMobileCinematicHero(media, hero);
+  setupBusinessNetwork(media);
   const reportStoryTriggers = () => {
     const stories = ScrollTrigger.getAll().filter(trigger => trigger.vars.id === 'automotive-experience' || trigger.vars.id === 'automotive-mobile');
     hero.dataset.storyTriggerCount = String(stories.length);

@@ -44,3 +44,12 @@ playwright-report/
 *~
 Thumbs.db
 Desktop.ini
+
+# Local design references, internal delivery notes and visual QA evidence
+/design-references/
+/docs/screenshots/
+/docs/business-network*.md
+/docs/final-brand-refinement.md
+/docs/logo-integration.md
+# Unreferenced legacy network derivatives; reproducible with prepare-network.mjs
+/public/images/network/optimized/

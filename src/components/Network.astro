@@ -1,18 +1,42 @@
 ---
-import { companies } from '../data/network';
-import { translator } from '../data/i18n';
+import { companies, networkContent } from '../data/network';
 import Icon from './Icon.astro';
 import '../styles/network-footer.css';
+import '../styles/business-network.css';
 const locale = Astro.currentLocale === 'en' ? 'en' : 'fa';
-const t = translator(locale);
+const accent = locale === 'fa' ? 'برندها' : 'brands';
+const [headingStart, headingEnd] = networkContent.heading[locale].split(accent);
 ---
-<section id="network" class="network" aria-labelledby="network-title">
-  <div class="shell">
-    <div class="network-heading"><p class="network-eyebrow" lang="en" dir="ltr">OUR NETWORK</p><h2 id="network-title">{t('مجموعه‌های هم‌مسیر')}</h2><span class="network-rule" aria-hidden="true"></span><p>{t('هم‌افزایی در زنجیره تأمین و عرضه محصولات و تجهیزات خودرویی')}</p></div>
-    <ol class="network-list">{companies.map((company, index) => <li class="network-row">
-      <span class="network-index" dir="ltr">{String(index + 1).padStart(2, '0')}</span>
-      <div class="network-copy"><h3><a href={company.url} target="_blank" rel="noopener noreferrer" aria-label={`${company.name[locale]} — ${t('در پنجرهٔ جدید')}`}>{company.name[locale]}</a></h3><p>{company.description[locale]}</p></div>
-      <a class="network-domain" href={company.url} target="_blank" rel="noopener noreferrer" aria-label={`${new URL(company.url).hostname} — ${t('در پنجرهٔ جدید')}`}><span dir="ltr">{new URL(company.url).hostname}</span><Icon name="arrow-up-right" size={24} /></a>
-    </li>)}</ol>
+<section id="network" class="network network-business" data-business-network aria-labelledby="network-title">
+  <svg class="business-transition business-transition--opening" viewBox="0 0 1000 32" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 0H1000L0 32Z" fill="#222831"/><path d="M0 31.5 1000 .5" fill="none" stroke="#c78b43" stroke-opacity=".65" vector-effect="non-scaling-stroke"/></svg>
+  <div class="shell business-shell">
+    <header class="business-heading" data-network-intro>
+      <p class="business-eyebrow" lang="en" dir="ltr">{networkContent.eyebrow}</p>
+      <h2 id="network-title">{headingStart}<span class="business-title-accent">{accent}</span>{headingEnd}</h2>
+      <p class="business-intro">{networkContent.intro[locale]}</p>
+    </header>
+    <div class="business-stage">
+      <svg class="business-connections" data-network-connections viewBox="0 0 1000 1000" preserveAspectRatio="none" aria-hidden="true" focusable="false"><defs><radialGradient id="network-wire"><stop stop-color="#f0c27c"/><stop offset=".55" stop-color="#cf9349" stop-opacity=".95"/><stop offset="1" stop-color="#a66b30" stop-opacity=".35"/></radialGradient></defs><path class="business-wire-ambient" d="M500 500H25M500 500H975M500 500V25M500 500V975"/><path class="business-wire-core" d="M500 500H25M500 500H975M500 500V25M500 500V975"/><g fill="#dca455"><circle cx="25" cy="500" r="1.8"/><circle cx="975" cy="500" r="1.8"/><circle cx="500" cy="25" r="1.8"/><circle cx="500" cy="975" r="1.8"/></g></svg>
+      <ol class="business-grid">
+        {companies.map((company) => <li class:list={['business-panel', 'business-panel--' + company.id]} data-network-panel={company.id}>
+          <article class="business-panel-surface" aria-labelledby={'network-' + company.id}>
+            <div class="business-copy">
+              <p class="business-category"><Icon name={company.icon} size={26} /><span>{company.label[locale]}</span></p>
+              <h3 class="business-name" id={'network-' + company.id}>{company.name[locale]}</h3>
+              {company.emphasis && <p class="business-emphasis">{company.emphasis[locale]}</p>}
+              <p class="business-description">{company.description[locale]}</p>
+              {company.url && <a class="business-link" href={company.url} target="_blank" rel="noopener noreferrer" aria-label={company.name[locale] + ' — ' + networkContent.website[locale] + ' — ' + networkContent.newWindow[locale]}>{networkContent.website[locale]}<Icon name="arrow-up-right" size={18} /></a>}
+            </div>
+            <div class="business-art">
+              <picture><img src={'/images/network/' + company.image + '.png'} alt={company.alt[locale]} width="1122" height="1402" loading="lazy" decoding="async" /></picture>
+            </div>
+          </article>
+        </li>)}
+      </ol>
+      <div class="business-emblem-position">
+        <div class="business-emblem" data-network-emblem><img src="/images/brand/jahanrexan-symbol.png" alt="" width="658" height="383" loading="lazy" decoding="async" /><strong>{locale === 'fa' ? 'جهانرکسان موتور' : 'Jahanrexan Motor'}</strong><span lang="en" dir="ltr">JAHANREXAN MOTOR</span></div>
+      </div>
+    </div>
   </div>
+  <svg class="business-transition business-transition--closing" viewBox="0 0 1000 32" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path d="M0 32H1000V0Z" fill="#121c28"/><path d="M0 31.5 1000 .5" fill="none" stroke="#c78b43" stroke-opacity=".65" vector-effect="non-scaling-stroke"/></svg>
 </section>
